@@ -1,0 +1,1001 @@
+fullVisitorId,hits,newVisits,pageviews,totalTransactionRevenue,transactions,timeOnSite,browser_name,browser_width,browser_height,deviceCategory,operatingSystem,language,country,city,paymentMethod,itemCount
+9snfv8zgbgwraswm,37,0,6,35950.0,1,305,Safari,1204,725,Desktop,OS X,fr-FR,France,Paris,CREDIT_CARD ,4
+qmty2k75p0htf0we,38,1,11,27700.0,1,501,Chrome,2048,970,Desktop,OS X,fr-FR,France,Le Burgaud,CREDIT_CARD ,4
+18120321565700561,39,0,7,66830.0,1,350,Safari,1112,731,Desktop,OS X,fr-FR,France,Saint-Max,CREDIT_CARD ,5
+9m452s2s2bqrv1fq,39,0,12,69950.0,1,793,Safari,375,635,Mobile Phone,iOS,fr-FR,France,Toulouse,CREDIT_CARD ,2
+xqeqqa0ay7w9w4bx,39,1,10,35950.0,1,592,MIUI Browser,393,667,Mobile Phone,Android,fr-FR,France,Lyon,PayPal ,1
+cn2rzgms564asa7c,41,1,8,30950.0,1,503,Edge,1138,546,Desktop,Windows 10,fr-FR,France,,CREDIT_CARD ,4
+tt7phvj6pbsv2xrc,42,1,9,35850.0,1,727,Edge,1536,751,Desktop,Windows 10,fr-CA,Canada,Blainville,CREDIT_CARD ,4
+wvwd7yvzq6bqcc42,42,0,10,27630.0,1,1274,Chrome,1366,625,Desktop,Windows 10,fr-FR,France,La Roche-sur-Yon,CREDIT_CARD ,3
+xt3szmaftaq5089e,42,1,12,70950.0,1,336,Chrome,1920,937,Desktop,Windows 8.1,fr-FR,France,,CREDIT_CARD ,2
+y5p2gce8da6szxm5,43,1,9,40450.0,1,1878,Chrome,1280,610,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,4
+8brqwkkhah64ers5,43,0,7,112500.0,1,833,Chrome Mobile,412,652,Mobile Phone,Android,fr-FR,France,,CREDIT_CARD ,6
+fqysjaxk5aj7nr88,44,0,5,37070.0,1,244,Safari,375,635,Mobile Phone,iOS,fr-FR,France,,CREDIT_CARD ,4
+dnqvzbbfktwpf64a,44,1,11,29950.0,1,788,Chrome Mobile,412,813,Mobile Phone,Android,fr-FR,France,Champigny-sur-Marne,CREDIT_CARD ,4
+64zc3ecs5yv5cnz0,44,0,7,101000.0,1,275,Safari,375,544,Mobile Phone,iOS,fr-FR,France,Roquebrune-Cap-Martin,PayPal ,5
+37hs056b70ap9t6a,45,0,10,43550.0,1,405,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Tucquegnieux,CREDIT_CARD ,4
+19pzc2e5p81gy8ee,45,1,13,59950.0,1,238,Chrome,1920,1007,Desktop,Windows 10,fr-FR,France,Paris,PayPal ,4
+djmz63ny8xdvxjt9,45,1,6,176000.0,1,155,Safari,1440,862,Desktop,OS X,fr-FR,France,Cannes,PayPal ,6
+gcqd5df4zq8jjfff,48,0,16,33950.0,1,557,Chrome,1360,666,Desktop,OS X,fr-FR,France,Paris,CREDIT_CARD ,4
+35f03m7x6kfajq66,49,1,7,34980.0,1,878,Safari,1024,616,Tablet,iOS,fr-FR,France,Langon,CREDIT_CARD ,4
+8qp5y60pk2xwz3ft,49,1,8,40450.0,1,336,Safari,375,553,Mobile Phone,iOS,fr-FR,France,,CREDIT_CARD ,4
+yb74shn0ggpstf47,49,1,14,64010.0,1,665,Samsung Browser,360,605,Mobile Phone,Android,fr-FR,France,,CREDIT_CARD ,5
+19090616464533040,50,0,8,98250.0,1,313,Samsung Browser,412,678,Mobile Phone,Android,fr-FR,France,Alençon,PayPal ,8
+19101008332209482,51,0,5,80000.0,1,208,Safari,610,573,Desktop,OS X,fr-FR,France,Paris,CREDIT_CARD ,8
+7y2pp0thzasp99tz,51,1,6,49310.0,1,799,Chrome,1920,969,Desktop,Windows 10,fr-FR,France,,CREDIT_CARD ,5
+zmtmdjwkzv6py7b1,51,0,18,33000.0,1,2053,Chrome,1280,609,Desktop,Windows 10,fr-FR,France,Villeurbanne,GIFT_CERTIFICATE CREDIT_CARD ,4
+e5sjjf8hr715pjbw,52,0,8,35850.0,1,419,Safari,414,622,Mobile Phone,iOS,fr-FR,France,Lyon,CREDIT_CARD ,4
+fsks7kx84kmp1gw6,52,1,14,34980.0,1,504,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Brie-Comte-Robert,CREDIT_CARD ,4
+19100216360069004,53,0,5,127800.0,1,262,Safari,1372,789,Desktop,OS X,fr-FR,France,Frevent,CREDIT_CARD ,7
+19082209265769658,53,0,5,133000.0,1,180,Safari,768,921,Desktop,OS X,fr-FR,France,Saint-Genis-Pouilly,CREDIT_CARD ,8
+19070919571285788,53,0,14,73950.0,1,732,Chrome Mobile,412,723,Mobile Phone,Android,fr,France,Paris,CREDIT_CARD ,3
+krc6qfxr6br4khfx,54,1,10,38330.0,1,486,Chrome,1280,610,Desktop,Windows 10,fr-FR,France,Courbevoie,CREDIT_CARD ,4
+xtak8n3q597t29xk,54,1,16,41550.0,1,1168,Chrome,1067,464,Desktop,Windows 10,fr-FR,France,La Rochelle,CREDIT_CARD ,5
+ehe6t4493kmbv46q,55,0,11,115000.0,1,718,Chrome,1680,939,Desktop,Windows 10,en-US,France,Paris,CREDIT_CARD ,6
+h62txb169ye821yy,55,1,9,133000.0,1,434,Safari,1012,705,Desktop,OS X,en-US,France,Paris,PayPal ,7
+hrnb5nfskhhptg4k,55,1,16,39950.0,1,1503,Safari,414,622,Mobile Phone,iOS,en-GB,France,,CREDIT_CARD ,4
+x8vwpr8rd2c9f2gm,55,0,12,71500.0,1,790,Edge,1024,657,Tablet,iOS,fr-FR,France,Ivry-sur-Seine,PayPal ,7
+y56mpdknt6qz4j9z,55,1,15,110000.0,1,1092,Firefox,1280,557,Desktop,Windows 10,fr,France,Suresnes,CREDIT_CARD ,7
+5bcp5yp0rn008d3v,55,1,12,60070.0,1,1232,Chrome,1536,754,Desktop,Windows 10,en-US,France,Paris,CREDIT_CARD ,5
+gn92yrwj51vxaess,56,0,10,35950.0,1,254,Safari,1440,755,Desktop,OS X,fr-FR,France,Paris,CREDIT_CARD ,4
+19101422165926759,57,0,14,89250.0,1,1447,Chrome,1280,689,Desktop,Windows 10,fr-FR,France,Morlaix,CREDIT_CARD ,8
+cc497pa6bzgvv69h,57,1,11,153000.0,1,658,Chrome,1280,631,Desktop,Windows 8,fr-FR,France,Francueil,CREDIT_CARD ,6
+3ar637reazemmxbe,57,1,11,33980.0,1,738,Chrome Mobile,360,560,Mobile Phone,Android,fr-FR,France,Lille,CREDIT_CARD ,4
+rsjfeyxv7yf2f8d3,58,1,13,65950.0,1,1167,Chrome,1440,718,Desktop,OS X,fr-FR,France,,CREDIT_CARD ,6
+19042121552403125,58,0,13,111700.0,1,1857,Chrome,1368,802,Desktop,Windows 10,en-GB,France,Haute-Kontz,CREDIT_CARD ,6
+37hx1sprkxzq09y9,59,1,20,65950.0,1,1216,Chrome Mobile,360,612,Mobile Phone,Android,fr-FR,France,,CREDIT_CARD ,6
+sze1ejh0dvksadda,60,0,27,15950.0,1,841,Chrome,1920,969,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,4
+18091220223142765,61,0,10,90000.0,1,806,Samsung Browser,1280,671,Tablet,Android,fr-FR,France,Toulouse,CREDIT_CARD ,9
+f2kypb2hq3e1qwnw,61,0,17,55950.0,1,1152,Chrome,1920,969,Desktop,Windows 10,fr-FR,France,Suresnes,CREDIT_CARD ,2
+yrxxxx74dte7btz8,62,1,12,87000.0,1,526,Chrome,1366,635,Desktop,Windows 10,en-US,United Kingdom,,PayPal ,6
+5ecjxy9pgcz0ra35,63,1,18,65950.0,1,1147,Edge,1024,706,Desktop,Windows 10,fr-FR,France,Grasse,PayPal ,6
+szzvy9k7rxczd20r,63,0,11,85000.0,1,459,Samsung Browser,360,577,Mobile Phone,Android,fr-FR,France,Bron,CREDIT_CARD ,8
+vg3h30y22ec392ae,63,1,22,41950.0,1,734,Chrome Mobile,393,738,Mobile Phone,Android,fr-FR,France,Dompierre-sur-Yon,PayPal ,6
+bgwvhn3y7rx36fbf,63,0,13,101000.0,1,700,Chrome,1920,888,Desktop,Windows 10,fr-FR,France,Eguilles,CREDIT_CARD ,6
+8zdama9hjpfv4rsm,65,1,12,82870.0,1,1112,Chrome,1680,939,Desktop,Windows 7,fr-FR,France,Paris,CREDIT_CARD ,9
+18122018331953671,65,0,16,90000.0,1,745,Chrome,1339,640,Desktop,Windows 10,fr-FR,France,Besançon,CREDIT_CARD ,7
+19082704414894630,66,0,5,137000.0,1,185,Safari,414,703,Mobile Phone,iOS,fr-CH,Switzerland,Geneva,CREDIT_CARD ,13
+fhdqgjyav6sp92ye,66,1,9,211000.0,1,412,Safari,1024,694,Tablet,iOS,fr-FR,France,,PayPal ,12
+7ff358cjf898chfy,66,1,9,143000.0,1,359,Firefox,1536,728,Desktop,Windows 10,fr,France,Begles,CREDIT_CARD ,8
+0sya868jsck3nnag,68,0,20,76000.0,1,927,Chrome,1920,937,Desktop,Windows 7,fr-FR,France,Paris,CREDIT_CARD ,7
+c2hzs4yy2b80zrf9,68,1,15,108000.0,1,860,Safari,375,635,Mobile Phone,iOS,th-TH,France,,CREDIT_CARD ,8
+98e2npyhfp78bht0,69,1,18,115000.0,1,1028,Chrome,1600,789,Desktop,Windows 10,fr-FR,France,Gien,CREDIT_CARD ,6
+z4bsr7hg51m2gzbz,69,1,15,74250.0,1,670,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Aulnay-sous-Bois,PayPal ,7
+989sh6zc86r37y1m,70,1,28,64450.0,1,1040,Chrome,1366,657,Desktop,Windows 10,fr-FR,France,Chazelles-sur-Lyon,CREDIT_CARD ,5
+c8sbzy1f27jxxhfs,70,0,36,110000.0,1,3202,Edge,1438,732,Desktop,Windows 10,fr-FR,France,,CREDIT_CARD ,5
+19011411043708157,70,0,21,35950.0,1,1317,Firefox,1366,632,Desktop,Windows 7,fr,France,Vannes,PayPal ,3
+3me8ta9vbnp7cmrw,71,1,23,120000.0,1,1480,Chrome,1191,569,Desktop,Windows 10,fr-FR,France,Ferrette,CREDIT_CARD ,7
+19090501460354693,71,0,25,69950.0,1,2672,Safari,1366,705,Desktop,OS X,fr-FR,France,Ivry-sur-Seine,CREDIT_CARD ,6
+4jcfa133jne4748v,71,1,27,35950.0,1,1181,Chrome,1280,598,Desktop,OS X,fr-FR,France,Strasbourg,CREDIT_CARD ,4
+29j69y675qgcbmbn,71,1,13,78600.0,1,716,Firefox,1154,745,Desktop,Windows 7,fr,France,Paris,CREDIT_CARD ,7
+axyge4ks8ne4j4rv,72,1,18,187900.0,1,327,Chrome,1920,1057,Desktop,Windows 7,fr-FR,France,Dole,PayPal ,7
+7d4ndatf7t2v8ra9,72,1,19,131800.0,1,944,Safari,375,537,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,8
+rsvczjqyvfgtbqcw,72,1,25,65950.0,1,963,Safari,375,559,Mobile Phone,iOS,fr-FR,France,Boulogne-Billancourt,CREDIT_CARD ,6
+k55kprekk3dc4tdr,73,1,24,74200.0,1,977,Chrome,1600,757,Desktop,Windows 10,fr-FR,France,Lyon,CREDIT_CARD ,6
+19040422351885296,73,0,18,83500.0,1,1397,Chrome,1920,969,Desktop,Windows 7,fr-FR,France,Annonay,CREDIT_CARD ,7
+0pkqvsrwcjczf36k,74,1,33,63700.0,1,1895,Safari,810,977,Desktop,OS X,fr-FR,France,Saint-Didier-au-Mont-d'Or,PayPal ,5
+sk3npasssypkwscw,74,1,17,112000.0,1,1146,Samsung Browser,360,668,Mobile Phone,Android,fr-FR,France,,CREDIT_CARD ,7
+qxwa9bt4jj54aks4,76,0,10,86000.0,1,610,Safari,1112,731,Desktop,OS X,fr-FR,France,Goussainville,CREDIT_CARD ,11
+97am2ypc91pp9w1m,77,0,34,65950.0,1,3459,Chrome Mobile,1280,663,Tablet,Android,fr,France,Illkirch-Graffenstaden,CREDIT_CARD ,6
+chgfyz47ncwpmc6d,78,0,9,65950.0,1,839,Chrome Mobile,412,764,Mobile Phone,Android,fr-FR,France,Lille,PayPal ,6
+39s9qyy21k0enanb,79,1,15,90500.0,1,549,Safari,414,719,Mobile Phone,iOS,fr-FR,France,Le Kremlin-Bicetre,CREDIT_CARD ,9
+0cczqcnyqzrh5x3w,79,1,32,70000.0,1,1668,Safari,1024,666,Tablet,iOS,fr-FR,France,Tarnos,CREDIT_CARD ,5
+zwwm8db4p53dasjx,79,1,15,89250.0,1,969,Firefox,1440,799,Desktop,OS X,fr,France,Mauze-sur-le-Mignon,CREDIT_CARD ,9
+9921tqp8dr66kk3m,81,1,22,111200.0,1,1482,Safari,1440,767,Desktop,OS X,fr-FR,France,Bry-sur-Marne,CREDIT_CARD ,9
+83yg4qh9ajaa74k6,81,1,24,165000.0,1,880,Edge,1707,766,Desktop,Windows 10,fr-FR,France,Châtenay-Malabry,PayPal ,8
+34nysf1egg6hk1gj,82,1,10,112500.0,1,1076,Samsung Browser,1280,696,Tablet,Android,fr-FR,France,Chirens,CREDIT_CARD ,6
+ah80g9mc39r4skz9,83,1,22,74630.0,1,1045,Chrome Mobile,360,612,Mobile Phone,Android,fr-FR,France,Paris,CREDIT_CARD ,6
+55bxb6e5djrtbkhp,84,0,26,116900.0,1,1703,Chrome Mobile,360,627,Mobile Phone,Android,fr-FR,France,Lannion,CREDIT_CARD ,9
+gxbwgkxx9jeqzh20,85,1,26,104630.0,1,2007,Chrome,1366,635,Desktop,Windows 7,fr-FR,France,,CREDIT_CARD ,8
+ghxyvdbr5fsbet2q,86,1,18,145000.0,1,798,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,,CREDIT_CARD ,8
+8wa4qjy8mtfakcmm,87,1,30,64950.0,1,1408,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Paris,PayPal ,7
+55kg0qcj6j7twknb,90,0,23,95000.0,1,750,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,Emerainville,CREDIT_CARD ,10
+19012008062415546,91,0,39,80000.0,1,1726,Safari,375,549,Mobile Phone,iOS,fr-FR,France,Draguignan,CREDIT_CARD ,7
+nr3qh4errjtzjss1,92,1,41,84750.0,1,4088,Safari,1280,800,Desktop,OS X,fr-FR,France,Soubise,CREDIT_CARD ,10
+fa92zd0h9bn0et6g,92,1,29,105500.0,1,769,Safari,414,719,Mobile Phone,iOS,fr-FR,France,Compiègne,CREDIT_CARD ,9
+86dyv9j29dhv1mtm,92,1,22,122500.0,1,1328,Safari,1024,665,Desktop,OS X,fr-FR,France,Alençon,CREDIT_CARD ,7
+v0wsvtm87kp71rfd,92,1,28,89000.0,1,1033,Safari,1440,812,Desktop,OS X,fr-FR,France,,CREDIT_CARD ,9
+gsw0hspbyg0z494q,92,1,25,100000.0,1,1113,Firefox,1920,966,Desktop,Windows 10,fr,France,Belbeuf,CREDIT_CARD ,7
+nkes92fmcd9w9gde,92,1,23,416000.0,1,1300,Firefox,1453,733,Desktop,Windows 10,fr,France,Paris,CREDIT_CARD ,8
+krntd0gpqsfb9wrt,92,1,28,33550.0,1,663,Firefox,1920,925,Desktop,Windows 8.1,fr,France,Livry-Gargan,CREDIT_CARD ,3
+32czs78z6v4aq55w,93,1,21,80000.0,1,1564,Firefox,1536,752,Desktop,Windows 7,fr,France,Jarville-la-Malgrange,CREDIT_CARD ,7
+t2gy6kx0tt3a762x,94,1,37,89250.0,1,1624,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,Francheville,CREDIT_CARD ,8
+s4kxbwhewan4vq23,95,0,29,79210.0,1,1418,Samsung Browser,360,577,Mobile Phone,Android,fr-FR,France,,CREDIT_CARD ,6
+3akj5747pa50hth9,98,1,35,87250.0,1,1152,Safari,1024,665,Tablet,iOS,fr-FR,France,Hyères,CREDIT_CARD ,7
+kkm71j3jrjc7kmcj,99,0,20,83600.0,1,2020,Samsung Browser,360,627,Mobile Phone,Android,fr-FR,France,,CREDIT_CARD ,10
+f5j6aq1d2z874q9z,99,1,38,124000.0,1,968,Chrome,1890,855,Desktop,Windows 7,fr-FR,France,,CREDIT_CARD ,8
+am00cb491y6y63zc,100,0,38,81500.0,1,1936,Firefox,1366,654,Desktop,Windows 10,fr,France,Landerneau,PayPal ,7
+fd88d4s7ffeq682a,106,0,30,87310.0,1,1435,Chrome,1280,881,Desktop,Windows 10,fr-FR,France,Lyon,CREDIT_CARD ,7
+19060617160110275,107,0,13,175000.0,1,891,Chrome,1600,757,Desktop,Windows 8.1,fr-FR,France,Saint-Agnant,CREDIT_CARD ,10
+q59crqecvtehnk7m,108,0,21,81880.0,1,1204,Safari,1024,672,Tablet,iOS,fr-FR,France,Calais,CREDIT_CARD ,11
+qn020ga0q9877m4e,108,0,33,98000.0,1,2602,Chrome,1366,625,Desktop,Windows 10,fr-FR,France,Toulon,CREDIT_CARD ,9
+15venwpnm4zfx544,109,1,55,71500.0,1,1815,Chrome,1920,898,Desktop,Windows 10,en-GB,France,Paris,PayPal ,6
+mhv4b9dy523fnr13,111,1,26,65950.0,1,1119,Firefox,1440,826,Desktop,OS X,fr,France,Chennevieres-sur-Marne,PayPal ,6
+dzfmsrpz5za1s9hq,112,0,32,122900.0,1,1610,Safari,1271,715,Desktop,OS X,fr-FR,France,Assas,CREDIT_CARD ,9
+77ybq2awhrymvrej,112,0,36,211000.0,1,1573,Firefox,1600,774,Desktop,Windows 10,fr,France,Achenheim,CREDIT_CARD ,8
+b9hj4vwyksjgpv0t,116,1,41,90000.0,1,2218,Chrome,1600,757,Desktop,Windows 10,fr-FR,France,Avenheim,CREDIT_CARD ,9
+19090910551152991,117,0,20,142490.0,1,782,Chrome,1280,921,Desktop,Windows 7,fr-FR,France,Ivry-sur-Seine,CREDIT_CARD ,11
+xrjp3rda9r5389yz,117,1,50,81000.0,1,2173,Firefox,1366,631,Desktop,Windows 10,fr,France,,CREDIT_CARD ,8
+73k09c5d3g9mzn9r,119,1,40,228000.0,1,1242,Firefox,1920,916,Desktop,Windows 10,fr,France,Castres,PayPal ,8
+18112608315439543,125,0,48,55950.0,1,2194,Chrome Mobile,1280,680,Tablet,Android,fr-FR,France,Martot,PayPal ,6
+3af1b0n1g90hqqdq,128,1,47,215500.0,1,2416,Chrome,1280,617,Desktop,Windows 10,en-US,France,,PayPal ,10
+snsays35zkw5z960,132,1,47,302500.0,1,1267,Firefox,1366,654,Desktop,Windows 7,fr,France,Paris,PayPal ,10
+e6bp0nzrf0daxmc9,139,0,33,105350.0,1,766,Samsung Browser,412,678,Mobile Phone,Android,fr-FR,France,,PayPal ,10
+9cktf3trtmja0cra,141,0,40,71760.0,1,3073,Safari,1383,839,Desktop,OS X,fr-FR,France,Besançon,CREDIT_CARD ,7
+19101117413962084,162,0,33,80000.0,1,1225,Chrome Mobile,800,1192,Tablet,Android,fr,France,Lyon,CREDIT_CARD ,7
+vnx3mv5ypftr76cy,164,1,69,90000.0,1,3310,Chrome,1280,578,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,9
+19102615185011711,165,0,58,147500.0,1,4824,Chrome,1368,770,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,11
+8twc8fjbkdhw86fp,230,1,103,93250.0,1,3669,Chrome,1536,755,Desktop,Windows 7,fr-FR,France,Sainte-Anastasie-sur-Issole,CREDIT_CARD ,11
+vfnyr3mftqb5248h,234,1,106,89250.0,1,4563,Firefox,1366,613,Desktop,Windows 7,fr,France,Dax,CREDIT_CARD ,8
+mtjsqc5aphwwr83r,235,0,33,115000.0,1,3281,Chrome Mobile,393,719,Mobile Phone,Android,fr,France,La Crau,CREDIT_CARD ,9
+wsxqv55nz7j3tsvn,76,1,19,32950.0,1,2311,Safari,375,635,Mobile Phone,iOS,fr-FR,France,Boulogne-Billancourt,CREDIT_CARD ,5
+fj7ny2422a173r0j,76,1,10,76500.0,1,1424,Safari,1024,698,Desktop,OS X,fr-FR,France,Lyon,CREDIT_CARD ,6
+xs2j5c5mtd5dybsd,103,0,18,111500.0,1,945,Firefox,1920,916,Desktop,Windows 10,fr,France,Estancarbon,CREDIT_CARD ,8
+q5jcvywxnsrgfm2d,49,1,10,80000.0,1,257,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+my6hm0c0vfvzs23k,51,1,10,91450.0,1,259,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+5mwta06766xq89y9,47,1,9,80000.0,1,247,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,2
+v8fgz7qpfgkf7bdv,47,1,9,80000.0,1,248,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,2
+xqtvhhmdn9bhgq9t,47,1,9,80000.0,1,269,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,2
+qt0jnkrpa9j28n5e,47,1,9,80000.0,1,287,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,2
+9ma6wzqt2tnkyr7c,47,1,9,80000.0,1,255,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+wzd8eqdhh912a5e8,47,1,9,80000.0,1,230,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+2yx1fepyhdq6gh6a,47,1,9,80000.0,1,224,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,2
+pe2kzx432fd7d0jr,62,1,11,41950.0,1,1147,Safari,1112,758,Tablet,iOS,fr-FR,France,Le Mesnil-Raoult,CREDIT_CARD ,6
+px396pga9t273y6v,48,1,8,80000.0,1,217,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+191zdanb3c2n2b6x,51,1,8,91450.0,1,226,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+3nece6vadq83q8kb,51,1,8,91450.0,1,194,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,2
+8nng634bp5tjg8zw,39,1,9,50950.0,1,213,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,PayPal ,1
+pzrhc4frarka8ktn,39,1,9,50950.0,1,237,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+t3e327rrs8h16pq9,39,1,9,50950.0,1,255,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE PayPal ,1
+w6zw370d6anca4dh,39,1,9,50950.0,1,213,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+ejx5gkg6168rr8gh,44,1,9,52950.0,1,227,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+mnw3h24mny4s63ae,50,1,7,91450.0,1,195,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,2
+t0btdzdgbhvnd4ys,50,1,7,91450.0,1,195,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,2
+vhg7g01bfstjg4rk,50,1,7,91450.0,1,198,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,2
+3d63vj1rwvb8kxqa,50,1,7,91450.0,1,216,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+vf168a3q3zs231yy,50,1,7,91450.0,1,178,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+2z1n6ww6h1an580n,51,1,7,91450.0,1,190,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+zm7mhkhnrq49mb5m,38,1,9,50950.0,1,246,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+hhjh1b2rnp6vpvdg,38,1,9,50950.0,1,233,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+nm4745yq8kh49azx,38,1,9,50950.0,1,302,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+sf58gmwy2b9j3vjv,38,1,9,46950.0,1,208,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+zxycrmzkr3j05ppz,38,1,9,50950.0,1,219,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE ,1
+gmj0kvvcgdpm1963,38,1,9,50950.0,1,265,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE GIFT_CERTIFICATE ,1
+8pjbd0gk4v6zqqsn,38,1,8,90000.0,1,192,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+y46k2g9e1k40yg7c,38,1,8,50950.0,1,229,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,GIFT_CERTIFICATE ,1
+mmcyq6dr0dt7zcxp,39,1,9,90000.0,1,219,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+jcefwh0pber96bb8,43,1,9,52950.0,1,212,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+ffaga1npmampc4ar,37,1,8,50950.0,1,202,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+1tz2nwtqmcy55mk9,37,1,8,50950.0,1,220,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Dublin,GIFT_CERTIFICATE ,1
+ffr522zwgfq3qmnq,37,1,8,50950.0,1,164,Safari,375,635,Mobile Phone,iOS,en-IE,Ireland,,CREDIT_CARD ,1
+8zjk6hmssd4979sz,37,1,8,50950.0,1,206,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+qrjje2ky6ya5r394,37,1,8,50950.0,1,196,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,1
+g9qt1g9n1j1ktcbf,37,1,8,50950.0,1,222,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,GIFT_CERTIFICATE ,1
+7kaavxja3yj8k81h,37,1,8,50950.0,1,217,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Dublin,GIFT_CERTIFICATE ,1
+00gfyhj8vgqfx799,37,1,8,50950.0,1,212,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,1
+xwyhn696dzdx3evc,37,1,8,50950.0,1,189,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,1
+1sc0gk0n9v8fqbxw,37,1,8,50950.0,1,207,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Dublin,GIFT_CERTIFICATE ,1
+jy5g63kmzpasg4x1,37,1,8,50950.0,1,219,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,GIFT_CERTIFICATE ,1
+04e89tphhpc20r38,37,1,8,50950.0,1,204,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+scghpd0jkb2rdpqp,37,1,8,50950.0,1,190,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+ft7r2yvxs8jhn86d,37,1,8,50950.0,1,211,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,GIFT_CERTIFICATE ,1
+5sx2337dzvg3pgzs,39,1,7,50950.0,1,158,Safari,375,635,Mobile Phone,iOS,en-IE,Ireland,,CREDIT_CARD ,1
+jxj7qh08pbwfsh48,39,1,7,50950.0,1,215,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+hq1jbd3eedq1kb37,39,1,7,50950.0,1,158,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+ccep6ch8y57cb7dd,39,1,7,50950.0,1,211,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+mzznfaqj9v27p6r5,39,1,7,50950.0,1,168,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,PayPal ,1
+27tvhfx2x1m0brp4,40,1,7,90000.0,1,196,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+r1e3yxyss3zdj4x4,73,1,8,50950.0,1,218,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+ze12z7ayhbj9yjhe,38,1,7,49950.0,1,207,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+f799q0n6e0ce1zzt,38,1,7,50950.0,1,174,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+naf0c2pc45k24aak,38,1,7,50950.0,1,216,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE PayPal ,1
+ht61qg5226chwv0x,38,1,7,50950.0,1,212,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE ,1
+hq19ps82emrpfz39,38,1,7,50950.0,1,197,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+3dq74yt7dd2hzrna,38,1,7,50950.0,1,223,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE GIFT_CERTIFICATE ,1
+bragjaazrzhgrp2d,38,1,7,46950.0,1,177,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+kw0tdqvxj6pj7sx1,38,1,7,50950.0,1,131,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,PayPal ,1
+v6w9rd0xx58a28ve,38,1,6,50950.0,1,163,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,GIFT_CERTIFICATE ,1
+ym9q9v7hcv6fnp4v,39,1,8,50950.0,1,184,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+qhdkycm4pwzbvxq1,39,1,7,50950.0,1,179,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+gbx2rzek3vxtt69v,51,1,8,50950.0,1,235,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,4
+w7yhtsyckt8c52hc,51,1,6,40450.0,1,707,Chrome Mobile,360,612,Mobile Phone,Android,fr,France,Paris,CREDIT_CARD ,4
+dxaxpqz43y146dyz,43,1,7,52950.0,1,182,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+61c8yn8w0vnfkezn,43,1,7,52950.0,1,173,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+5dan20zbdy9bzbkj,43,1,7,52950.0,1,148,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,2
+t815hb27vsgghcp6,37,1,6,50950.0,1,156,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,1
+q6zqznfsdhftsgjc,37,1,6,50950.0,1,171,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,GIFT_CERTIFICATE ,1
+azk8r52qtmgxf2n9,37,1,6,46950.0,1,155,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,1
+1ffhx593e6g4e3j1,37,1,6,50950.0,1,171,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,GIFT_CERTIFICATE ,1
+nb9p7mzhmf55ffbf,37,1,6,50950.0,1,146,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,PayPal ,1
+bxtgt3n7q06j4s69,37,1,6,46950.0,1,128,Safari,375,635,Mobile Phone,iOS,en-IE,Ireland,,CREDIT_CARD ,1
+tagt42dk72jp9g3p,37,1,6,50950.0,1,119,Safari,375,635,Mobile Phone,iOS,en-IE,Ireland,,PayPal ,1
+2y6kk7pfvrppdp10,37,1,6,50950.0,1,159,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+tk35tksbwvyx7cpn,37,1,6,46950.0,1,156,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+eh7kbk4zpq13xrvn,37,1,6,50950.0,1,191,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,GIFT_CERTIFICATE ,1
+4hv0cv20e4nqej8s,37,1,6,50950.0,1,182,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,1
+maeva8420txbwvsm,37,1,6,50950.0,1,159,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,1
+zt3hexsqw6sptjyc,37,1,6,46950.0,1,156,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,1
+anf2hfy5zfcsph8a,37,1,6,50950.0,1,144,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,PayPal ,1
+93rtdymzwz1wbabe,37,1,6,50950.0,1,154,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,PayPal ,1
+8xqm4xtqnxcw2tpr,37,1,6,50950.0,1,170,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,1
+jc05ksmeh5jef51z,37,1,6,46950.0,1,148,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,1
+1a3479ac1bxqxem6,37,1,6,50950.0,1,147,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,PayPal ,1
+29qkebbaqed84cft,37,1,6,46950.0,1,160,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+9at7680hp7etcvfb,37,1,6,50950.0,1,176,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,GIFT_CERTIFICATE ,1
+5xqytg1918q249hn,37,1,6,46950.0,1,151,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+5sdcwe81dsbxwdwa,37,1,6,50950.0,1,183,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,GIFT_CERTIFICATE ,1
+cttgyj6thp7f4t06,37,1,6,50950.0,1,153,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+nejkqm9xh8hje00t,37,1,6,46950.0,1,144,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+r7p3v7cswb0v2bqc,37,1,6,50950.0,1,159,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,GIFT_CERTIFICATE ,1
+pvmemfscdrbk7a3g,37,1,6,50950.0,1,143,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,1
+fzpc1tz2nefzbmxy,37,1,6,50950.0,1,135,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Dublin,PayPal ,1
+hk11cgh3kvwdvfv2,38,1,7,50950.0,1,176,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+z1mr4j9gg5gq2s99,38,1,7,50950.0,1,204,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+9nnn1yb3a4qkbz1q,38,1,7,50950.0,1,182,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+rzhsfapevnmj95s9,38,1,7,50950.0,1,193,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+yvdpxgfamfvnar0c,38,1,7,50950.0,1,166,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,1
+ntvyrarzxdag2761,39,1,7,50950.0,1,176,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,1
+8cb0cenycep79h2j,42,1,6,52950.0,1,158,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,2
+g3x5zd2b0r8axmb4,42,1,6,52950.0,1,163,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,2
+abw7btj0gm5h02pm,42,1,6,52950.0,1,130,Safari,375,635,Mobile Phone,iOS,en-IE,Ireland,,CREDIT_CARD ,2
+bq3q730z1z1jxqg4,42,1,6,52950.0,1,161,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+9rnd9513hr0qy66g,42,1,6,52950.0,1,162,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+6vmvwyf3w4bmpcbm,42,1,6,52950.0,1,164,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+f5eetzt2w0r46jv3,42,1,6,52950.0,1,149,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+88aq319prxr7qw2g,52,1,9,95950.0,1,201,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,4
+dyms8dzgd4b97x4b,36,0,8,18350.0,1,136,Chrome,1536,722,Desktop,Windows 10,en-US,Bulgaria,Sofia,CREDIT_CARD ,1
+37hs056b70ap9t6a,40,0,1,43550.0,1,0,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Rettel,CREDIT_CARD ,4
+fsks7kx84kmp1gw6,43,0,1,34980.0,1,0,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Brie-Comte-Robert,CREDIT_CARD ,4
+ah80g9mc39r4skz9,50,0,1,74630.0,1,0,Chrome Mobile,360,612,Mobile Phone,Android,fr-FR,France,Paris,CREDIT_CARD ,6
+h8gnp54gxzpfgdt4,70,0,1,100000.0,1,0,Chrome Mobile,375,667,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,10
+eckd1qbefnk9g6ab,71,1,1,219000.0,1,0,Safari,1024,666,Tablet,iOS,fr-FR,France,Feves,CREDIT_CARD ,10
+19101218200315749,29,1,1,39450.0,1,0,Safari,375,553,Mobile Phone,iOS,fr-FR,France,,CREDIT_CARD ,1
+19101213480549759,40,0,1,33850.0,1,0,Safari,375,635,Mobile Phone,iOS,fr-FR,Switzerland,Bern,CREDIT_CARD ,3
+19101217590691002,41,1,7,39450.0,1,575,Safari,375,553,Mobile Phone,iOS,fr-FR,France,,CREDIT_CARD ,1
+19052518512423505,48,0,13,242800.0,1,524,Chrome,1368,802,Desktop,Windows 10,fr-FR,France,Savenay,CREDIT_CARD ,4
+19100617162987144,49,0,2,120000.0,1,76,Chrome,1360,625,Desktop,Windows 10,ja-JP,Japan,Shinjuku,CREDIT_CARD ,3
+18112515105933731,49,0,7,120000.0,1,571,Safari,1024,666,Tablet,iOS,fr-FR,France,Cachan,CREDIT_CARD ,3
+19101212204236017,52,1,7,220000.0,1,298,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Halluin,CREDIT_CARD ,3
+19100617162987144,55,0,5,120000.0,1,391,Chrome,1360,625,Desktop,Windows 10,ja-JP,Japan,Shinjuku,CREDIT_CARD ,3
+19091815172093508,58,0,9,120000.0,1,380,Safari,375,667,Mobile Phone,iOS,fr-FR,France,Pontarlier,CREDIT_CARD ,3
+19101211111260266,58,0,10,38450.0,1,457,Chrome Mobile,360,600,Mobile Phone,Android,fr,France,Montmagny,CREDIT_CARD ,3
+19101300112971883,58,1,8,160000.0,1,1565,Safari,375,581,Mobile Phone,iOS,fr-FR,Belgium,Ecaussinnes-d'Enghien,CREDIT_CARD ,3
+19101213152224744,59,1,9,35950.0,1,692,Chrome,1366,625,Desktop,Windows 10,en-GB,France,Saint-Maur-des-Fossés,CREDIT_CARD ,3
+19101221160602188,61,1,9,23750.0,1,599,Safari,414,622,Mobile Phone,iOS,fr-FR,France,Nogent-sur-Marne,CREDIT_CARD ,3
+19101218340377534,64,1,13,208000.0,1,626,Chrome,912,691,Desktop,Windows 10,en-GB,United Kingdom,Walton on Thames,PayPal ,3
+19101219102229960,65,1,13,120000.0,1,426,Firefox,375,545,Mobile Phone,iOS,fr-FR,South Africa,Johannesburg,CREDIT_CARD ,3
+19032118540367354,66,0,20,123500.0,1,1435,Chrome,1600,789,Desktop,Windows 10,fr-FR,France,Herblay,CREDIT_CARD ,3
+19101218282271461,67,1,17,38450.0,1,570,Firefox,1600,764,Desktop,Windows 8.1,fr,France,Ambérieu-en-Bugey,CREDIT_CARD ,1
+19101222215812073,67,0,12,17950.0,1,1518,Safari,320,454,Mobile Phone,iOS,fr-FR,France,Sucy-en-Brie,CREDIT_CARD ,3
+19101216500803876,73,1,10,120000.0,1,568,Chrome Mobile,640,280,Mobile Phone,Android,fr,France,Paris,CREDIT_CARD ,3
+19101212392033055,74,1,12,110000.0,1,1412,Edge,1239,580,Desktop,Windows 10,fr-CH,France,Saint-Genis-Pouilly,CREDIT_CARD ,3
+19100612475910965,77,0,16,110000.0,1,755,Safari,1402,781,Desktop,OS X,fr-FR,France,Galgon,CREDIT_CARD ,3
+19082908063724365,79,0,11,86000.0,1,494,Chrome,1440,757,Desktop,Windows 7,en-US,France,Toulouse,CREDIT_CARD ,3
+19101216520431032,79,1,19,65950.0,1,977,Samsung Browser,360,520,Mobile Phone,Android,fr-FR,France,Paris,CREDIT_CARD ,3
+19101213480549759,81,1,9,33850.0,1,1442,Safari,375,635,Mobile Phone,iOS,fr-FR,Switzerland,Zurich,CREDIT_CARD ,3
+19101211531927763,81,1,15,120000.0,1,1350,Chrome Mobile,360,620,Mobile Phone,Android,fr-FR,France,Marseille,CREDIT_CARD ,3
+19100820382254689,82,0,13,75500.0,1,480,Safari,1275,664,Desktop,OS X,fr-FR,France,Ugine,CREDIT_CARD ,3
+19101215445325418,82,1,16,65000.0,1,2073,Safari,1349,742,Desktop,OS X,fr-FR,France,Coutras,CREDIT_CARD ,3
+19101213251885627,84,1,20,90200.0,1,1460,Chrome Mobile,360,600,Mobile Phone,Android,fr,France,,CREDIT_CARD ,2
+19101213035495307,86,1,14,76400.0,1,2405,Chrome,1440,789,Desktop,OS X,it-IT,France,Paris,PayPal ,3
+19071623530225968,88,0,19,77800.0,1,2490,Chrome Mobile,360,621,Mobile Phone,Android,fr,France,Compiègne,CREDIT_CARD ,3
+19100901342656771,92,0,20,74950.0,1,1191,Firefox,1600,767,Desktop,Windows 8.1,fr,France,Dieppe,CREDIT_CARD ,3
+19100212290605635,93,0,25,120000.0,1,1991,Edge,1333,744,Desktop,Windows 10,fr-FR,Réunion,La Riviere,CREDIT_CARD ,3
+19101220045821794,93,1,24,133000.0,1,1195,Chrome,1538,722,Desktop,Windows 10,fr-FR,France,Besançon,CREDIT_CARD ,4
+19101217455723809,93,1,17,101000.0,1,478,Chrome,1200,736,Desktop,OS X,fr-FR,France,Paris,CREDIT_CARD ,3
+19101119272171452,94,0,19,120000.0,1,982,Chrome Mobile,360,645,Mobile Phone,Android,fr,France,,CREDIT_CARD ,3
+19101210531198080,97,1,16,151000.0,1,696,Chrome,1600,789,Desktop,Windows 10,fr-FR,France,Ingre,CREDIT_CARD ,3
+19101219224811237,98,1,18,66550.0,1,2782,Firefox,1920,916,Desktop,Windows 10,fr,France,Le Conquet,CREDIT_CARD ,3
+19022810222531504,99,0,21,79100.0,1,924,Chrome,1440,789,Desktop,Windows 10,fr-FR,France,Vertou,CREDIT_CARD ,3
+19101222003987404,99,1,18,89500.0,1,1255,Safari,1024,698,Tablet,iOS,fr-FR,France,Clery-Saint-Andre,CREDIT_CARD ,5
+19040208263973330,102,0,17,75500.0,1,1579,Chrome,1328,752,Desktop,Windows 10,fr-FR,France,Blois,CREDIT_CARD ,3
+19100917095200223,104,0,28,69950.0,1,1815,Safari,1366,1024,Tablet,iOS,fr-FR,France,Sayat,PayPal ,3
+19061719240573087,104,0,18,99500.0,1,1047,Safari,1440,769,Desktop,OS X,fr-FR,France,Cast,CREDIT_CARD ,3
+19101222011050695,104,1,16,67450.0,1,1216,Safari,375,553,Mobile Phone,iOS,fr-FR,France,,PayPal ,3
+19101217305452691,107,0,18,150800.0,1,1776,Firefox,1920,979,Desktop,Windows 10,fr,France,Goussainville,CREDIT_CARD ,3
+19100617162987144,108,0,10,120000.0,1,3202,Chrome,1360,625,Desktop,Windows 10,ja-JP,Japan,Shinjuku,CREDIT_CARD ,3
+19101211394197035,109,1,20,138500.0,1,1592,Internet Explorer,1920,954,Desktop,Windows 8.1,fr-FR,France,Mâcon,CREDIT_CARD ,3
+19101119413105365,114,0,18,257000.0,1,1049,Firefox,1024,707,Desktop,Windows 7,fr,France,Amiens,PayPal ,3
+19101217362195698,116,1,25,82800.0,1,2283,Safari,1366,954,Desktop,OS X,fr-FR,France,Draveil,CREDIT_CARD ,5
+19091820021378733,116,0,24,90000.0,1,1125,Safari,414,896,Mobile Phone,iOS,fr-FR,France,Marseille,CREDIT_CARD ,3
+19091022325277910,120,0,30,118000.0,1,909,Safari,375,549,Mobile Phone,iOS,de-DE,France,Lauterbourg,PayPal ,3
+19062620590107724,121,0,29,155500.0,1,2088,Chrome,1920,937,Desktop,Windows 7,fr-FR,France,Le Chesnay,CREDIT_CARD ,5
+19101208012371121,126,1,36,72850.0,1,1233,Chrome,1366,625,Desktop,Windows 10,fr-FR,France,Gex,PayPal ,3
+19101213541871979,127,0,27,70950.0,1,1403,Safari,414,724,Mobile Phone,iOS,fr-FR,Réunion,Saint-Andre,CREDIT_CARD ,3
+19092917453870522,127,0,34,110000.0,1,3795,Chrome Mobile,412,652,Mobile Phone,Android,en-US,France,Armentières,CREDIT_CARD ,3
+19101209511196485,130,1,31,72450.0,1,1435,Firefox,1920,944,Desktop,Windows 10,fr,France,Saint-Cyr-sur-Mer,PayPal ,3
+19101020094809892,131,0,35,86700.0,1,3330,Chrome Mobile,1024,432,Tablet,Android,fr-FR,France,Castres,PayPal ,3
+19082115562847550,144,0,40,84000.0,1,1877,Chrome Mobile,412,718,Mobile Phone,Android,fr,France,,CREDIT_CARD ,3
+19092315030147364,149,0,23,216500.0,2,2290,Internet Explorer,1280,968,Desktop,Windows 7,fr-FR,France,Paris,CREDIT_CARD ,3
+19092315030147364,149,0,23,216500.0,2,2290,Internet Explorer,1280,968,Desktop,Windows 7,fr-FR,France,Paris,CREDIT_CARD ,3
+19101214524063344,153,0,39,70400.0,1,1623,Safari,810,935,Tablet,iOS,fr-FR,France,Groisy,CREDIT_CARD ,3
+18102911504249290,156,0,48,287800.0,1,1818,Chrome,1280,580,Desktop,Windows 8.1,fr-FR,France,Paris,CREDIT_CARD ,3
+19101300191883156,157,1,49,86000.0,1,1731,Chrome,1680,800,Desktop,OS X,fr-FR,France,Créteil,PayPal ,3
+19091212062334373,159,0,53,120000.0,1,1804,Safari,1440,743,Desktop,OS X,fr-FR,France,Cergy,CREDIT_CARD ,3
+19101213092895095,159,1,50,86000.0,1,4186,Chrome,1536,722,Desktop,Windows 10,fr-FR,France,Illzach,CREDIT_CARD ,3
+19011316363369172,162,0,39,74950.0,1,1253,Safari,1217,621,Desktop,OS X,fr-FR,France,Perols,PayPal ,3
+19101223085879090,169,0,45,83500.0,1,3454,Chrome,1920,891,Desktop,OS X,fr-FR,France,,CREDIT_CARD ,3
+19101216013517504,171,1,38,72900.0,1,2354,Firefox,1920,916,Desktop,Windows 10,fr,France,Ecully,PayPal ,3
+19091119503969942,188,0,41,92000.0,1,3082,Firefox,1378,736,Desktop,Windows Vista,fr,France,Nogent-sur-Marne,CREDIT_CARD ,3
+19101209011432895,192,1,55,151900.0,1,2220,Chrome Mobile,360,648,Mobile Phone,Android,fr,France,Paris,CREDIT_CARD ,3
+19101209241623422,212,1,55,74500.0,1,2946,Chrome,1530,692,Desktop,Windows 10,fr-FR,France,Vénissieux,CREDIT_CARD ,3
+19101222184034187,396,1,137,152800.0,1,4450,Safari,375,635,Mobile Phone,iOS,fr-FR,France,Cergy,PayPal ,4
+19101206245174925,9,1,7,50950.0,1,140,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,,CREDIT_CARD ,1
+19101206345232458,9,1,7,50950.0,1,132,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,,PayPal ,1
+19101206370081434,9,1,7,46950.0,1,144,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,,CREDIT_CARD ,1
+19101120004711901,9,1,7,50950.0,1,217,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101120214210019,9,1,7,50950.0,1,202,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE ,1
+19101202163439342,9,1,7,46950.0,1,210,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101202075265573,9,1,7,90000.0,1,225,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101202120045361,9,1,7,50950.0,1,210,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,PayPal ,1
+19101202124831157,9,1,7,50950.0,1,230,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE PayPal ,1
+19101120195208349,9,1,7,50950.0,1,216,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,Den Helder,CREDIT_CARD ,1
+19101203393518779,9,1,7,46950.0,1,190,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dundalk,CREDIT_CARD ,1
+19101203404313286,9,1,7,50950.0,1,198,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,GIFT_CERTIFICATE ,1
+19101203305126686,9,1,7,50950.0,1,182,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101203372707613,9,1,7,50950.0,1,179,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,PayPal ,1
+19101219414974496,9,1,7,50950.0,1,189,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101301453244525,9,1,7,50950.0,1,240,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+19101301440524456,9,1,7,50950.0,1,243,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE GIFT_CERTIFICATE ,1
+19101301415247257,9,1,7,50950.0,1,212,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101219501437964,9,1,7,50950.0,1,234,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+19101301555112968,9,1,7,49950.0,1,219,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101205282099211,10,1,8,50950.0,1,166,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101206383620103,10,1,8,50950.0,1,165,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101202025182857,10,1,8,90000.0,1,219,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,Den Helder,CREDIT_CARD ,2
+19101120204146160,10,1,7,53450.0,1,201,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101202155794639,10,1,7,53450.0,1,211,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101202310495066,10,1,8,50950.0,1,239,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,3
+19101203333111009,10,1,8,50950.0,1,209,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101203400956058,10,1,7,53450.0,1,192,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,2
+19101301582287853,10,1,8,50950.0,1,231,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101301544050710,10,1,8,50950.0,1,245,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101202310462454,11,1,9,50950.0,1,270,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,3
+19101120045759686,11,1,8,80000.0,1,235,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101120202106969,11,1,9,50950.0,1,226,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,PayPal ,1
+19101202145695280,11,1,9,50950.0,1,273,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE PayPal ,1
+19101202243478907,11,1,9,50950.0,1,247,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,5
+19101202092507098,11,1,9,50950.0,1,303,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+19101202170756966,11,1,9,90000.0,1,241,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101206253443955,11,1,9,50950.0,1,179,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,,CREDIT_CARD ,1
+19101202015331872,11,1,9,50950.0,1,262,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101202223032341,11,1,8,95950.0,1,242,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101202244181230,11,1,9,50950.0,1,285,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE GIFT_CERTIFICATE ,1
+19101203405287690,11,1,8,95950.0,1,217,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+19101301415020489,11,1,9,50950.0,1,224,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE ,1
+19101301460560791,11,1,9,46950.0,1,236,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,Den Helder,CREDIT_CARD ,1
+19101301504394369,11,1,9,50950.0,1,274,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+19101301485218353,11,1,9,50950.0,1,257,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101301534237506,11,1,9,50950.0,1,246,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101202004748871,12,1,9,53450.0,1,239,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101202101996173,12,1,9,95950.0,1,203,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,4
+19101301484962727,12,1,9,53450.0,1,253,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101202064767990,13,1,10,80000.0,1,275,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101301510513934,13,1,10,95950.0,1,271,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+h2n35aadg7gx3y0q,50,0,1,47950.0,1,0,Chrome Mobile,360,648,Mobile Phone,Android,fr-FR,France,Chartres,CREDIT_CARD ,4
+exnzxcp1y5tctz7p,58,1,8,502000.0,2,703,Chrome,2560,1297,Desktop,Windows 10,fr,Italy,Milan,PayPal ,2
+3xhvxzgbv46a63pg,68,0,4,63000.0,1,295,Chrome Mobile,360,560,Mobile Phone,Android,fr-FR,France,Merris,CREDIT_CARD ,6
+hcy6n5eyr03sf1h9,69,0,12,170800.0,2,299,Chrome,1536,722,Desktop,Windows 10,bg-BG,Bulgaria,Sofia,PayPal ,1
+hcy6n5eyr03sf1h9,69,0,12,170800.0,2,299,Chrome,1536,722,Desktop,Windows 10,bg-BG,Bulgaria,Sofia,PayPal ,1
+2rzc2x77erbhy11g,75,0,3,114000.0,1,99,Samsung Browser,412,716,Mobile Phone,Android,fr-FR,France,Paris,PayPal ,7
+e02nqjrn5321w7h5,77,0,1,115000.0,1,0,Safari,1112,715,Desktop,OS X,fr,France,Sanary-sur-Mer,PayPal ,8
+z58t7ztdxz0rw4bz,80,0,8,22500.0,1,513,Chrome Mobile,360,612,Mobile Phone,Android,fr,France,Paris,PayPal ,4
+gfgfbe92wazrpsej,82,0,6,32500.0,1,1254,Safari,414,697,Mobile Phone,iOS,fr,France,Bordeaux,CREDIT_CARD ,4
+h99fr29sf00j0b97,82,0,7,31250.0,1,889,Chrome,1536,754,Desktop,Windows 10,en-US,France,Ferney-Voltaire,CREDIT_CARD ,4
+3pfbhmm7059jggrs,89,1,9,23250.0,1,456,Chrome,1920,969,Desktop,Windows 10,fr-FR,France,Chatenois,CREDIT_CARD ,4
+cj1wce0k8dwqhd7g,90,1,10,62500.0,1,639,Edge,1920,937,Desktop,Windows 10,fr,France,Metz,PayPal ,5
+xvsr5djefjz7t4p3,93,1,9,30000.0,1,1457,Chrome,1680,907,Desktop,Windows 10,fr-FR,France,Lille,PayPal ,4
+273g06zs6vtm3y77,95,0,1,155000.0,1,0,Safari,414,719,Mobile Phone,iOS,fr,France,Colombes,CREDIT_CARD ,10
+8r3jjz1sf1zkcvpv,100,0,9,56700.0,1,946,Safari,375,526,Mobile Phone,iOS,fr,France,Gouarec,CREDIT_CARD ,4
+3nah8xy5azx97jd8,105,1,10,14830.0,1,1100,Samsung Browser,360,572,Mobile Phone,Android,fr-FR,France,Faches-Thumesnil,CREDIT_CARD ,4
+n9yqwbfk8bwfj4jj,107,0,5,85830.0,1,2185,Chrome,1280,913,Desktop,Windows 7,fr-FR,France,Bracieux,CREDIT_CARD ,9
+9a71nbb5m3qtw7tn,108,1,13,41300.0,1,644,Chrome,1536,722,Desktop,Windows 10,fr-FR,France,Cergy,CREDIT_CARD ,5
+dmgbd8rtedfwk1qn,109,1,7,66860.0,1,1269,Safari,1366,934,Desktop,OS X,fr,France,Rouvres-en-Multien,CREDIT_CARD ,9
+2ycc2078mqv3zxwy,117,1,7,82500.0,1,299,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,Lognes,CREDIT_CARD ,11
+s30s52e0a9gj5x4j,118,1,7,84170.0,1,619,Firefox,1600,778,Desktop,Windows 7,fr,France,Vitry-sur-Seine,PayPal ,9
+62r280fg58kwwbb5,120,1,15,67080.0,1,1668,Chrome,1280,578,Desktop,Windows 10,fr-FR,France,Grisy-Suisnes,CREDIT_CARD ,5
+00w1e6wdzjfkep6g,121,1,13,42500.0,1,1230,Safari,1320,748,Desktop,OS X,fr,France,Montebourg,PayPal ,4
+nr8yggtce6vpmvnr,123,1,9,95830.0,1,741,Chrome,1536,722,Desktop,Windows 10,fr-FR,France,Lisieux,PayPal ,10
+09asdkr7jv9d0kkw,136,0,16,42500.0,1,2161,Chrome,1920,937,Desktop,Windows 10,en-US,France,Aix-en-Provence,PayPal ,5
+3z07fszd27kvv1je,137,1,11,86660.0,1,1644,Safari,375,553,Mobile Phone,iOS,fr,France,Strasbourg,CREDIT_CARD ,10
+d79qq7rz4b0xdnbg,138,1,11,75750.0,1,1018,Safari,375,635,Mobile Phone,iOS,fr,France,Melun,CREDIT_CARD ,10
+kn4e6s6ks9b0mnyb,138,1,18,61000.0,1,1314,Chrome Mobile,1280,712,Tablet,Android,fr,France,Villeurbanne,CREDIT_CARD ,6
+bt1xyh3zpbmnnhe7,139,1,20,28330.0,1,1433,Firefox,1366,654,Desktop,Windows 10,fr,France,Châtenay-Malabry,CREDIT_CARD ,4
+tky1v3d7ptkweghw,140,0,11,76750.0,1,2061,Firefox,1871,907,Desktop,OS X,de,Germany,Hamburg,CREDIT_CARD ,10
+hgedyhp9yar86wn1,141,1,19,66670.0,1,1103,Chrome Mobile,412,756,Mobile Phone,Android,fr,France,Paris,CREDIT_CARD ,9
+9zxv6vshxhyhygbx,146,1,9,79490.0,1,603,Edge,1600,789,Desktop,Windows 10,fr,France,Sauvian,CREDIT_CARD ,11
+yex6dnja1y1wsf7j,149,0,14,62000.0,1,736,Chrome Mobile,360,665,Mobile Phone,Android,fr,France,Angoulême,PayPal ,7
+fsw38a77es112pf2,156,0,15,82600.0,1,811,Chrome,1278,666,Desktop,OS X,fr-FR,France,Saint-Chamond,CREDIT_CARD ,11
+wf09h8tfghcn9wpk,159,1,17,67500.0,1,1947,Safari,1161,814,Desktop,OS X,fr,France,Paris,PayPal ,9
+ykaw5y3rkp7arabv,160,1,18,112240.0,1,893,Chrome,1680,895,Desktop,OS X,en-US,France,Paris,CREDIT_CARD ,11
+vvm9mw72cjwwxr40,162,1,17,86010.0,1,1475,Edge,1600,789,Desktop,Windows 10,fr,France,Lyon,CREDIT_CARD ,11
+cp9mr7m24p1xq0r5,162,1,12,82090.0,1,655,Samsung Browser,360,630,Mobile Phone,Android,fr-CH,France,Cluses,PayPal ,11
+cjhtdmegzxrc4tyg,162,1,14,85330.0,1,485,Firefox,1366,654,Desktop,Windows 10,fr,France,Paris,CREDIT_CARD ,11
+d3ygk2378m04gvgk,173,1,15,74000.0,1,1229,Safari,375,553,Mobile Phone,iOS,fr,France,Lyon,CREDIT_CARD ,11
+g8j00ext3wncvq06,173,0,8,121000.0,1,736,Edge,1600,827,Desktop,Windows 10,fr,France,Rognac,CREDIT_CARD ,12
+dzavcdwqnma1k970,174,1,19,123330.0,1,580,Chrome Mobile,412,718,Mobile Phone,Android,fr,France,Paris,PayPal ,10
+5a00yekmp4mgrsf6,175,1,20,95830.0,1,1895,Chrome Mobile,412,718,Mobile Phone,Android,en-GB,France,Aix-en-Provence,CREDIT_CARD ,9
+18092320581316614,181,0,16,86000.0,1,750,Samsung Browser,360,520,Mobile Phone,Android,fr-FR,France,Guenange,PayPal ,11
+va7rndvzmy7skwvx,182,1,26,99750.0,1,2411,Chrome,1366,576,Desktop,Windows 7,fr-FR,France,Paris,CREDIT_CARD ,6
+g28y9sm96f3c2m13,189,0,22,75840.0,1,1575,Safari,1411,780,Desktop,OS X,fr-fr,France,Annemasse,CREDIT_CARD ,10
+7737bvty7zhz5xp7,189,1,17,164980.0,1,623,Firefox,1759,819,Desktop,Windows 10,fr,France,Bayonne,PayPal ,12
+7m3qb6j95cmxr6pp,189,1,33,81000.0,1,2204,Firefox,1366,604,Desktop,Windows 10,fr,France,Caen,CREDIT_CARD ,4
+zb8xchbn5bg1yr55,194,0,18,224170.0,1,836,Chrome,1440,744,Desktop,OS X,en-GB,France,Paris,CREDIT_CARD ,12
+kjanf9cqeyg31s24,194,0,19,87500.0,1,1261,Safari,1024,665,Desktop,OS X,fr,France,,PayPal ,11
+2qw842bn23t1yabg,198,0,22,71670.0,1,919,Chrome,1522,732,Desktop,Windows 10,fr-FR,France,Vedene,CREDIT_CARD ,9
+cps9v1jn0gs8nzqp,199,1,21,109680.0,1,1808,Safari,1045,758,Desktop,OS X,en,France,Seysses,PayPal ,8
+xdaqkvx8pf6bbsba,200,0,28,75000.0,1,4173,Safari,375,553,Mobile Phone,iOS,fr,France,Saumur,CREDIT_CARD ,9
+h2n35aadg7gx3y0q,204,1,36,47950.0,1,1938,Chrome Mobile,360,648,Mobile Phone,Android,fr-FR,France,Chartres,CREDIT_CARD ,4
+pjefz2n1vk1ke820,208,0,26,143750.0,1,1315,Chrome Mobile,360,512,Mobile Phone,Android,fr,France,Amiens,CREDIT_CARD ,11
+4sx9aeqa5g0bebab,218,1,28,69500.0,1,2577,Chrome,1366,657,Desktop,Windows 10,fr-FR,France,Élancourt,CREDIT_CARD ,11
+vqdxcsyxcg09dznm,220,0,27,67010.0,1,871,Edge,1360,657,Desktop,Windows 10,fr,France,Saint-Hilaire-de-Loulay,CREDIT_CARD ,11
+wg70ty34v23nv8hf,221,0,25,110920.0,1,2325,Chrome Mobile,360,659,Mobile Phone,Android,fr,France,Pontault-Combault,CREDIT_CARD ,11
+fyw5eqj99xc513nh,223,0,21,229660.0,1,3132,Samsung Browser,360,625,Mobile Phone,Android,fr-FR,France,,CREDIT_CARD ,13
+b4m5h3bb0h6v2wyv,238,1,27,90000.0,1,908,Chrome,1252,1153,Desktop,OS X,fr-FR,France,Les Sables-d'Olonne,CREDIT_CARD ,11
+2jswpr36kncnb01e,249,1,32,67490.0,1,1314,Chrome,1656,796,Desktop,Windows 10,fr-FR,France,Melun,CREDIT_CARD ,11
+qd3xykrj69p8mc5r,256,1,15,129580.0,1,1488,Chrome,1226,777,Desktop,Windows 7,fr-FR,France,,CREDIT_CARD ,11
+x2176d2vkcevx0mz,261,1,33,73330.0,1,3916,Firefox,1680,908,Desktop,Windows 10,fr,France,Villeneuve-le-Roi,PayPal ,11
+dkf8ryf7zjt1va34,262,1,47,45000.0,1,2308,Chrome,1600,789,Desktop,Windows 10,fr-FR,France,Thonon-les-Bains,CREDIT_CARD ,4
+thrk9t4ns3gj7zx2,265,0,19,69860.0,1,2234,Safari,1024,623,Tablet,iOS,fr,France,Albertville,CREDIT_CARD ,9
+531g0mpaqz1j9r4c,269,1,42,87200.0,1,1409,Chrome,815,624,Desktop,Windows 10,fr-FR,France,Genas,CREDIT_CARD ,12
+3ag671sahrr6bx8a,275,0,21,77500.0,1,1839,Chrome Mobile,360,657,Mobile Phone,Android,fr-FR,France,Paris,CREDIT_CARD ,10
+19082311455763672,281,0,37,218000.0,1,1982,Samsung Browser,1280,680,Tablet,Android,fr-FR,France,Feytiat,CREDIT_CARD ,12
+zqv3ned6ewh8qx9t,309,1,41,88130.0,1,2397,Chrome,1600,757,Desktop,Windows 10,fr-FR,France,Chateau-Gontier,PayPal ,13
+13d5m6c7mn9mjdfd,328,1,52,53330.0,1,3342,Chrome,1266,593,Desktop,Windows 10,fr-FR,Luxembourg,,CREDIT_CARD ,4
+gz7a4pc6vgz8h2ad,666,0,89,328320.0,1,4142,Safari,375,526,Mobile Phone,iOS,fr,France,Paris,PayPal ,18
+19102619314624141,9,1,7,50950.0,1,189,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102701501615218,9,1,7,50950.0,1,206,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102619450463961,9,1,8,50950.0,1,235,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102701454548534,9,1,7,49950.0,1,209,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102701352321787,9,1,7,50950.0,1,231,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+19102619523675153,9,1,8,84950.0,1,189,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19102701402601115,9,1,7,50950.0,1,239,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+19102602121588033,10,1,9,50950.0,1,271,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE GIFT_CERTIFICATE ,1
+19102602035603895,10,1,9,84950.0,1,252,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19102602012157791,10,1,9,50950.0,1,258,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,Den Helder,GIFT_CERTIFICATE PayPal ,1
+19102602081022934,10,1,7,52950.0,1,205,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19102601234259605,10,1,8,50950.0,1,156,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dundalk,CREDIT_CARD ,1
+19102605315095154,10,1,8,50950.0,1,164,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19102619383795313,10,1,9,52950.0,1,236,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19102701514083498,10,1,9,50950.0,1,230,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102701430224091,10,1,9,50950.0,1,231,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,Den Helder,CREDIT_CARD ,1
+19102701585251798,10,1,9,50950.0,1,267,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+19102619314536688,10,1,9,50950.0,1,228,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE ,1
+19102701403612125,10,1,9,50950.0,1,269,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,Den Helder,GIFT_CERTIFICATE CREDIT_CARD ,1
+19102602084371052,10,1,7,50950.0,1,199,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE ,1
+19102520060547020,10,1,7,50950.0,1,207,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,Den Helder,CREDIT_CARD ,1
+19102520030991223,10,1,7,46950.0,1,189,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102603443767036,10,1,7,50950.0,1,312,Chrome Mobile,393,658,Mobile Phone,Android,en-US,United States,,GIFT_CERTIFICATE ,1
+19102603442865854,10,1,7,46950.0,1,310,Chrome Mobile,393,658,Mobile Phone,Android,en-US,United States,,CREDIT_CARD ,1
+19102603310022168,10,1,7,50950.0,1,184,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19102701570869854,10,1,7,90000.0,1,198,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19102701342776690,10,1,7,50950.0,1,204,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102701315243387,10,1,7,50950.0,1,204,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102701341762016,10,1,7,50950.0,1,236,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE GIFT_CERTIFICATE ,1
+19102603410173698,10,1,7,50950.0,1,313,Chrome Mobile,393,658,Mobile Phone,Android,en-US,United States,,PayPal ,1
+19102701542244622,11,1,8,80000.0,1,228,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19102602182635031,11,1,8,50950.0,1,263,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,3
+19102602000043158,11,1,9,50950.0,1,255,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102602021767939,11,1,7,52950.0,1,197,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19102520065105987,11,1,9,50950.0,1,219,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,PayPal ,1
+19102602110178703,11,1,9,50950.0,1,258,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,5
+19102520182584979,11,1,9,50950.0,1,251,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,3
+19102603335210865,11,1,8,50950.0,1,377,Chrome Mobile,393,658,Mobile Phone,Android,en-US,United States,,CREDIT_CARD ,1
+19102701385548244,11,1,9,50950.0,1,272,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102701472739351,11,1,8,50950.0,1,226,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102701355761409,11,1,9,46950.0,1,246,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19102701495870491,11,1,9,52950.0,1,253,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19102602085075820,12,1,8,95950.0,1,253,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19102603470719290,12,1,8,95950.0,1,370,Chrome Mobile,393,658,Mobile Phone,Android,en-US,United States,,CREDIT_CARD ,2
+19102701405575009,12,1,10,95950.0,1,271,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19102701562108295,12,1,10,45950.0,1,268,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19102621010442692,13,1,11,73900.0,1,424,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,3
+19101715145188842,18,0,17,58950.0,1,1527,Chrome,1920,977,Desktop,Windows 10,en-US,Bulgaria,Sofia,CREDIT_CARD ,2
+19102618580970206,46,1,1,78000.0,1,0,Safari,375,635,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,2
+19091506261087021,47,0,13,34950.0,1,1557,Chrome,1417,733,Desktop,OS X,fr-FR,France,Lyon,CREDIT_CARD ,3
+19102608141840825,49,1,11,80000.0,1,533,Chrome,1600,789,Desktop,Windows 10,fr-FR,France,Toulouse,CREDIT_CARD ,3
+19021608235995713,49,0,7,33850.0,1,525,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,3
+18112121092796309,52,0,1,120000.0,1,0,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Nancy,CREDIT_CARD ,2
+18112011031682743,53,0,13,47950.0,1,792,Chrome Mobile,1280,679,Tablet,Android,fr-FR,France,Henanbihen,CREDIT_CARD ,1
+19102521225769726,54,0,9,39950.0,1,607,Chrome Mobile,360,512,Mobile Phone,Android,fr,France,Albertville,CREDIT_CARD ,2
+19102614480371310,55,1,10,120000.0,1,341,Safari,414,622,Mobile Phone,iOS,fr-FR,France,,CREDIT_CARD ,3
+19102613514445460,55,1,7,85050.0,1,637,Safari,1024,642,Desktop,OS X,fr-FR,France,Paris,CREDIT_CARD ,3
+19102616234535201,55,1,7,80000.0,1,605,Safari,1578,865,Desktop,OS X,fr-FR,France,Reims,CREDIT_CARD ,3
+19102614465779457,56,1,12,62650.0,1,537,Safari,1024,666,Tablet,iOS,fr-FR,France,Annemasse,CREDIT_CARD ,2
+19102212060882574,56,0,5,83000.0,1,134,Safari,414,764,Mobile Phone,iOS,fr-FR,France,Nancy,CREDIT_CARD ,3
+19102612535847680,57,0,10,78000.0,1,554,Safari,375,635,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,2
+19083116374890818,59,0,10,120000.0,1,492,Safari,320,454,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,3
+19102700333926620,59,1,10,86700.0,1,786,Safari,375,526,Mobile Phone,iOS,fr-FR,France,Saint-Hilaire-Saint-Mesmin,CREDIT_CARD ,2
+19090622032237467,59,0,6,46950.0,1,339,Samsung Browser,360,520,Mobile Phone,Android,fr-FR,France,Albertville,CREDIT_CARD ,3
+19102608040634904,61,1,10,120000.0,1,492,Safari,1024,649,Desktop,OS X,fr-FR,Monaco,Monaco,CREDIT_CARD ,3
+19102619031275925,61,1,10,51950.0,1,1032,Chrome,1366,625,Desktop,Windows 10,fr-FR,France,Hourtin,CREDIT_CARD ,3
+19020412473196406,62,0,9,120000.0,1,960,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,3
+19102623025483248,62,1,11,120000.0,1,859,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,3
+19083112053222722,63,0,9,80000.0,1,494,Safari,1440,862,Desktop,OS X,fr-CA,France,Rennes,PayPal ,3
+19102610053294816,65,1,10,120000.0,1,554,Chrome,1227,547,Desktop,OS X,fr-FR,France,,PayPal ,3
+19102208321714035,65,0,19,25450.0,1,1201,Chrome,1536,760,Desktop,Windows 7,fr-FR,France,Chalons-en-Champagne,CREDIT_CARD ,3
+19102610575822418,66,1,7,37450.0,1,1330,Chrome,1600,804,Desktop,Windows 7,fr,France,,CREDIT_CARD ,3
+19030809052097017,66,0,18,77800.0,1,1090,Chrome,1765,924,Desktop,Windows 7,fr-FR,France,Tremolat,CREDIT_CARD ,3
+19102610363242054,67,1,12,110000.0,1,878,Chrome Mobile,360,659,Mobile Phone,Android,fr,France,Suresnes,CREDIT_CARD ,3
+19100317581818704,70,0,11,84900.0,1,606,Opera,1326,665,Desktop,Windows 10,zh-CN,France,Montpellier,CREDIT_CARD ,3
+19102610360745961,74,1,8,120000.0,1,999,Chrome,1366,625,Desktop,Windows 10,fr-FR,France,Pressiat,CREDIT_CARD ,3
+19102622404706138,76,1,14,120000.0,1,781,Safari,375,635,Mobile Phone,iOS,fr-FR,France,Paris,PayPal ,2
+19102023221091224,77,0,16,80000.0,1,3104,Safari,1024,666,Tablet,iOS,en-US,France,Senlis,PayPal ,3
+19052919203540501,78,0,20,120000.0,1,1063,Chrome,1920,969,Desktop,Windows 7,fr-FR,France,Rouen,CREDIT_CARD ,3
+19102617165444037,80,1,22,33950.0,1,783,Safari,1024,698,Tablet,iOS,fr-FR,France,La Cote-Saint-Andre,CREDIT_CARD ,3
+19090608045179445,81,0,14,187000.0,1,850,Safari,1024,694,Tablet,iOS,fr-FR,France,Thionville,CREDIT_CARD ,3
+19102618404493108,82,1,6,95500.0,1,188,Chrome,1280,571,Desktop,OS X,fr,France,Bordeaux,PayPal ,4
+19102612185776339,82,1,17,86000.0,1,1730,Chrome,1277,629,Desktop,OS X,es-ES,Monaco,Monaco,CREDIT_CARD ,3
+19101617001713889,84,0,12,83700.0,1,704,Chrome Mobile,360,655,Mobile Phone,Android,fr-FR,France,Annemasse,PayPal ,3
+19060618193050661,85,0,21,34950.0,1,968,Samsung Browser,768,896,Tablet,Android,fr-FR,France,Damgan,PayPal ,3
+19081507490553142,87,0,6,90000.0,1,211,Samsung Browser,360,673,Mobile Phone,Android,fr-FR,France,Compiègne,CREDIT_CARD ,3
+19102616455683914,88,1,19,148900.0,1,1743,Chrome,1440,809,Desktop,Windows Vista,fr,France,Épernay,CREDIT_CARD ,3
+19081713490422518,92,0,21,71500.0,1,941,Chrome,1600,757,Desktop,Windows 10,fr-FR,France,Paris,PayPal ,3
+19092415000379643,97,0,30,34850.0,1,1543,Chrome,2544,1279,Desktop,Windows 10,fr-FR,France,Yerres,CREDIT_CARD ,3
+19102612185550202,97,1,23,67450.0,1,821,Firefox,1536,728,Desktop,Windows 10,fr,France,Limoges,PayPal ,3
+19102621020117611,103,1,23,72450.0,1,866,Chrome,1366,625,Desktop,Windows 10,fr-FR,France,Coulommiers,PayPal ,3
+19083118003803208,106,0,27,314000.0,1,759,Firefox,1600,1126,Desktop,Windows 10,fr,France,,CREDIT_CARD ,3
+19022606253829935,108,0,25,81600.0,1,1479,Chrome,1415,682,Desktop,OS X,en,France,Burnhaupt-le-Bas,CREDIT_CARD ,3
+19102612083248399,110,1,29,73600.0,1,3343,Chrome,1600,757,Desktop,Windows 10,fr-FR,France,Créteil,CREDIT_CARD ,3
+19102621272215652,114,1,24,98900.0,1,1221,Safari,1366,950,Desktop,OS X,fr-FR,France,Ajaccio,PayPal ,2
+19102616130798086,124,1,27,115000.0,1,1148,Chrome,1231,591,Desktop,Windows 10,fr-FR,France,Agen,PayPal ,3
+19050819111476713,132,0,30,110950.0,1,1499,Chrome Mobile,360,560,Mobile Phone,Android,fr,France,Rantigny,CREDIT_CARD ,3
+18102809224253130,158,0,49,142800.0,1,1269,Chrome,1920,937,Desktop,Windows 7,fr-FR,France,Oullins,CREDIT_CARD ,3
+19090819245367006,164,0,51,68950.0,1,1663,Firefox,1600,786,Desktop,Windows 10,fr,France,Vitry-sur-Seine,CREDIT_CARD ,3
+19080215221100361,182,0,38,198500.0,2,2402,Chrome,1920,969,Desktop,Windows 10,fr-FR,France,Aubenas,CREDIT_CARD ,3
+19080215221100361,182,0,38,198500.0,2,2402,Chrome,1920,969,Desktop,Windows 10,fr-FR,France,Aubenas,CREDIT_CARD ,3
+19101712001821689,200,0,64,171000.0,1,4280,Firefox,1147,654,Desktop,Windows 8.1,fr,France,Dinard,CREDIT_CARD ,3
+19102614520675870,204,1,64,119000.0,1,2657,Safari,1240,661,Desktop,OS X,fr-FR,France,Paris,CREDIT_CARD ,3
+19090122295354572,273,0,85,110500.0,1,5249,Safari,559,537,Desktop,OS X,fr-FR,France,Lyon,CREDIT_CARD ,3
+19052116482857810,51,0,4,145000.0,1,443,Internet Explorer,1366,597,Desktop,Windows 10,fr-FR,France,Saint-Avold,CREDIT_CARD ,3
+19100412160635206,65,0,7,204400.0,1,211,Internet Explorer,1422,1033,Desktop,Windows 7,fr-FR,France,Paris,CREDIT_CARD ,3
+18092016382230538,68,0,13,86000.0,1,640,Edge,1600,596,Desktop,Windows 10,fr-FR,France,Le Mans,CREDIT_CARD ,3
+19080818480162239,80,0,18,88000.0,1,1299,Edge,1280,607,Desktop,Windows 10,fr-FR,France,Le Creusot,CREDIT_CARD ,3
+19102614451153381,80,1,18,125300.0,1,453,Internet Explorer,1600,752,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,5
+19102612020896830,97,1,24,72000.0,1,1352,Edge,2133,1074,Desktop,Windows 10,fr-FR,France,Poey-de-Lescar,CREDIT_CARD ,3
+19102619020633898,103,1,26,85000.0,1,857,Internet Explorer,1339,712,Desktop,Windows 7,fr-FR,France,Paris,CREDIT_CARD ,3
+19080317143625961,115,0,23,228800.0,1,1439,Internet Explorer,1920,955,Desktop,Windows 10,fr-FR,France,Toulouse,CREDIT_CARD ,3
+m263spqvf3k30tp9,36,0,1,33950.0,1,0,Chrome Mobile,393,655,Mobile Phone,Android,fr-FR,France,Roanne,CREDIT_CARD ,2
+z1y0jbms53djaa6n,51,0,2,38450.0,1,1,Chrome Mobile,360,560,Mobile Phone,Android,fr-FR,France,Trappes,CREDIT_CARD ,5
+19050318554484722,56,0,15,33850.0,1,666,Chrome,1280,689,Desktop,Windows 10,fr-FR,France,Tourcoing,PayPal ,2
+bggvrj39t7cvmqey,59,1,6,20950.0,1,638,Safari,414,786,Mobile Phone,iOS,fr-FR,France,Vannes,PayPal ,5
+m263spqvf3k30tp9,63,1,16,33950.0,1,760,Chrome Mobile,393,655,Mobile Phone,Android,fr-FR,France,Roanne,CREDIT_CARD ,2
+snqfqap3vy506dry,64,0,10,32950.0,1,890,Safari,1440,837,Desktop,OS X,fr-FR,France,Athis-Mons,CREDIT_CARD ,5
+w96k9aknwvdj8eqv,65,0,14,29950.0,1,720,Firefox,1366,613,Desktop,Windows 7,fr,France,Bompas,CREDIT_CARD ,5
+djz9ky0bfm7dy9q9,67,1,11,79000.0,1,662,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,La Mure,CREDIT_CARD ,6
+19090111404245681,67,0,13,30950.0,1,1194,Safari,1133,759,Desktop,OS X,fr-FR,France,Nantes,CREDIT_CARD ,5
+z4wz7fpykwk4bvfn,68,1,16,34950.0,1,883,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Abbeville,CREDIT_CARD ,4
+gftdye1g2z63qkq8,70,0,6,41950.0,1,638,Safari,1024,682,Tablet,iOS,fr-FR,France,Beaune,PayPal ,7
+h39qaaj9wjfd83f8,74,0,18,28850.0,1,1247,Safari,1280,627,Desktop,OS X,en-GB,France,Chateau-Gontier,CREDIT_CARD ,5
+vr1c1zndtg7vkkjq,74,0,19,80000.0,1,615,Chrome,1366,625,Desktop,Windows 10,fr-FR,France,Orléans,CREDIT_CARD ,5
+19040513281861354,77,0,6,107000.0,1,471,Safari,1692,1356,Desktop,OS X,en-US,France,Migne,CREDIT_CARD ,9
+0nrmcbmjwn289hep,77,0,29,50950.0,1,1493,Chrome,1600,757,Desktop,Windows 10,fr-FR,France,Chartres,CREDIT_CARD ,5
+dp40dx6xqjwacc4r,80,0,18,47450.0,1,739,Samsung Browser,360,572,Mobile Phone,Android,fr-FR,France,Colmar,PayPal ,5
+ntaee2zbqdhw7d2x,81,0,1,148000.0,1,0,Safari,414,703,Mobile Phone,iOS,fr-FR,France,Limeil-Brevannes,CREDIT_CARD ,10
+gh1tg2cfbjk8e7ch,81,1,18,63750.0,1,1076,Chrome Mobile,360,657,Mobile Phone,Android,fr,France,Bourg-les-Valence,CREDIT_CARD ,6
+6hhynsagqaqc76kt,83,0,12,83500.0,1,224,Safari,1324,709,Desktop,OS X,fr-FR,France,Limoges,PayPal ,7
+9t16360171mcscxv,84,1,19,80300.0,1,1751,Safari,375,561,Mobile Phone,iOS,fr-FR,France,Pessac,CREDIT_CARD ,5
+012sw3jrgt1m49yh,89,1,11,77800.0,1,1295,Firefox,1280,640,Desktop,OS X,fr,France,Ceret,CREDIT_CARD ,9
+19092616175021775,92,0,20,70450.0,1,751,Edge,1366,655,Desktop,Windows 10,fr-FR,France,Belfort,CREDIT_CARD ,6
+3c7jca9gwf8wx54c,92,0,21,95000.0,1,2260,Samsung Browser,360,616,Mobile Phone,Android,fr-FR,France,Courbevoie,CREDIT_CARD ,6
+19101912305077443,93,0,17,120000.0,1,727,Safari,320,454,Mobile Phone,iOS,fr-FR,France,Cuvat,CREDIT_CARD ,9
+kynjexyvrmnac7rk,94,0,15,109000.0,1,906,Chrome,1200,608,Desktop,OS X,fr-FR,Switzerland,Zurich,CREDIT_CARD ,10
+19042321304182462,97,0,20,70400.0,1,2229,Safari,1280,665,Desktop,OS X,fr-FR,France,Angers,CREDIT_CARD ,10
+18102308440781116,99,0,14,81600.0,1,774,Chrome Mobile,1024,659,Tablet,iOS,en-GB,United Kingdom,London,PayPal ,10
+wz52fzs450d1mdvb,99,1,29,150000.0,1,2429,Edge,1043,530,Desktop,Windows 10,en-GB,France,Brive-la-Gaillarde,CREDIT_CARD ,6
+x3kc2yenxeqxykyj,99,0,13,86000.0,1,924,Safari,414,622,Mobile Phone,iOS,fr-FR,France,Villesequelande,CREDIT_CARD ,10
+fz77tkx1dw3mzhfp,102,0,14,72950.0,1,874,Edge,1600,824,Desktop,Windows 10,fr-FR,France,Monts-sur-Guesnes,CREDIT_CARD ,10
+mn099h4efahdzxsa,105,0,1,81900.0,1,0,Safari,1024,666,Tablet,iOS,fr-FR,France,Isneauville,PayPal ,15
+18112022164027290,105,0,15,75450.0,1,540,Safari,375,635,Mobile Phone,iOS,fr-FR,France,Barr,PayPal ,10
+19011321585405752,105,0,34,165000.0,1,2688,Chrome,1366,625,Desktop,Windows 10,fr-FR,France,Saint-Mesmin,CREDIT_CARD ,6
+cc0s8x7bzq7v8jc4,106,1,19,145500.0,1,1147,Opera,1372,808,Desktop,OS X,fr-FR,France,Maisons-Alfort,CREDIT_CARD ,8
+7arxbvx3c49hkfgs,110,0,27,130000.0,1,1942,Chrome,1280,913,Desktop,Windows 10,fr-FR,France,Ivry-sur-Seine,CREDIT_CARD ,6
+8xbrvd89ptjvhyzs,111,0,22,88800.0,1,1095,Chrome,1258,530,Desktop,Windows 10,fr-FR,France,Dijon,CREDIT_CARD ,11
+scgv0tjrembs41t4,111,1,34,69950.0,1,917,Chrome,1518,734,Desktop,Windows 10,en-US,France,Clamart,CREDIT_CARD ,9
+ecxbxwkygsxzmy5p,111,1,25,144000.0,1,2258,Firefox,1600,786,Desktop,Windows 7,fr,France,Saint-Renan,CREDIT_CARD ,10
+19040308185011464,115,0,33,171000.0,1,3507,Safari,1024,704,Tablet,iOS,fr-FR,France,Le Havre,CREDIT_CARD ,6
+3259m0tfpkpe2jcp,116,0,49,165000.0,1,2097,Chrome,1360,625,Desktop,Windows 10,fr-FR,France,Évreux,PayPal ,6
+nyfn2bxb9c8hbnnn,118,0,19,87000.0,1,1334,Chrome Mobile,360,621,Mobile Phone,Android,fr-FR,France,Grenoble,CREDIT_CARD ,11
+kxtezwvcpgbpjen2,125,1,15,94500.0,1,556,Edge,1600,839,Desktop,Windows 10,fr-FR,France,Aubais,PayPal ,13
+19052515425947786,126,0,36,171000.0,1,1474,Safari,1024,665,Desktop,OS X,en-GB,France,Angoulême,CREDIT_CARD ,10
+18100717244996282,130,0,17,79500.0,1,813,Safari,1324,1268,Desktop,OS X,fr-FR,France,Sainte-Maxime,CREDIT_CARD ,12
+ehpxrawqw03103v7,134,0,35,72950.0,1,1893,Chrome Mobile,360,559,Mobile Phone,Android,fr,France,Nancy,CREDIT_CARD ,10
+44r1f8rpwvaj1bha,134,0,34,78400.0,1,1634,Edge,2259,1100,Desktop,Windows 10,fr-FR,France,Azereix,CREDIT_CARD ,11
+19032721262328828,135,0,31,119400.0,1,3200,Safari,1112,745,Tablet,iOS,fr-FR,France,Ajaccio,CREDIT_CARD ,9
+vjq4kpxqx76wp0d1,142,1,31,73450.0,1,989,Safari,1324,741,Desktop,OS X,fr-FR,France,Saint-Etienne-de-Montluc,PayPal ,10
+bstmjcy3ge5pkq3w,155,0,41,76000.0,1,2902,Safari,1024,665,Desktop,OS X,fr-FR,France,Saint-Priest-en-Jarez,CREDIT_CARD ,11
+f645b66fcqcatv7m,156,0,26,155000.0,1,1671,Samsung Browser,360,520,Mobile Phone,Android,fr-FR,France,Saint-Germain-en-Laye,CREDIT_CARD ,10
+2jd3gy2t2bfe7ynf,157,0,29,71500.0,1,1566,Chrome Mobile,360,512,Mobile Phone,Android,fr,France,La Roche-sur-Yon,CREDIT_CARD ,12
+mn099h4efahdzxsa,177,1,42,81900.0,1,1641,Safari,1024,666,Tablet,iOS,fr-FR,France,Isneauville,PayPal ,15
+19101223085879090,181,0,46,72500.0,1,2759,Chrome,1920,910,Desktop,OS X,fr-FR,France,La Baule-Escoublac,CREDIT_CARD ,13
+ntaee2zbqdhw7d2x,188,1,20,148000.0,1,2178,Safari,414,703,Mobile Phone,iOS,fr-FR,France,Limeil-Brevannes,CREDIT_CARD ,10
+19052708494435330,191,0,27,178500.0,2,1572,Firefox,1357,764,Desktop,OS X,fr,France,Still,CREDIT_CARD ,11
+19052708494435330,191,0,27,178500.0,2,1572,Firefox,1357,764,Desktop,OS X,fr,France,Still,CREDIT_CARD ,10
+f92wfs5p8009yrq1,209,1,71,70000.0,1,3244,Chrome,1368,625,Desktop,Windows 8.1,en-US,France,Gentilly,PayPal ,9
+n1xeyrcqxtzw79gr,211,1,14,101000.0,1,977,Firefox,1366,614,Desktop,Windows 10,fr,France,Marennes,PayPal ,5
+kqzjr3qp0ej9eeg1,216,1,47,224000.0,1,2679,Chrome,1440,789,Desktop,OS X,fr-FR,France,La Valette-du-Var,CREDIT_CARD ,9
+19071218123201376,225,0,17,95000.0,1,480,Edge,1592,827,Desktop,Windows 10,fr-FR,France,Istres,PayPal ,11
+cbpj2e8yzkgxhe4f,236,0,75,156000.0,1,2368,Safari,1680,892,Desktop,OS X,en-US,France,Annemasse,PayPal ,11
+v0v1qvq198mr8sz9,37,1,8,50950.0,1,208,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,1
+zhy92rnhvp65wgss,38,1,6,50950.0,1,183,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,GIFT_CERTIFICATE ,1
+z2gkmqbcqvxdcsyn,38,1,6,50950.0,1,135,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,PayPal ,1
+8rjhxtxkks4gzezr,38,1,6,50950.0,1,227,Safari,375,553,Mobile Phone,iOS,en-US,United States,Miami,GIFT_CERTIFICATE ,1
+53970qdgt3y25r8m,38,1,6,46950.0,1,391,Safari,375,553,Mobile Phone,iOS,en-US,United States,Miami,CREDIT_CARD ,1
+t9dfgw6hfsxtgz1s,38,1,6,50950.0,1,247,Safari,375,553,Mobile Phone,iOS,en-US,United States,Miami,GIFT_CERTIFICATE ,1
+gv110gcgaqkk07m0,38,1,6,50950.0,1,211,Safari,375,553,Mobile Phone,iOS,en-US,United States,Miami,CREDIT_CARD ,1
+dq8nweyc65ekwe3e,38,1,6,50950.0,1,234,Safari,375,553,Mobile Phone,iOS,en-US,United States,Miami,GIFT_CERTIFICATE ,1
+8vnp7f081hgcpbr8,38,1,6,50950.0,1,200,Safari,375,553,Mobile Phone,iOS,en-US,United States,Miami,PayPal ,1
+vtnf9ac4md1kyvxv,39,1,7,50950.0,1,260,Safari,375,553,Mobile Phone,iOS,en-US,United States,Miami,CREDIT_CARD ,1
+b6s46b8a588sza8f,39,1,6,50950.0,1,167,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,GIFT_CERTIFICATE ,1
+pqe2p332qcsn00t3,42,1,7,50950.0,1,177,Safari,375,553,Mobile Phone,iOS,en-IE,Ireland,Cork,CREDIT_CARD ,1
+cm089v9h7vp5z9p8,44,1,6,52950.0,1,214,Safari,375,553,Mobile Phone,iOS,en-US,United States,Miami,CREDIT_CARD ,2
+4evsac7feetsvpv1,44,1,6,52950.0,1,152,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,Cork,CREDIT_CARD ,2
+3rfw78gkseg6gw2s,72,1,15,20950.0,1,497,Safari,375,581,Mobile Phone,iOS,fr-FR,France,,PayPal ,5
+x8vvvc8j0qfbfcb9,37,1,8,50950.0,1,237,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,GIFT_CERTIFICATE ,1
+qzn4nsjq2pn969qy,37,1,8,50950.0,1,457,Safari,375,553,Mobile Phone,iOS,en-IE,Ireland,,GIFT_CERTIFICATE ,1
+4f69vmshn3bmqrbg,37,1,8,50950.0,1,369,Safari,375,553,Mobile Phone,iOS,en-IE,Ireland,,CREDIT_CARD ,1
+wxwqxa2qzcmy8260,37,1,8,50950.0,1,211,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,GIFT_CERTIFICATE ,1
+0s33h9fwst30bp55,37,1,8,50950.0,1,190,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+7tn8nhfw6gf817vv,38,1,9,50950.0,1,248,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+vb0zpzee0301zgcn,38,1,8,90000.0,1,197,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+t6jzmyzjfgx37cqn,38,1,6,50950.0,1,221,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+ep5x2cm42r8bwqm3,38,1,9,50950.0,1,241,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE PayPal ,1
+pb6d8w8nhmdkfnma,38,1,9,50950.0,1,250,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+amjf5h8gf0tk42j0,38,1,9,46950.0,1,217,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+trrhzjtwb8ggwjby,38,1,9,50950.0,1,219,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+xnj65q3ba8ergcj4,38,1,9,50950.0,1,213,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE ,1
+vx1hx3876w3yk3wy,38,1,6,46950.0,1,149,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+9r04bggmxy5tpdrb,38,1,6,50950.0,1,158,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+nshzpz8k5dp4sdra,38,1,6,50950.0,1,138,Safari,375,553,Mobile Phone,iOS,en-IE,Ireland,,PayPal ,1
+r0jnwyn674bpjzjq,38,1,6,50950.0,1,145,Safari,375,553,Mobile Phone,iOS,en-IE,Ireland,,CREDIT_CARD ,1
+xxjh4ha26bmy5580,38,1,6,50950.0,1,294,Safari,375,553,Mobile Phone,iOS,en-IE,Ireland,,PayPal ,1
+6ac7hzgz99crwkn7,38,1,6,50950.0,1,154,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+cbabzewe3f968fjb,38,1,6,46950.0,1,264,Safari,375,553,Mobile Phone,iOS,en-US,United States,,CREDIT_CARD ,1
+hfyk5vqyj7j0z320,38,1,6,46950.0,1,152,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+sv01xh18rab3q83y,38,1,6,50950.0,1,138,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,PayPal ,1
+90ebxnnahrv5mnvz,39,1,9,90000.0,1,216,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+01ey6w5qwd50yaaw,39,1,7,50950.0,1,187,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+synz9rd1kwtr990r,39,1,7,49950.0,1,215,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+87eaxz4hvqbyqkt0,39,1,7,50950.0,1,213,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+mn60sjkx8sbg6967,39,1,7,50950.0,1,172,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+p11bqrsefz8fx3vq,39,1,7,50950.0,1,205,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+5vexcd0ws546nbyk,39,1,7,46950.0,1,174,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+mg2escabne5yyx19,39,1,7,50950.0,1,223,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE GIFT_CERTIFICATE ,1
+teqfrsq82q5pp6ex,39,1,7,50950.0,1,143,Safari,375,553,Mobile Phone,iOS,en-IE,Ireland,,CREDIT_CARD ,1
+ffy2znp7c22mk9ze,39,1,7,50950.0,1,167,Safari,375,553,Mobile Phone,iOS,en-IE,Ireland,,CREDIT_CARD ,1
+zyq7qtxqj80pshd7,39,1,7,50950.0,1,171,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+6gc3w9qxd88718r9,39,1,9,50950.0,1,288,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+g91srcd3t26yfm3h,39,1,9,50950.0,1,217,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,PayPal ,1
+t9q9bzf3p33m9nna,39,1,9,50950.0,1,255,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+8jqd7vrj5zp8rkzf,39,1,9,50950.0,1,247,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE GIFT_CERTIFICATE ,1
+y1rv3bbhtb304d29,40,1,8,50950.0,1,199,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+ykjrx0q8vh65468q,40,1,7,90000.0,1,183,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+vfkawhsdtcg0qh63,40,1,7,50950.0,1,147,Safari,375,553,Mobile Phone,iOS,en-IE,Ireland,,CREDIT_CARD ,1
+t5fcpzz0zkr53fjx,40,1,7,50950.0,1,161,Safari,375,553,Mobile Phone,iOS,en-IE,Ireland,,CREDIT_CARD ,1
+tkfnbwjq40v2zzdx,40,1,7,50950.0,1,184,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE ,1
+tfywm7yd2vq1byzc,40,1,7,50950.0,1,211,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE PayPal ,1
+x16862krjgvcgawt,40,1,7,50950.0,1,172,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,PayPal ,1
+6m63s6kbrvjvyrs5,40,1,7,50950.0,1,189,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+q2sgaqwbfp2je9v3,44,1,9,52950.0,1,214,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+ttrfyn2abqgz2m2g,44,1,9,52950.0,1,212,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+zw7t7xb4j7p1v0vr,44,1,6,52950.0,1,170,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+132xmda8zbkcxb0h,44,1,6,52950.0,1,304,Safari,375,553,Mobile Phone,iOS,en-IE,Ireland,,CREDIT_CARD ,2
+9zcxkhfqtg9vr8x2,45,1,7,52950.0,1,184,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+m8414saapqt0r0gf,45,1,12,8950.0,1,237,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+36txen10qferew45,45,1,7,52950.0,1,177,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+r2fjrr00ck83jnfy,48,1,9,80000.0,1,235,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+8hchkt0sqvnpk7hx,48,1,9,80000.0,1,229,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+fpv1mn8mrn1hnaj8,50,1,8,80000.0,1,209,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+7pksjkb600jgh98x,50,1,10,80000.0,1,243,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+k1xqvyqqwecd72nh,51,1,10,91450.0,1,245,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+6gzbr0b81wy6n8q2,52,1,7,91450.0,1,189,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+axppzkmnq820yj37,52,1,7,91450.0,1,177,Chrome Mobile,393,727,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+j29mgn9b8s50zn0j,54,1,8,91450.0,1,215,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+zy3y92qndnrng7my,55,1,8,50950.0,1,239,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,4
+2385gnm9fbabhzbf,56,1,9,95950.0,1,207,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,4
+xz7sm8t17jejp1nt,76,1,8,50950.0,1,239,Chrome,1920,925,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19080115151290281,58,0,20,90350.0,1,2448,Chrome,1536,722,Desktop,Windows 10,en-US,Bulgaria,Sofia,CREDIT_CARD ,1
+w7ykmt6gcm2espqe,35,1,8,384950.0,1,237,Safari,375,635,Mobile Phone,iOS,en-SG,Bulgaria,Sofia,PayPal ,1
+44656vmzddbmpq43,102,0,22,59850.0,2,3101,Chrome,1198,722,Desktop,Windows 10,en-US,Bulgaria,Sofia,CREDIT_CARD ,1
+44656vmzddbmpq43,102,0,22,59850.0,2,3101,Chrome,1198,722,Desktop,Windows 10,en-US,Bulgaria,Sofia,CREDIT_CARD ,3
+afmcre2twexetp8d,209,0,51,468150.0,5,6141,Safari,768,922,Tablet,iOS,en-GB,Bulgaria,Sofia,CREDIT_CARD ,1
+4nx0tnq18n16bh68,115,1,38,52500.0,1,1724,Firefox,1600,785,Desktop,Windows 7,fr,France,Toulouse,CREDIT_CARD ,6
+q7qjfqb659x7jb0j,58,1,6,52950.0,1,157,Firefox,1408,612,Desktop,Windows 10,fr,France,Paris,GIFT_CERTIFICATE CREDIT_CARD ,5
+dm7w9826pxbqnyj3,62,1,10,58950.0,1,827,Firefox,1675,923,Desktop,OS X,fr,France,Paris,CREDIT_CARD ,5
+eqrefz5tw1w6zadn,66,1,6,63450.0,1,488,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,6
+18092317284730341,66,0,6,215000.0,1,248,Firefox,1920,889,Desktop,OS X,fr,France,Paris,CREDIT_CARD ,7
+18120911075689208,69,0,9,28450.0,1,714,Samsung Browser,320,545,Mobile Phone,Android,fr-FR,France,Paris,PayPal ,5
+2yjmztktj6gmfxxr,73,0,8,110000.0,1,255,Chrome,1920,969,Desktop,Windows 7,fr-FR,France,Paris,CREDIT_CARD ,8
+nekdy338xdpm0b2p,75,1,11,112500.0,1,307,Safari,1947,904,Desktop,OS X,fr-FR,France,Paris,CREDIT_CARD ,6
+npwcqk2j4d2sng4f,86,0,16,72500.0,1,538,Iron,1920,1068,Desktop,Windows 7,fr-FR,France,Paris,CREDIT_CARD ,7
+fra007njrmh507sv,87,1,13,80000.0,1,1032,Safari,414,628,Mobile Phone,iOS,fr-FR,France,Paris,PayPal ,9
+19030818504829371,92,0,6,81000.0,1,623,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,11
+7cdmapxvrn0qrknf,99,1,20,172300.0,1,1099,Edge,1920,935,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,7
+25nd13f649479zw2,101,1,16,95700.0,1,1582,Chrome,1280,610,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,11
+f6t2k5rg7wxk0v80,102,0,42,56000.0,1,2635,Chrome Mobile,412,775,Mobile Phone,Android,fr,France,Paris,CREDIT_CARD ,6
+j8asf54pwbxbw1br,102,0,18,93000.0,1,581,Chrome,1280,561,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,10
+ymf2sh7nyjvs6hnh,111,0,19,194000.0,1,794,Safari,1280,671,Desktop,OS X,fr-FR,France,Paris,CREDIT_CARD ,7
+rtz07vjpdvn5v95c,113,1,20,170500.0,1,686,Chrome,1440,740,Desktop,OS X,fr-FR,France,Paris,CREDIT_CARD ,7
+zhqqxh7trh421z2x,134,0,33,221000.0,1,974,Chrome,1280,913,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,9
+bfg20vvjce1xtv3q,148,1,35,184000.0,1,1499,Safari,375,626,Mobile Phone,iOS,fr-FR,France,Paris,PayPal ,10
+k25c4dd8vzey75zm,236,1,96,100000.0,1,4221,Chrome,1920,937,Desktop,Windows 10,en-US,France,Paris,CREDIT_CARD ,12
+19110911521386785,80,0,8,70000.0,1,590,Samsung Browser,360,512,Mobile Phone,Android,fr,France,Marseille,CREDIT_CARD ,9
+19110911521386785,95,0,18,70000.0,1,692,Samsung Browser,360,568,Mobile Phone,Android,fr,France,Marseille,CREDIT_CARD ,9
+y2v8ew34przx6eha,108,1,16,89000.0,1,559,Chrome,1280,610,Desktop,Windows 10,fr-FR,France,Lyon,CREDIT_CARD ,10
+19072511242055230,127,0,26,70000.0,1,1521,Chrome,1661,909,Desktop,Windows 10,fr-FR,France,Lyon,CREDIT_CARD ,9
+m3brpzx8pwy5swbk,88,1,14,62950.0,1,438,Safari,414,719,Mobile Phone,iOS,fr-FR,France,Giromagny,PayPal ,6
+kmqd9nk5mjgkq4xp,104,0,26,80000.0,1,1690,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Giromagny,CREDIT_CARD ,9
+19102813550021088,117,0,17,149500.0,1,2526,Safari,414,650,Mobile Phone,iOS,fr-FR,France,Giromagny,CREDIT_CARD ,7
+18113017511195803,140,0,25,302000.0,1,1136,Samsung Browser,1280,672,Tablet,Android,fr-FR,France,Giromagny,CREDIT_CARD ,10
+jhxr105v414wpraa,54,0,5,108000.0,1,150,Safari,414,764,Mobile Phone,iOS,fr-FR,France,Bordeaux,PayPal ,6
+nm2z8ww08mch0kst,80,1,15,51950.0,1,558,Safari,1264,749,Desktop,OS X,fr-FR,France,Bordeaux,CREDIT_CARD ,5
+19100815521970349,107,0,16,277000.0,1,899,Firefox,1536,750,Desktop,Windows 10,fr,France,Bordeaux,PayPal ,7
+19101110110885753,101,0,22,120000.0,1,1789,Chrome,1920,937,Desktop,Windows 7,en-US,France,Paris,CREDIT_CARD ,3
+19101113570296351,47,1,5,120000.0,1,168,Safari,320,450,Mobile Phone,iOS,fr-FR,France,Loos,CREDIT_CARD ,3
+19101012282685403,51,0,6,120000.0,1,227,Safari,414,896,Mobile Phone,iOS,en-US,Israel,Tel Aviv,PayPal ,3
+19100808092416932,41,0,1,29950.0,1,0,Chrome,1600,757,Desktop,Windows 10,fr-FR,France,Yffiniac,CREDIT_CARD ,3
+19100115325506418,45,0,7,57950.0,1,375,Chrome Mobile,360,560,Mobile Phone,Android,en-US,France,Paris,CREDIT_CARD ,1
+19101115265265595,49,1,6,34950.0,1,599,Chrome,1920,969,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,3
+19101110224369216,64,1,12,15950.0,1,623,Firefox,1366,632,Desktop,Windows 7,fr,France,Amiens,CREDIT_CARD ,3
+19092009503690859,70,0,9,65950.0,1,1647,Chrome,1904,946,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,3
+19101117351623807,74,1,13,120000.0,1,406,Chrome,1680,939,Desktop,Windows 7,fr-FR,France,Saint-Herblain,PayPal ,3
+19101112573022609,75,1,13,75000.0,1,2441,Safari,375,646,Mobile Phone,iOS,fr-FR,France,Lyon,CREDIT_CARD ,3
+19092619233081599,86,0,14,81500.0,1,2545,Chrome Mobile,360,560,Mobile Phone,Android,fr-FR,France,,CREDIT_CARD ,3
+19101116553338772,91,1,23,120000.0,1,1623,Safari,1024,698,Tablet,iOS,fr-FR,Luxembourg,Differdange,CREDIT_CARD ,3
+19100321385438909,92,0,16,92500.0,1,610,Chrome Mobile,360,612,Mobile Phone,Android,fr,France,Ribecourt-Dreslincourt,CREDIT_CARD ,3
+19042315354422988,99,0,17,81900.0,1,1132,Chrome,2560,1196,Desktop,OS X,fr-FR,France,Arles,CREDIT_CARD ,3
+18101100340464948,105,0,26,120000.0,1,1220,Chrome Mobile,800,1160,Tablet,Android,fr-FR,France,Rungis,CREDIT_CARD ,3
+19090610145517758,120,0,25,110800.0,1,1640,Safari,375,635,Mobile Phone,iOS,fr-FR,France,Saint-Germain-en-Laye,CREDIT_CARD ,3
+19101112094718891,133,1,31,82500.0,1,2506,Chrome,1280,646,Desktop,OS X,fr-FR,France,Fontaines-sur-Saone,CREDIT_CARD ,3
+19092608432615269,170,1,45,91500.0,1,2481,Chrome,1600,789,Desktop,Windows 7,fr-FR,France,Breitenau,CREDIT_CARD ,3
+19101120090250077,190,1,51,119200.0,1,2804,Safari,375,549,Mobile Phone,iOS,fr-FR,France,Nantes,PayPal ,3
+19101020145595039,11,1,9,50950.0,1,260,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,Den Helder,GIFT_CERTIFICATE PayPal ,1
+19101102320682894,11,1,9,50950.0,1,266,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,Den Helder,CREDIT_CARD ,3
+19101103414309842,11,1,8,95950.0,1,235,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dundalk,CREDIT_CARD ,2
+19101112032847979,11,1,9,50950.0,1,199,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dundalk,GIFT_CERTIFICATE ,1
+19101102093763768,11,1,9,50950.0,1,295,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+19101102044397313,11,1,8,80000.0,1,252,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101102253252241,11,1,9,50950.0,1,247,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,5
+19101102170089393,11,1,9,90000.0,1,254,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101102254927258,11,1,9,50950.0,1,274,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE GIFT_CERTIFICATE ,1
+19101102225397950,11,1,8,95950.0,1,236,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101102020424501,11,1,9,50950.0,1,258,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101102210629155,11,1,9,50950.0,1,236,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,PayPal ,1
+19101106170760179,11,1,9,50950.0,1,199,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,,GIFT_CERTIFICATE ,1
+19101201525991176,11,1,9,50950.0,1,246,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101201460079102,11,1,9,46950.0,1,236,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101201414664581,11,1,9,50950.0,1,246,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE ,1
+19101201483944263,11,1,9,50950.0,1,235,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101201510053096,11,1,9,50950.0,1,270,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+19101023170852925,11,1,9,50950.0,1,182,Safari,375,635,Mobile Phone,iOS,en-IE,Ireland,Dublin,CREDIT_CARD ,1
+19101111034211164,11,1,9,50950.0,1,207,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101105154574097,11,1,8,95950.0,1,224,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,CREDIT_CARD ,2
+19101112143986271,11,1,8,95950.0,1,216,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,2
+19101102065303458,13,1,10,80000.0,1,270,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101201514433795,13,1,10,95950.0,1,287,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19100717444452189,15,0,14,334000.0,1,706,Chrome,1440,789,Desktop,OS X,en-US,Republic of Lithuania,Vilnius,CREDIT_CARD ,5
+18122409461171866,17,0,15,65000.0,1,1742,Firefox,1922,967,Desktop,Windows 10,fr,France,,CREDIT_CARD ,1
+19100316110363926,23,0,21,39700.0,1,737,Chrome,1536,722,Desktop,Windows 10,bg-BG,Bulgaria,Sofia,CREDIT_CARD ,1
+19100115325506418,30,0,1,57950.0,1,0,Chrome Mobile,360,560,Mobile Phone,Android,en-US,France,Paris,CREDIT_CARD ,1
+19101010090123356,40,0,1,35850.0,1,0,Safari,568,320,Mobile Phone,iOS,fr-FR,France,Ajaccio,CREDIT_CARD ,3
+19101200472035014,42,1,1,112500.0,1,0,Chrome Mobile,412,718,Mobile Phone,Android,fr-FR,France,Paris,CREDIT_CARD ,3
+19100913590067803,46,0,1,120000.0,1,0,Safari,320,454,Mobile Phone,iOS,fr-FR,France,Le Conquet,CREDIT_CARD ,3
+19091107135439085,51,0,2,101000.0,1,1775,Samsung Browser,360,577,Mobile Phone,Android,fr-FR,France,Charmes-sur-Rhone,CREDIT_CARD ,3
+19100316110363926,54,0,51,48450.0,1,8558,Chrome,1536,722,Desktop,Windows 10,bg-BG,Bulgaria,Sofia,CREDIT_CARD ,3
+19101017240297798,54,0,7,47950.0,1,469,Chrome Mobile,360,660,Mobile Phone,Android,fr-FR,France,,CREDIT_CARD ,3
+19100511003477259,55,0,3,74900.0,1,68,Edge,2048,1002,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,3
+19100808092416932,64,0,9,29950.0,1,809,Chrome,1600,757,Desktop,Windows 10,fr-FR,France,Yffiniac,CREDIT_CARD ,3
+19101114414948243,64,1,13,51950.0,1,507,Safari,375,702,Mobile Phone,iOS,de-DE,France,La Cadiere-d'Azur,CREDIT_CARD ,2
+19101118555524638,64,1,10,101000.0,1,1392,Firefox,1280,585,Desktop,Windows 10,fr,France,Gardanne,CREDIT_CARD ,3
+19100421003572738,64,0,6,83000.0,1,354,Edge,1536,719,Desktop,Windows 10,fr-FR,France,Wavrin,CREDIT_CARD ,3
+19100913590067803,67,0,12,120000.0,1,2035,Safari,320,454,Mobile Phone,iOS,fr-FR,France,Le Conquet,CREDIT_CARD ,3
+19100414325652340,70,0,10,80000.0,1,598,Firefox,1853,951,Desktop,Linux - Ubuntu,en-US,France,Champs-sur-Marne,CREDIT_CARD ,3
+19101119502938977,70,1,10,120000.0,1,1155,Chrome Mobile,360,657,Mobile Phone,Android,fr-FR,France,Lyon,CREDIT_CARD ,3
+19100611205007826,71,0,12,120000.0,1,657,Edge,1920,935,Desktop,Windows 10,fr-FR,France,Nandy,PayPal ,3
+19100910071665814,71,0,15,120000.0,1,654,Safari,414,622,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,2
+19101116562675312,72,1,12,72350.0,1,904,Chrome,1440,821,Desktop,OS X,en-GB,France,Paris,CREDIT_CARD ,3
+18112211232392876,73,0,5,74000.0,1,343,Edge,1366,633,Desktop,Windows 10,fr-FR,France,Sepvret,CREDIT_CARD ,3
+19090811380658008,73,0,12,80000.0,1,638,Safari,375,553,Mobile Phone,iOS,fr-FR,France,Paris,CREDIT_CARD ,3
+19081110490559858,74,0,9,70950.0,1,710,Chrome,1342,696,Desktop,Windows 7,fr-FR,France,Perpignan,CREDIT_CARD ,3
+19100615425527539,74,0,19,70000.0,1,1591,Chrome,1536,722,Desktop,Windows 10,fr-FR,France,,CREDIT_CARD ,3
+19101109012840820,74,0,16,110000.0,1,2715,Chrome,1280,882,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD ,3
+19100721200024000,75,0,7,92700.0,1,303,Chrome Mobile,360,660,Mobile Phone,Android,fr-FR,France,Villemomble,PayPal ,3
+19101122502807786,75,1,16,82500.0,1,671,Chrome Mobile,393,528,Mobile Phone,Android,fr-FR,France,Villejuif,CREDIT_CARD ,3
+19101116383258188,76,1,16,120000.0,1,764,Safari,704,666,Tablet,iOS,fr-FR,Luxembourg,Differdange,CREDIT_CARD ,3
+19092315030147364,76,0,8,72800.0,1,399,Internet Explorer,1280,968,Desktop,Windows 7,fr-FR,France,Paris,CREDIT_CARD ,3
+19030616544433815,77,0,12,178000.0,1,823,Safari,1440,746,Desktop,OS X,en-US,Senegal,Dakar,CREDIT_CARD ,3
+19101122364051460,77,1,11,33950.0,1,421,Chrome Mobile,360,657,Mobile Phone,Android,fr-FR,France,Évry,PayPal ,1
+19092315030147364,87,0,9,151500.0,1,909,Internet Explorer,1280,968,Desktop,Windows 7,fr-FR,France,Paris,CREDIT_CARD ,5
+19101107231901463,92,0,8,70950.0,1,450,Safari,414,622,Mobile Phone,iOS,fr-FR,France,Ponthierry,CREDIT_CARD ,3
+19060617160110275,99,0,31,108500.0,1,2618,Chrome,1600,757,Desktop,Windows 8.1,fr-FR,France,Royan,CREDIT_CARD ,3
+19101119411198959,100,1,21,170000.0,1,1296,Safari,1196,762,Desktop,OS X,fr-FR,France,Tilques,CREDIT_CARD ,3
+19080811070572892,100,0,21,86000.0,1,1493,Firefox,1680,936,Desktop,Windows 7,en-US,France,Lyon,CREDIT_CARD ,3
+19100619531707272,103,0,25,120000.0,1,1075,Chrome Mobile,360,657,Mobile Phone,Android,fr-FR,France,Le Muy,CREDIT_CARD ,3
+19062718451171685,104,0,13,120000.0,1,428,Chrome Mobile,360,612,Mobile Phone,Android,fr-FR,France,Paris,CREDIT_CARD ,3
+19042215005123653,106,0,19,210500.0,1,1027,Chrome,1366,625,Desktop,Windows 10,fr-FR,France,Villeneuve-Loubet,CREDIT_CARD ,3
+19101118072901171,109,1,28,86000.0,1,1581,Firefox,1366,654,Desktop,Windows 10,fr,France,Grugny,CREDIT_CARD ,3
+19100715184644643,121,0,13,80000.0,1,548,Chrome Mobile,360,621,Mobile Phone,Android,fr-FR,France,Bron,CREDIT_CARD ,3
+19062717425138667,127,0,36,79000.0,1,2355,Internet Explorer,1920,962,Desktop,Windows 10,fr-FR,France,Pantin,CREDIT_CARD ,3
+19101111191477327,127,1,46,107000.0,1,1454,Chrome,1920,931,Desktop,Windows 7,fr-FR,France,Marseille,CREDIT_CARD ,4
+19101112462266524,131,1,32,76000.0,1,1865,Firefox,1256,678,Desktop,Windows 7,fr,France,Cazouls-les-Beziers,CREDIT_CARD ,3
+19100708172227711,136,0,29,71000.0,1,1461,Chrome,1600,789,Desktop,Windows 7,fr-FR,France,Aureilhan,PayPal ,3
+19101109332550032,151,1,39,515900.0,1,1686,Safari,1376,705,Desktop,OS X,fr-FR,France,Rennes,CREDIT_CARD ,10
+19101110074189759,159,1,43,67950.0,1,1783,Chrome,1680,907,Desktop,Windows 10,pt,France,Paris,CREDIT_CARD ,3
+19101109543991407,178,1,47,71500.0,1,2146,Firefox,1920,956,Desktop,Windows 7,fr,France,,CREDIT_CARD ,3
+19090615052551465,184,0,53,71500.0,1,2164,Firefox,1696,944,Desktop,Windows 10,fr,France,Arandon,CREDIT_CARD ,3
+19091621490943859,186,0,43,120000.0,1,1851,Chrome Mobile,412,718,Mobile Phone,Android,fr,France,,CREDIT_CARD ,3
+19101102075509601,9,1,7,90000.0,1,208,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,Den Helder,CREDIT_CARD ,2
+19101103311337749,9,1,7,50950.0,1,215,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dundalk,CREDIT_CARD ,1
+19101106134197116,9,1,7,46950.0,1,281,Safari,375,635,Mobile Phone,iOS,en-US,United States,Timnath,CREDIT_CARD ,1
+19101119503314201,9,1,7,50950.0,1,231,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,Den Helder,GIFT_CERTIFICATE CREDIT_CARD ,1
+19101020193821758,9,1,7,50950.0,1,212,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101102003396654,9,1,7,50950.0,1,211,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101102123624596,9,1,7,50950.0,1,238,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE PayPal ,1
+19101102120053081,9,1,7,50950.0,1,205,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,PayPal ,1
+19101020215344243,9,1,7,50950.0,1,199,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE ,1
+19101102161355379,9,1,7,46950.0,1,208,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101105264815640,9,1,7,46950.0,1,145,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,,CREDIT_CARD ,1
+19101105150208346,9,1,7,50950.0,1,228,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,,GIFT_CERTIFICATE ,1
+19101112035589233,9,1,7,50950.0,1,183,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+19101112141135973,9,1,7,50950.0,1,202,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,,GIFT_CERTIFICATE ,1
+19101201435831010,9,1,7,50950.0,1,237,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE GIFT_CERTIFICATE ,1
+19101201454536996,9,1,7,50950.0,1,241,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,GIFT_CERTIFICATE CREDIT_CARD ,1
+19101201413943591,9,1,7,50950.0,1,204,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101201414733879,9,1,7,50950.0,1,213,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101201561011166,9,1,7,49950.0,1,235,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101106254826775,9,1,7,50950.0,1,138,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,PayPal ,1
+19101106170810783,9,1,7,50950.0,1,148,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101103381016408,9,1,7,50950.0,1,186,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,PayPal ,1
+19101103413670482,9,1,7,50950.0,1,215,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,GIFT_CERTIFICATE ,1
+19101021280738628,9,1,7,50950.0,1,159,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,GIFT_CERTIFICATE ,1
+19101103391956598,9,1,7,46950.0,1,193,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101111034290129,9,1,7,50950.0,1,176,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101112113207145,9,1,7,50950.0,1,177,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,PayPal ,1
+19101112130332316,9,1,7,46950.0,1,197,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101112105955250,9,1,7,50950.0,1,190,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dublin,PayPal ,1
+19101112063260787,10,1,8,50950.0,1,237,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dundalk,CREDIT_CARD ,1
+19101112141168669,10,1,7,53450.0,1,193,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,Dundalk,CREDIT_CARD ,2
+18122409461171866,10,0,8,98000.0,1,169,Firefox,1236,750,Desktop,Windows 10,fr,France,,CREDIT_CARD ,2
+19101102210954120,10,1,7,53450.0,1,282,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101102155610804,10,1,7,53450.0,1,275,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101102024109632,10,1,8,90000.0,1,213,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101102320620809,10,1,8,50950.0,1,254,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,3
+19101103395110869,10,1,7,53450.0,1,271,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,2
+19101103342528095,10,1,8,50950.0,1,205,Chrome Mobile,393,658,Mobile Phone,Android,en-US,Ireland,,CREDIT_CARD ,1
+19101201545518029,10,1,8,50950.0,1,234,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101119574342938,10,1,8,50950.0,1,226,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,1
+19101100202242455,10,1,8,50950.0,1,159,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101105285670446,10,1,8,50950.0,1,166,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101115361016217,10,1,8,50950.0,1,159,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,CREDIT_CARD ,1
+19101111141411946,10,1,7,53450.0,1,229,Safari,375,635,Mobile Phone,iOS,en-US,Ireland,Dublin,CREDIT_CARD ,2
+19101102001029277,12,1,9,53450.0,1,300,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+19101102094984922,12,1,9,95950.0,1,206,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,4
+19101201482721167,12,1,9,53450.0,1,230,Chrome,1920,969,Desktop,Windows 10,en-US,Netherlands,,CREDIT_CARD ,2
+kq9ym00sj1jvcfs0,33,0,5,101130.0,2,414,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,Nîmes,PayPal,5
+kq9ym00sj1jvcfs0,33,0,5,101130.0,2,414,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,Nîmes,PayPal,5
+mkr1brg25wz456e8,163,1,21,346660.0,2,1068,Firefox,1280,607,Desktop,Windows 10,fr,France,Paris,CREDIT_CARD,9
+mkr1brg25wz456e8,163,1,21,346660.0,2,1068,Firefox,1280,607,Desktop,Windows 10,fr,France,Paris,CREDIT_CARD,9
+hp9e6m5rmg9anaf6,173,1,28,80950.0,2,1471,Chrome Mobile,960,543,Tablet,Android,fr-FR,France,Bordeaux,CREDIT_CARD,4
+hp9e6m5rmg9anaf6,173,1,28,80950.0,2,1471,Chrome Mobile,960,543,Tablet,Android,fr-FR,France,Bordeaux,CREDIT_CARD,4
+ddemstgbc5zs1347,194,0,24,199000.0,2,1850,Edge,1724,841,Desktop,Windows 10,fr,France,Saint-Vaast-la-Hougue,CREDIT_CARD,9
+ddemstgbc5zs1347,194,0,24,199000.0,2,1850,Edge,1724,841,Desktop,Windows 10,fr,France,Saint-Vaast-la-Hougue,CREDIT_CARD,9
+df9rktwwvtbmdfcc,202,1,23,537530.0,2,3774,Chrome,1920,937,Desktop,Windows 10,en-US,United States,Lafayette,CREDIT_CARD,9
+df9rktwwvtbmdfcc,202,1,23,537530.0,2,3774,Chrome,1920,937,Desktop,Windows 10,en-US,United States,Lafayette,CREDIT_CARD,9
+tfmwzc0s84gkvc1w,717,1,69,383640.0,3,2798,Chrome,1536,722,Desktop,Windows 10,fr-FR,France,Noisy-le-Grand,CREDIT_CARD,8
+tfmwzc0s84gkvc1w,717,1,69,383640.0,3,2798,Chrome,1536,722,Desktop,Windows 10,fr-FR,France,Noisy-le-Grand,CREDIT_CARD,8
+tfmwzc0s84gkvc1w,717,1,69,383640.0,3,2798,Chrome,1536,722,Desktop,Windows 10,fr-FR,France,Noisy-le-Grand,,8
+e3j73atayt436kyc,638,1,68,184450.0,3,2335,Firefox,1245,602,Desktop,OS X,fr,France,Nantes,,4
+e3j73atayt436kyc,638,1,68,184450.0,3,2335,Firefox,1245,602,Desktop,OS X,fr,France,Nantes,PayPal,4
+e3j73atayt436kyc,638,1,68,184450.0,3,2335,Firefox,1245,602,Desktop,OS X,fr,France,Nantes,PayPal,4
+mrrfve54kg34ws43,679,1,64,538500.0,3,1550,Edge,1920,937,Desktop,Windows 10,fr,France,Betton,CREDIT_CARD,9
+mrrfve54kg34ws43,679,1,64,538500.0,3,1550,Edge,1920,937,Desktop,Windows 10,fr,France,Betton,,9
+mrrfve54kg34ws43,679,1,64,538500.0,3,1550,Edge,1920,937,Desktop,Windows 10,fr,France,Betton,CREDIT_CARD,9
+zg72vw5xkbq81ns8,667,1,70,290700.0,3,2856,Firefox,1366,615,Desktop,Windows 10,fr,France,Audincourt,PayPal,8
+zg72vw5xkbq81ns8,667,1,70,290700.0,3,2856,Firefox,1366,615,Desktop,Windows 10,fr,France,Audincourt,,8
+zg72vw5xkbq81ns8,667,1,70,290700.0,3,2856,Firefox,1366,615,Desktop,Windows 10,fr,France,Audincourt,PayPal,8
+vxkmv7ta0xjt4g59,545,0,51,282000.0,3,2753,Chrome Mobile,412,761,Mobile Phone,Android,fr,France,Angers,CREDIT_CARD,9
+vxkmv7ta0xjt4g59,545,0,51,282000.0,3,2753,Chrome Mobile,412,761,Mobile Phone,Android,fr,France,Angers,,9
+vxkmv7ta0xjt4g59,545,0,51,282000.0,3,2753,Chrome Mobile,412,761,Mobile Phone,Android,fr,France,Angers,CREDIT_CARD,9
+yj1fw60wg4es931y,510,0,47,237720.0,3,3941,Safari,1080,707,Desktop,OS X,ru-ru,France,Doubs,CREDIT_CARD,6
+yj1fw60wg4es931y,510,0,47,237720.0,3,3941,Safari,1080,707,Desktop,OS X,ru-ru,France,Doubs,,6
+yj1fw60wg4es931y,510,0,47,237720.0,3,3941,Safari,1080,707,Desktop,OS X,ru-ru,France,Doubs,CREDIT_CARD,6
+bwrapnzwzj919ad1,530,1,48,251850.0,3,1844,Chrome,1920,969,Desktop,Windows 10,fr-FR,France,Montpellier,CREDIT_CARD,10
+bwrapnzwzj919ad1,530,1,48,251850.0,3,1844,Chrome,1920,969,Desktop,Windows 10,fr-FR,France,Montpellier,,10
+bwrapnzwzj919ad1,530,1,48,251850.0,3,1844,Chrome,1920,969,Desktop,Windows 10,fr-FR,France,Montpellier,CREDIT_CARD,10
+jpvztsmb8t8ep23g,511,0,54,345600.0,3,4326,Chrome Mobile,360,579,Mobile Phone,Android,fr-FR,France,Voiron,PayPal,8
+jpvztsmb8t8ep23g,511,0,54,345600.0,3,4326,Chrome Mobile,360,579,Mobile Phone,Android,fr-FR,France,Voiron,,8
+jpvztsmb8t8ep23g,511,0,54,345600.0,3,4326,Chrome Mobile,360,579,Mobile Phone,Android,fr-FR,France,Voiron,PayPal,8
+1snj98kcphgaq9jn,507,0,46,352200.0,3,2625,Edge,1600,757,Desktop,Windows 10,fr,France,Valenciennes,,8
+1snj98kcphgaq9jn,507,0,46,352200.0,3,2625,Edge,1600,757,Desktop,Windows 10,fr,France,Valenciennes,CREDIT_CARD,8
+1snj98kcphgaq9jn,507,0,46,352200.0,3,2625,Edge,1600,757,Desktop,Windows 10,fr,France,Valenciennes,CREDIT_CARD,8
+20dzfyg263ffjhc8,520,0,43,646500.0,3,1589,Samsung Browser,360,630,Mobile Phone,Android,fr-FR,France,Bastia,PayPal,11
+20dzfyg263ffjhc8,520,0,43,646500.0,3,1589,Samsung Browser,360,630,Mobile Phone,Android,fr-FR,France,Bastia,,11
+20dzfyg263ffjhc8,520,0,43,646500.0,3,1589,Samsung Browser,360,630,Mobile Phone,Android,fr-FR,France,Bastia,PayPal,11
+21w15b33v519m4q2,571,1,58,271720.0,3,3019,Chrome,1463,680,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD,7
+21w15b33v519m4q2,571,1,58,271720.0,3,3019,Chrome,1463,680,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD,7
+21w15b33v519m4q2,571,1,58,271720.0,3,3019,Chrome,1463,680,Desktop,Windows 10,fr-FR,France,Paris,,7
+jpnktcjtba9tagar,484,1,46,237720.0,3,2131,Safari,390,664,Mobile Phone,iOS,fr-fr,France,,CREDIT_CARD,9
+jpnktcjtba9tagar,484,1,46,237720.0,3,2131,Safari,390,664,Mobile Phone,iOS,fr-fr,France,,,9
+jpnktcjtba9tagar,484,1,46,237720.0,3,2131,Safari,390,664,Mobile Phone,iOS,fr-fr,France,,CREDIT_CARD,9
+m7pk0tapf9kqrpp0,433,1,45,184440.0,3,2758,Samsung Browser,360,630,Mobile Phone,Android,fr-FR,France,Albi,CREDIT_CARD,7
+m7pk0tapf9kqrpp0,433,1,45,184440.0,3,2758,Samsung Browser,360,630,Mobile Phone,Android,fr-FR,France,Albi,CREDIT_CARD,7
+m7pk0tapf9kqrpp0,433,1,45,184440.0,3,2758,Samsung Browser,360,630,Mobile Phone,Android,fr-FR,France,Albi,,7
+cz3ka4q9qa81xkbg,417,1,45,155950.0,3,1472,Chrome,1280,616,Desktop,OS X,fr-FR,France,Marseille,GIFT_CERTIFICATE,1
+cz3ka4q9qa81xkbg,417,1,45,155950.0,3,1472,Chrome,1280,616,Desktop,OS X,fr-FR,France,Marseille,,1
+cz3ka4q9qa81xkbg,417,1,45,155950.0,3,1472,Chrome,1280,616,Desktop,OS X,fr-FR,France,Marseille,GIFT_CERTIFICATE,1
+nhdc2az7dehqzp0e,438,0,39,223720.0,3,2289,Chrome,1707,577,Desktop,Windows 10,fr-FR,France,Curley,PayPal,8
+nhdc2az7dehqzp0e,438,0,39,223720.0,3,2289,Chrome,1707,577,Desktop,Windows 10,fr-FR,France,Curley,PayPal,8
+nhdc2az7dehqzp0e,438,0,39,223720.0,3,2289,Chrome,1707,577,Desktop,Windows 10,fr-FR,France,Curley,,8
+vgwnbcz47q19hgz3,536,1,44,282450.0,3,2588,Chrome Mobile,360,567,Mobile Phone,Android,fr-FR,France,Châteauroux,PayPal,9
+vgwnbcz47q19hgz3,536,1,44,282450.0,3,2588,Chrome Mobile,360,567,Mobile Phone,Android,fr-FR,France,Châteauroux,,9
+vgwnbcz47q19hgz3,536,1,44,282450.0,3,2588,Chrome Mobile,360,567,Mobile Phone,Android,fr-FR,France,Châteauroux,PayPal,9
+pws8es0xeatk8pg5,800,0,93,514620.0,6,7547,Chrome,1333,723,Desktop,OS X,en-GB,France,Mérignac,CREDIT_CARD,8
+pws8es0xeatk8pg5,800,0,93,514620.0,6,7547,Chrome,1333,723,Desktop,OS X,en-GB,France,Mérignac,,8
+pws8es0xeatk8pg5,800,0,93,514620.0,6,7547,Chrome,1333,723,Desktop,OS X,en-GB,France,Mérignac,CREDIT_CARD,8
+pws8es0xeatk8pg5,800,0,93,514620.0,6,7547,Chrome,1333,723,Desktop,OS X,en-GB,France,Mérignac,CREDIT_CARD,6
+pws8es0xeatk8pg5,800,0,93,514620.0,6,7547,Chrome,1333,723,Desktop,OS X,en-GB,France,Mérignac,,6
+pws8es0xeatk8pg5,800,0,93,514620.0,6,7547,Chrome,1333,723,Desktop,OS X,en-GB,France,Mérignac,CREDIT_CARD,6
+4c8ph28j51ac4m2h,392,1,37,239990.0,3,2510,Safari,428,860,Mobile Phone,iOS,fr-fr,France,Le Mans,CREDIT_CARD,8
+4c8ph28j51ac4m2h,392,1,37,239990.0,3,2510,Safari,428,860,Mobile Phone,iOS,fr-fr,France,Le Mans,,8
+4c8ph28j51ac4m2h,392,1,37,239990.0,3,2510,Safari,428,860,Mobile Phone,iOS,fr-fr,France,Le Mans,CREDIT_CARD,8
+19091408425253728,389,0,44,279000.0,3,2622,Safari,414,715,Mobile Phone,iOS,en-us,France,Saint-Jean-de-Braye,,7
+19091408425253728,389,0,44,279000.0,3,2622,Safari,414,715,Mobile Phone,iOS,en-us,France,Saint-Jean-de-Braye,CREDIT_CARD,7
+19091408425253728,389,0,44,279000.0,3,2622,Safari,414,715,Mobile Phone,iOS,en-us,France,Saint-Jean-de-Braye,CREDIT_CARD,7
+3shbfxd48ty8t3b7,361,0,33,239250.0,3,3676,Safari,414,622,Mobile Phone,iOS,fr-fr,France,Bordeaux,CREDIT_CARD,8
+3shbfxd48ty8t3b7,361,0,33,239250.0,3,3676,Safari,414,622,Mobile Phone,iOS,fr-fr,France,Bordeaux,CREDIT_CARD,8
+3shbfxd48ty8t3b7,361,0,33,239250.0,3,3676,Safari,414,622,Mobile Phone,iOS,fr-fr,France,Bordeaux,,8
+gwxhf0xt2vk6qtns,377,1,35,288300.0,3,1933,Firefox,1366,643,Desktop,Windows 10,fr,France,Vandoeuvre-les-Nancy,CREDIT_CARD,8
+gwxhf0xt2vk6qtns,377,1,35,288300.0,3,1933,Firefox,1366,643,Desktop,Windows 10,fr,France,Vandoeuvre-les-Nancy,CREDIT_CARD,8
+gwxhf0xt2vk6qtns,377,1,35,288300.0,3,1933,Firefox,1366,643,Desktop,Windows 10,fr,France,Vandoeuvre-les-Nancy,,8
+8f6hja3fn6447bgz,357,1,29,627000.0,3,2095,Firefox,1408,613,Desktop,Windows 10,fr,France,Lyon,,8
+8f6hja3fn6447bgz,357,1,29,627000.0,3,2095,Firefox,1408,613,Desktop,Windows 10,fr,France,Lyon,CREDIT_CARD,8
+8f6hja3fn6447bgz,357,1,29,627000.0,3,2095,Firefox,1408,613,Desktop,Windows 10,fr,France,Lyon,CREDIT_CARD,8
+9xnc8dty44t1473c,355,1,36,295500.0,3,1807,Chrome Mobile,360,670,Mobile Phone,Android,fr,France,Rochefort,CREDIT_CARD,8
+9xnc8dty44t1473c,355,1,36,295500.0,3,1807,Chrome Mobile,360,670,Mobile Phone,Android,fr,France,Rochefort,,8
+9xnc8dty44t1473c,355,1,36,295500.0,3,1807,Chrome Mobile,360,670,Mobile Phone,Android,fr,France,Rochefort,CREDIT_CARD,8
+pvmqw58k4jnmd4tt,324,0,31,73150.0,3,3723,Chrome Mobile,360,657,Mobile Phone,Android,fr-RE,Réunion,,CREDIT_CARD,4
+pvmqw58k4jnmd4tt,324,0,31,73150.0,3,3723,Chrome Mobile,360,657,Mobile Phone,Android,fr-RE,Réunion,,,4
+pvmqw58k4jnmd4tt,324,0,31,73150.0,3,3723,Chrome Mobile,360,657,Mobile Phone,Android,fr-RE,Réunion,,CREDIT_CARD,4
+51x8322x60bczfv3,343,1,34,518400.0,3,2508,Chrome Mobile,360,730,Mobile Phone,Android,fr-FR,France,Muizon,PayPal,7
+51x8322x60bczfv3,343,1,34,518400.0,3,2508,Chrome Mobile,360,730,Mobile Phone,Android,fr-FR,France,Muizon,,7
+51x8322x60bczfv3,343,1,34,518400.0,3,2508,Chrome Mobile,360,730,Mobile Phone,Android,fr-FR,France,Muizon,PayPal,7
+ngb7xwdxbsehhhjt,350,1,30,402000.0,3,2043,Chrome,1074,494,Desktop,Windows 10,fr-FR,France,Montchevrel,CREDIT_CARD,10
+ngb7xwdxbsehhhjt,350,1,30,402000.0,3,2043,Chrome,1074,494,Desktop,Windows 10,fr-FR,France,Montchevrel,CREDIT_CARD,10
+ngb7xwdxbsehhhjt,350,1,30,402000.0,3,2043,Chrome,1074,494,Desktop,Windows 10,fr-FR,France,Montchevrel,,10
+fweyycg3yk5tbv74,377,1,42,276600.0,3,1700,Safari,414,715,Mobile Phone,iOS,fr-fr,France,,CREDIT_CARD,9
+fweyycg3yk5tbv74,377,1,42,276600.0,3,1700,Safari,414,715,Mobile Phone,iOS,fr-fr,France,,,9
+fweyycg3yk5tbv74,377,1,42,276600.0,3,1700,Safari,414,715,Mobile Phone,iOS,fr-fr,France,,CREDIT_CARD,9
+vhd1nyq6j63gn78b,704,1,59,551100.0,6,4840,Chrome,1584,715,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD,6
+vhd1nyq6j63gn78b,704,1,59,551100.0,6,4840,Chrome,1584,715,Desktop,Windows 10,fr-FR,France,Paris,,6
+vhd1nyq6j63gn78b,704,1,59,551100.0,6,4840,Chrome,1584,715,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD,6
+vhd1nyq6j63gn78b,704,1,59,551100.0,6,4840,Chrome,1584,715,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD,8
+vhd1nyq6j63gn78b,704,1,59,551100.0,6,4840,Chrome,1584,715,Desktop,Windows 10,fr-FR,France,Paris,,8
+vhd1nyq6j63gn78b,704,1,59,551100.0,6,4840,Chrome,1584,715,Desktop,Windows 10,fr-FR,France,Paris,CREDIT_CARD,8
+sfyen4kd4thr4kzp,309,1,39,288730.0,3,1096,Safari,1680,881,Desktop,OS X,fr-fr,France,Pantin,CREDIT_CARD,7
+sfyen4kd4thr4kzp,309,1,39,288730.0,3,1096,Safari,1680,881,Desktop,OS X,fr-fr,France,Pantin,,7
+sfyen4kd4thr4kzp,309,1,39,288730.0,3,1096,Safari,1680,881,Desktop,OS X,fr-fr,France,Pantin,CREDIT_CARD,7
+19032721262328828,329,0,27,285000.0,3,1942,Safari,1112,698,Tablet,iOS,fr-fr,France,Ajaccio,,8
+19032721262328828,329,0,27,285000.0,3,1942,Safari,1112,698,Tablet,iOS,fr-fr,France,Ajaccio,CREDIT_CARD,8
+19032721262328828,329,0,27,285000.0,3,1942,Safari,1112,698,Tablet,iOS,fr-fr,France,Ajaccio,CREDIT_CARD,8
+25mp60ymh0zpjxqm,314,0,32,300610.0,3,941,Safari,1024,666,Tablet,iOS,fr-FR,France,Tourcoing,CREDIT_CARD,8
+25mp60ymh0zpjxqm,314,0,32,300610.0,3,941,Safari,1024,666,Tablet,iOS,fr-FR,France,Tourcoing,CREDIT_CARD,8
+25mp60ymh0zpjxqm,314,0,32,300610.0,3,941,Safari,1024,666,Tablet,iOS,fr-FR,France,Tourcoing,,8
+e4y95b8nr7mb4n51,319,1,30,232050.0,3,1257,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,Granville,,7
+e4y95b8nr7mb4n51,319,1,30,232050.0,3,1257,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,Granville,CREDIT_CARD,7
+e4y95b8nr7mb4n51,319,1,30,232050.0,3,1257,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,Granville,CREDIT_CARD,7
+g1scxqdyk51jfgv2,317,1,29,238720.0,3,1943,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,Chasseneuil-du-Poitou,CREDIT_CARD,7
+g1scxqdyk51jfgv2,317,1,29,238720.0,3,1943,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,Chasseneuil-du-Poitou,CREDIT_CARD,7
+g1scxqdyk51jfgv2,317,1,29,238720.0,3,1943,Chrome,1920,937,Desktop,Windows 10,fr-FR,France,Chasseneuil-du-Poitou,,7
+vfbfg3medkd1k2dx,328,1,30,350260.0,3,1274,Safari,375,619,Mobile Phone,iOS,fr-fr,France,Paris,,8
+vfbfg3medkd1k2dx,328,1,30,350260.0,3,1274,Safari,375,619,Mobile Phone,iOS,fr-fr,France,Paris,PayPal,8
+vfbfg3medkd1k2dx,328,1,30,350260.0,3,1274,Safari,375,619,Mobile Phone,iOS,fr-fr,France,Paris,PayPal,8
+mqjf2hn96n060d4g,345,0,34,871380.0,3,2407,Firefox,1536,711,Desktop,Windows 10,fr,France,Arles,CREDIT_CARD,10
+mqjf2hn96n060d4g,345,0,34,871380.0,3,2407,Firefox,1536,711,Desktop,Windows 10,fr,France,Arles,,10
+mqjf2hn96n060d4g,345,0,34,871380.0,3,2407,Firefox,1536,711,Desktop,Windows 10,fr,France,Arles,CREDIT_CARD,10
+q8a1c19486xbr6mr,358,0,36,283770.0,3,3151,Safari,1024,612,Tablet,iOS,fr-FR,France,Courbevoie,PayPal,10
+q8a1c19486xbr6mr,358,0,36,283770.0,3,3151,Safari,1024,612,Tablet,iOS,fr-FR,France,Courbevoie,,10
+q8a1c19486xbr6mr,358,0,36,283770.0,3,3151,Safari,1024,612,Tablet,iOS,fr-FR,France,Courbevoie,PayPal,10
+aj42cpyyv5ae1b1z,279,0,22,526890.0,3,1569,Chrome,1600,757,Desktop,Windows 10,fr-FR,France,Cagnes-sur-Mer,CREDIT_CARD,7
+aj42cpyyv5ae1b1z,279,0,22,526890.0,3,1569,Chrome,1600,757,Desktop,Windows 10,fr-FR,France,Cagnes-sur-Mer,CREDIT_CARD,7
+aj42cpyyv5ae1b1z,279,0,22,526890.0,3,1569,Chrome,1600,757,Desktop,Windows 10,fr-FR,France,Cagnes-sur-Mer,,7
+n6bg30ktngxep98c,268,1,29,116950.0,3,954,Chrome Mobile,375,643,Mobile Phone,iOS,fr-fr,France,,,5

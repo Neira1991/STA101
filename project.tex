@@ -1,0 +1,94 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{multirow}
+\usepackage{longtable}
+
+\title{STA101 - FOAD : Analyse des données}
+\author{Jhon Steven Neira}
+\date{February 2022}
+
+  
+\begin{document}
+  
+\maketitle
+  
+\tableofcontents
+
+\section{Introduction}
+   
+Comprendre comment se comporte un client est souvent un défi, et cela devient encore plus difficile lorsqu'il s'agit du marché numérique, le marché numérique est en pleine évolution et les clients changent constamment de comportement. Les entreprises qui réussissent à tirer parti de l'analyse de données numériques récoltées sur les clients ont une longueur d'avance sur la concurrence. Les méthodes d’analyse de données sont un moyen important pour nous aider a trouver des réponses que nous permettent de analyser cette comportement. Grâce a les techniques d’analyse des données il est possible d'analyser, par exemple, si le comportement d'achat des utilisateurs varie-t-il en fonction de l'appareil qu'ils utilisent ou découvrir combien des interactions sont nécessaires avant d'une transaction. Cette information est précieuse et dans ce rapport on va mettre en application ces techniques pour décrire un jeu des données que contient 1000 individus  qui ont effectué au moins une transaction sur une site e-commerce français.
+
+Pour commencer, ce rapport comportera une analyse univariée de chacune des variables quantitatives et qualitatives qui font partie de le jeu de données, en suite il passera a l'analyse bivariée pour vérifier des liens entre les variables quantitatives mesurées par la corrélation linéaire. En suite nous allons a étudier la forme du nuage des individus avec l'analyse de composants principaux qui va permettre d'interpréter le plan des données pour en suite appliquer l'algorithme K-means pour apprécier la proximité entre les individus et la variété de profils.
+
+
+\section{Récolte des  données }
+Les données ont été collectées a travers d'un script que trace le comportement d'un utilisateur sur le site web puis sont stockés dans une base de données à des fins de marketing et de tests statistiques, comme collaborateur de cette entreprise et avec son consentement, j'ai exécuté des requêtes dans las base de données pour obtenir ce jeu de données que contient des variables que je considère comme les plus significatives pour examiner le comportement d'achat des utilisateurs.
+
+
+
+\section{Étude préliminaire}
+\subsection{Nettoyage des données}
+Nous avons 309 individues sans city don on va supprimer cette variable.
+
+\subsection{Description des données}
+Ci-dessous se trouve une description de chacune des variables de l'ensemble de données, à l'exception de la variable \textit{fullVisitorId} lequelle est un hash composé de 16 caractères alphanumériques pour identifier le visiteur.
+
+
+
+\begin{center}
+\begin{longtable}{ |p{3cm}||p{3cm}|p{2cm}|p{5cm}|  }
+ \hline
+ \multicolumn{4}{|c|}{Variables} \\
+ \hline
+ Nom & Type &Intervalle&Définition\\
+ \hline
+ hits   & Quantitative discrète  &[9,800]&  Les hits sont les interactions des utilisateurs sur le site web.\\
+New visit &   Binaire   & [0, 1]   & C'est la première visite sur le site.\\
+Page views&   Quantitative discrète  & [1, 137]   &Est une page chargée (ou rechargée) dans un navigateur.\\
+Total transaction revenue & Quantitative continue  &[8.950, 871.380]&  Le revenu associé à la transaction. Cette valeur peut inclure les frais d'expédition, les taxes ou d'autres ajustements du revenu.\\
+Transactions    &Quantitative discrète  & [1, 6] &  Nombre de transactions du client.\\
+Time on site&   Quantitative continue  & [68, 8558]& Temps sur le site avant d'effectuer la transaction \\
+ Browser name& Qualitative nominal  & -   & Nom du navigateur web.\\
+ Browser width& Quantitative continue  & [320, 2560]& La largeur de la fenêtre du navigateur \\
+ Browser height& Quantitative continue  & [280, 1356]& La hauteur de la fenêtre du navigateur\\
+ Device category& Qualitative nominal   & -&Le dispositif par lequel l'utilisateur a effectué la transaction.\\
+ Operating system& Qualitative nominal  & -&Le système d'exploitation par lequel l'utilisateur a effectué la transaction\\
+ Language& Qualitative nominal  & -& La langue du navigateur au moment de la transaction.\\
+ Country& Qualitative nominal   & -& Le pays depuis où l'utilisateur a effectué la transaction.\\
+ Payment method& Qualitative nominal   & -&  Représente  ce que l'utilisateur a utilisé pour payer la transaction.\\
+ Item count& Quantitative discrète  & [1, 18]& Un item représente un produit individuel acheté dans le cadre de la transaction. \\
+ \hline
+\end{longtable}
+\end{center}
+
+\subsection{Description des variables}
+
+\subsection{Études des variables quantitatives}
+
+En una mirada general, podemos decir que un usuario promedio que
+\begin{table}[!htbp] \centering   \caption{}   \label{} \begin{tabular}{@{\extracolsep{5pt}}lccccccc} \\[-1.8ex]\hline \hline \\[-1.8ex] Statistic & \multicolumn{1}{c}{Mean} & \multicolumn{1}{c}{St. Dev.} & \multicolumn{1}{c}{Min} & \multicolumn{1}{c}{Max} \\ \hline \\[-1.8ex] hits & 86.618 & 99.984 & 9 & 800 \\ newVisits & 0.692 & 0.462 & 0  & 1 \\ pageviews & 16.313 & 14.863 & 1  & 137 \\ totalTransactionRevenue & 92,534.270 & 81,442.280 & 8,950  & 871,380 \\ transactions & 1.107 & 0.483 & 1 & 6 \\ timeOnSite & 888.189 & 959.672 & 0  & 7,547 \\ browser\_width & 1,146.060 & 653.819 & 320 & 2,560 \\ browser\_height & 764.110 & 156.292 & 280  & 1,356 \\ itemCount & 4.019 & 3.252 & 1  & 18 \\ \hline \\[-1.8ex] \end{tabular} \end{table} 
+
+
+\subsection{Études des variables qualitatives}
+
+
+
+Praesent imperdiet mi necante...
+
+\section{Analyse univariée}
+
+
+
+\section{Analyse biivariée}
+
+\section{Analyse en composantes principales}
+
+\section{Classification non supervisée }
+       
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  
+
+\section{Conclusion }
+Etiam lobortis facilisissem.  Nullam nec mi et neque pharetra 
+sollicitudin.  Praesent imperdiet mi necante...
+         
+\end{document}
