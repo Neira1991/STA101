@@ -35,13 +35,15 @@ head(round(variables_quantitatives.scale, 2))
 n<-nrow(variables_quantitatives)#nombre d'individus
 k<-ceiling(1 + log(n)/log(2))#nombre de classes
 
-Boxplot( ~ pageviews, data=variables_quantitatives,main="Boîte à moustaches pour la variable pageviews")
+Boxplot( ~ itemCount, data=variables_quantitatives,main="Boîte à moustaches pour la variable itemCount")
 
 ## construction de l'histogramme
-histogram(variables_quantitatives$totalTransactionRevenue,nint=10)
-hist(variables_quantitatives$hits)
+histogram(variables_quantitatives$itemCount,nint=20)
+min(variables_quantitatives$browser_height)
+hist(variables_quantitatives$totalTransactionRevenue)
 table(variables_quantitatives$hits)
 histogram(variables_quantitatives$newVisits)
+histogram(table(variables_qualitatives$deviceCategory))
 
 pie(table(variables_quantitatives$newVisits),
     col=c("grey","seagreen3"),
@@ -59,7 +61,7 @@ coul <- brewer.pal(5, "Set2")
 cities = sort(table(variables_qualitatives$city), decreasing = TRUE)
 cities
 names(cities)
-barplot(sort(table(variables_qualitatives$paymentMethod), decreasing = TRUE),
+barplot(sort(table(variables_qualitatives$deviceCategory), decreasing = TRUE),
         col=coul,
         cex.axis=0.8,
         cex.names=0.8,
