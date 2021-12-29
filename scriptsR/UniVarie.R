@@ -35,12 +35,13 @@ head(round(variables_quantitatives.scale, 2))
 n<-nrow(variables_quantitatives)#nombre d'individus
 k<-ceiling(1 + log(n)/log(2))#nombre de classes
 
-Boxplot( ~ itemCount, data=variables_quantitatives,main="Boîte à moustaches pour la variable itemCount")
+Boxplot( ~ pageviews, data=variables_quantitatives,main="Boîte à moustaches pour la variable pageviews")
 
 ## construction de l'histogramme
-histogram(variables_quantitatives$itemCount,nint=k)
-
-variables_quantitatives$newVisits
+histogram(variables_quantitatives$totalTransactionRevenue,nint=10)
+hist(variables_quantitatives$hits)
+table(variables_quantitatives$hits)
+histogram(variables_quantitatives$newVisits)
 
 pie(table(variables_quantitatives$newVisits),
     col=c("grey","seagreen3"),

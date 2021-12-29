@@ -1,7 +1,7 @@
 % !TEX root = preliminaryStudy.tex
 
 \subsection{Nettoyage des données}
-Nous avons 309 individues sans city don on va supprimer cette variable.
+Nous disposons de 1000 sessions d'individus qui ont effectué au moins une transaction, nous avons trouvé quelques individus qui apparaissent deux fois dans l'échantillon et nous voudrions composer les données avec des individus différents pour éviter de polluer  les données.
 
 \subsection{Description des données}
 Ci-dessous se trouve une description de chacune des variables de l'ensemble de données, à l'exception de la variable \textit{fullVisitorId} lequelle est un hash composé de 16 caractères alphanumériques pour identifier le visiteur.
@@ -19,7 +19,7 @@ Ci-dessous se trouve une description de chacune des variables de l'ensemble de d
 New visit &   Binaire   & [0, 1]   & C'est la première visite sur le site.\\
 Page views&   Quantitative discrète  & [1, 137]   &Est une page chargée (ou rechargée) dans un navigateur.\\
 Total transaction revenue & Quantitative continue  &[8.950, 871.380]&  Le revenu associé à la transaction. Cette valeur peut inclure les frais d'expédition, les taxes ou d'autres ajustements du revenu.\\
-Transactions    &Quantitative discrète  & [1, 6] &  Nombre de transactions du client.\\
+Transactions    &Quantitative discrète  & [1, 6] &  Nombre de transactions du client dans la session.\\
 Time on site&   Quantitative continue  & [68, 8558]& Temps sur le site avant d'effectuer la transaction \\
  Browser name& Qualitative nominal  & -   & Nom du navigateur web.\\
  Browser width& Quantitative continue  & [320, 2560]& La largeur de la fenêtre du navigateur \\
