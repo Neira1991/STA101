@@ -1,8 +1,29 @@
 % !TEX root = univariate.tex
+\begin{table}[!htbp] \centering 
+  \caption{} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lccccccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+Statistic & \multicolumn{1}{c}{Mean} & \multicolumn{1}{c}{St. Dev.} & \multicolumn{1}{c}{Min} & \multicolumn{1}{c}{Max} \\ 
+\hline \\[-1.8ex] 
+hits & 86.618 & 99.984 & 9 & 800 \\ 
+newVisits & 0.692 & 0.462 & 0  & 1 \\ 
+pageviews & 16.313 & 14.863 & 1  & 137 \\ 
+totalTransactionRevenue & 92,534.270 & 81,442.280 & 8,950  & 871,380 \\ 
+transactions & 1.107 & 0.483 & 1 & 6 \\ 
+timeOnSite & 888.189 & 959.672 & 0  & 7,547 \\ 
+browser\_width & 1,146.060 & 653.819 & 320 & 2,560 \\ 
+browser\_height & 764.110 & 156.292 & 280  & 1,356 \\ 
+itemCount & 4.019 & 3.252 & 1  & 18 \\ 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\end{table} 
 
-UnivariePour commencer, ce rapport comportera une analyse univariée de chacune des variables quantitatives et qualitatives qui font partie de le jeu de données, en suite il passera a l'analyse bivariée pour vérifier des liens entre les variables quantitatives mesurées par la corrélation linéaire.
 
-\begin{figure}
+
+
+\begin{figure}[H]
     \centering
     \subfloat[le 90 \%  du échantillon ont moins des 200 hits dans la session ou ils ont effectué au moins une transaction.]{
         \label{hits}
@@ -36,11 +57,11 @@ UnivariePour commencer, ce rapport comportera une analyse univariée de chacune 
 
      
     \caption{Overall caption}
-    \label{ref_label_overall}
+    \label{univarie_ref}
 \end{figure}
 
 
-\begin{figure}
+\begin{figure}[H]
 \ContinuedFloat
     \centering
 
@@ -75,11 +96,11 @@ UnivariePour commencer, ce rapport comportera une analyse univariée de chacune 
     }
 
     \caption{Overall caption2}
-    \label{ref_label_overall}
+    \label{univarie_ref}
 \end{figure}
 
 
-\begin{figure}
+\begin{figure}[H]
 \ContinuedFloat
     \centering
 
@@ -93,9 +114,10 @@ UnivariePour commencer, ce rapport comportera une analyse univariée de chacune 
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/itemcountHistogram.png}
     }
     \caption{Overall caption3}
-    \label{ref_label_overall}
+    \label{univarie_ref}
 \end{figure}
 
+Dans la figure  \ref{univarie_ref} nous faisons un analyse univarié pour chacun de variables.
 
 
 

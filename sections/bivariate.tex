@@ -1,5 +1,6 @@
 % !TEX root = bivariate.tex
-bivariate
+Une matrice de corrélation a été réalisée entre les variables quantitatives afin de pouvoir détecter les variables ayant une liaison.
+
 \begin{table}[ht]
 \begin{adjustbox}{width=1\textwidth}
 \small
@@ -16,5 +17,33 @@ itemCount               & 0.56                      & 0.45                      
 \end{tabular}
 \end{adjustbox}
 \end{table}
+ 
+Nous créons une table de contigence pour voir sur quel genre d'appareil se trouvent les transactions présentées par navigateur. nous pouvons observer que Chrome Mobile est un navigateur pour téléphones mobiles et tablets et chrome un navigateur juste pour desktop, en revanche,  Safari est un navigateur transversal aux dispositifs.
+\begin{table}[ht]
+\begin{adjustbox}{width=1\textwidth}
+\small
+\begin{tabular}{|l|c|c|c|c|c|c|c|}
+\hline
+             & \multicolumn{1}{l|}{Chrome} & \multicolumn{1}{l|}{Chrome Mobile} & \multicolumn{1}{l|}{Edge} & \multicolumn{1}{l|}{Firefox} & \multicolumn{1}{l|}{Internet Explorer} & \multicolumn{1}{l|}{Safari} & \multicolumn{1}{l|}{Samsung Browser} \\ \hline
+Desktop      & 353                         & 0                                  & 29                        & 61                           & 8                                      & 58                          & 0                                    \\ \hline
+Mobile Phone & 0                           & 178                                & 0                         & 1                            & 0                                      & 134                         & 23                                   \\ \hline
+Tablet       & 0                           & 9                                  & 1                         & 0                            & 0                                      & 25                          & 5                                    \\ \hline
+\end{tabular}
+\end{adjustbox}
+\end{table}
 
+
+Nous avons décidé de supprimer les transactions pour les navigateurs Iron, MIUI Browser et Opera, car il n'y avait que 1 ou 2 transactions pour ce navigateur dans le chantillon, et les résultats pour ce navigateur ne seront pas représentatifs.
+
+
+
+\begin{table}[]
+\begin{tabular}{|l|c|c|c|}
+\hline
+        & \multicolumn{1}{l|}{Iron} & \multicolumn{1}{l|}{MIUI} & \multicolumn{1}{l|}{Opera} \\ \hline
+Desktop & 1                         & 0                         & 2                          \\ \hline
+Mobile  & 0                         & 1                         & 0                          \\ \hline
+Tablet  & 0                         & 0                         & 0                          \\ \hline
+\end{tabular}
+\end{table}
 
