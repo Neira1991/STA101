@@ -7,8 +7,38 @@ library(RColorBrewer)
 
 transactions <- read.csv(file = "/Users/steven/Documents/cnam/methodes_descriptives/scriptsR/datasetClarinsTransactions.csv")
 transactions <- distinct(transactions, fullVisitorId, .keep_all= TRUE)
+rownames(transactions) <- transactions$fullVisitorId
 options(scipen = 100)
 variables_quantitatives$totalTransactionRevenue
+
+#Methode payment
+transform_language <- function(x) {
+  x_lower <- tolower(x)
+  print(x_lower)
+  if (str_detect(x_lower, "credit") ) {
+    result <-"credit_card"
+  } else if (str_detect(x_lower, "gift")) {
+    result <-"gift"
+  } else if (str_detect(x_lower, "paypal")) {
+    result <-"paypal"
+  }else {
+    result <- "NA"
+  }
+  return(result)
+}
+transactions$paymentMethod <- sapply(transactions$paymentMethod, function(x) transform_language(x))
+transactions$paymentMethod 
+
+transactions$language <- sapply(transactions$language, function(x) substr(x,1,2))
+
+
+pie(table(transactions$paymentMethod),
+    col=c("darkseagreen1","lightcoral","gray7","lightgoldenrod1"),
+    main = "Payment Method"
+)
+
+
+
 
 variables_quantitatives <- select(transactions, hits, 
                                   newVisits, pageviews, 
@@ -21,6 +51,13 @@ variables_qualitatives <- select(transactions, deviceCategory, browser_name,
                                  operatingSystem, language, 
                                   country, 
                                   city, paymentMethod)
+
+
+barplot(sort(table(transactions$language), decreasing = TRUE),
+        col=coul,
+        cex.axis=0.8,
+        cex.names=0.8,
+        las=2)
 
 stargazer(variables_quantitatives, type = "text")
 stargazer(variables_quantitatives, type = "latex")
