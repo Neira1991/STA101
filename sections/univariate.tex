@@ -22,41 +22,40 @@ itemCount & 4.019 & 3.252 & 1  & 18 \\
 
 
 
+Dans la figure  \ref{univarie_ref} nous faisons un analyse univarié pour chacun de variables.
 
 \begin{figure}[H]
     \centering
-    \subfloat[le 90 \%  du échantillon ont moins des 200 hits dans la session ou ils ont effectué au moins une transaction.]{
+    \subfloat[Hits: le 90 \%  du échantillon ont moins des 200 hits dans la session ou ils ont effectué au moins une transaction.]{
         \label{hits}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/hits_percent.png}
     }
     \hfill
-    \subfloat[Le 70 \% des transactions ont été réalisées par des nouveaux utilisateurs.]{
+    \subfloat[NewVisit: Le 70 \% des transactions ont été réalisées par des nouveaux utilisateurs.]{
         \label{new_visit}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/newVisit.png}
     }
      \hfill
-    \subfloat[Pour page views, Nous avons quelques valeurs atypiques qu'on veut supprimer avant de passer a l'étape suivant. Le 80 \%  du échantillon ont entre 0 et 25 pages vues.]{
+    \subfloat[PageViews: Pour page views, Nous avons quelques valeurs atypiques qu'on veut supprimer avant de passer a l'étape suivant. Le 80 \%  du échantillon ont entre 0 et 25 pages vues.]{
         \label{page_views}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/pageviews.png}
     }
     \hfill
-    \subfloat[La majorité de transactions sont entrées 0\euro  et  100\euro , Nous avons aussi des transactions atypiques qui  arrivent jusqu'à 800\euro ]{
+    \subfloat[TransactionsRevenue: La majorité de transactions sont entrées 0\euro  et  100\euro , Nous avons aussi des transactions atypiques qui  arrivent jusqu'à 800\euro ]{
         \label{transaction_revenue}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/transactionsrevenue.png}
     }
     \hfill
-    \subfloat[La majorité des individus font 1 transaction dans la session, ce qui correspond à la quantité attendu.]{
+    \subfloat[Transactions: La majorité des individus font 1 transaction dans la session, ce qui correspond à la quantité attendu.]{
         \label{transactions}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/transactionsHistogram.png}
     }
     \hfill
-    \subfloat[Les individus prennent moins d'un minute pour effectuer au moins une transaction, le plus part entre eux, prennent moins des 20 secondes.]{
+    \subfloat[ TimeOnSIte: Les individus prennent moins d'un minute pour effectuer au moins une transaction, le plus part entre eux, prennent moins des 20 secondes.]{
         \label{timeOnSite}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/TimeOnSIteHist.png}
     }
-
-     
-    \caption{Overall caption}
+    \caption{Images Univariée 1}
     \label{univarie_ref}
 \end{figure}
 
@@ -64,38 +63,36 @@ itemCount & 4.019 & 3.252 & 1  & 18 \\
 \begin{figure}[H]
 \ContinuedFloat
     \centering
-
-    \subfloat[Chrome est le navigateur préféré des utilisateurs du échantillon suivi par safari, suivi de la version mobile de chrome.]{
+    \subfloat[ browserName: Chrome est le navigateur préféré des utilisateurs du échantillon suivi par safari, suivi de la version mobile de chrome.]{
         \label{browserName}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/browser_name.png}
     }
     \hfill
-    \subfloat[Il existe un pourcentage important d'individus qui ont effectué une transaction à partir d'un écran dont la largeur est inférieure à 500, nous pouvons en déduire qu'ils ont été réalisés depuis un appareil mobile,  suivi d'une autre plage comprise entre 1800 et 190.]{
+    \subfloat[ browserWidth: Il existe un pourcentage important d'individus qui ont effectué une transaction à partir d'un écran dont la largeur est inférieure à 500, nous pouvons en déduire qu'ils ont été réalisés depuis un appareil mobile,  suivi d'une autre plage comprise entre 1800 et 190.]{
         \label{browser_widthBoxplot}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/browser_width.png}
     }
     \hfill
-    \subfloat[les données sont distribuées d'une manière plus uniforme, nous remarquons que les plus part de largeur d'écrans sont entre 600 pixels et 1000 pixels, nous n'observons pas de données exceptionnels ]{
-        \label{browser_heightBoxplot}
+    \subfloat[ browserHeight: les données sont distribuées d'une manière plus uniforme, nous remarquons que les plus part de largeur d'écrans sont entre 600 pixels et 1000 pixels, nous n'observons pas de données exceptionnels ]{
+        \label{browser_height_bloxplot}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/browser_height_bloxplot.png}
     }
     \hfill
-    \subfloat[Contrairement a ce que nous avons constaté avec autres variables, les 57 \% des transactions ont étés réalisé depuis une laptop, suivi d'un 38\%  avec un dispositif mobile.]{
+    \subfloat[deviceCategory: Contrairement a ce que nous avons constaté avec autres variables, les 57 \% des transactions ont étés réalisé depuis une laptop, suivi d'un 38\%  avec un dispositif mobile.]{
         \label{deviceCategory}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/deviceCategory.png}
     }
     \hfill
-    \subfloat[Windows 10 est le système d'exploitation préféré du échantillon. ]{
+    \subfloat[operatingSys: Windows 10 est le système d'exploitation préféré du échantillon. ]{
         \label{operatingSys}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/operatingSys.png}
     }
     \hfill
-    \subfloat[L'anglais américain et le français du France sont les langues préférées des utilisateurs lorsqu'ils effectuent une transaction.]{
+    \subfloat[languageApply: L'anglais américain et le français du France sont les langues préférées des utilisateurs lorsqu'ils effectuent une transaction.]{
         \label{language}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/language_apply.png}
     }
-
-    \caption{Overall caption2}
+    \caption{Images Univariée 2 }
     \label{univarie_ref}
 \end{figure}
 
@@ -104,20 +101,30 @@ itemCount & 4.019 & 3.252 & 1  & 18 \\
 \ContinuedFloat
     \centering
 
-      \subfloat[Avec plus de 600 sessions, la carte de crédit est le mode de paiement le plus utilisé pour les transats, suivi de Paypal avec un peu plus de 100 session. ]{
+      \subfloat[PaymentMethod: Avec plus de 600 sessions, la carte de crédit est le mode de paiement le plus utilisé pour les transats, suivi de Paypal avec un peu plus de 100 session. ]{
         \label{paymentMethod}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/paymentMethod.png}
     }
     \hfill
-    \subfloat[Dans un peu plus de la moitié des sessions, les transactions effectuées comprenaient 1, 2 ou 3 articles, mais un nombre important de transactions contenaient entre 5 et 10 articles. ]{
+    \subfloat[itemCount: Dans un peu plus de la moitié des sessions, les transactions effectuées comprenaient 1, 2 ou 3 articles, mais un nombre important de transactions contenaient entre 5 et 10 articles. ]{
         \label{itemcountHistogram}
         \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/itemcountHistogram.png}
     }
-    \caption{Overall caption3}
+     \hfill
+    \subfloat[Country: La France est le pays où se réalise plus des transactions pour ce e-commerce: 501, suivi de Netherlands avec 190. les données sont complètement cohérentes vu que c'est un e-commerce français. ]{
+        \label{country}
+        \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/country.png}
+    }
+    \hfill
+    \subfloat[City: Nous avons 302 villes différentes dans l'échantillon et on a 309 transactions où on a pas des info de la ville. La ville que plus a des transactions est Paris avec 90, suivi de Dublin avec 38. ]{
+        \label{cities}
+        \includegraphics[width=0.45\textwidth]{scriptsR/imgs/univarie/city.png}
+    }
+  
+    \caption{Images Univariée 3}
     \label{univarie_ref}
 \end{figure}
 
-Dans la figure  \ref{univarie_ref} nous faisons un analyse univarié pour chacun de variables.
 
 
 

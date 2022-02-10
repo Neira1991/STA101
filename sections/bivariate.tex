@@ -1,5 +1,5 @@
 % !TEX root = bivariate.tex
-Une matrice de corrélation a été réalisée entre les variables quantitatives afin de pouvoir détecter les variables ayant une liaison. A partir de les resulta, on va créer une variable supplémentaire que s'appelle activité, pour pouvoir recapituler les info de Hits, pageviews et time on site y otra variable de aria comninando con heigth y weith
+Une matrice de corrélation a été réalisée entre les variables quantitatives afin de pouvoir détecter les variables ayant une liaison. A partir de les résulta, On a décidé de créer une variable supplémentaire que s'appellera \emph{\textbf{Activité}}, pour pouvoir récapituler les informations des variables \emph{Hits}, \emph{PageViews} et \emph{TimeOnSite}.  si analisons les variables  \emph{browser\_width} et \emph{browser\_width} nous remarquons qu'ils sont corrélés, nous pouvons donc créer une variable  \emph{\textbf{Area}} a partir de ces deux variables que représentera la surface du dispositif de l'utilisateur.
 
 \begin{table}[ht]
 \begin{adjustbox}{width=1\textwidth}
@@ -37,7 +37,8 @@ Nous avons décidé de supprimer les transactions pour les navigateurs Iron, MIU
 
 
 
-\begin{table}[]
+\begin{table}[ht]
+\begin{adjustbox}{width=0.4\textwidth}
 \begin{tabular}{|l|c|c|c|}
 \hline
         & \multicolumn{1}{l|}{Iron} & \multicolumn{1}{l|}{MIUI} & \multicolumn{1}{l|}{Opera} \\ \hline
@@ -45,5 +46,52 @@ Desktop & 1                         & 0                         & 2             
 Mobile  & 0                         & 1                         & 0                          \\ \hline
 Tablet  & 0                         & 0                         & 0                          \\ \hline
 \end{tabular}
+\end{adjustbox}
 \end{table}
+
+
+\begin{table}[!hbtp]
+\caption{ \emph{deviceCategory} et le \emph{operatingSys} en pourcentages} 
+\begin{adjustbox}{width=0.6\textwidth}
+\begin{tabular}{|l|c|c|c|}
+\hline
+        & \multicolumn{1}{l|}{Desktop} & \multicolumn{1}{l|}{Mobile} & \multicolumn{1}{l|}{Tablet} \\ \hline
+Android & 0                         & 93.9                         & 6.1                          \\ \hline
+iOS  & 0                         & 83.5                         & 16.5                          \\ \hline
+Linux  & 100                         & 0                         & 0                          \\ \hline
+OS X   & 100                         & 0                         & 0                          \\ \hline
+Windows 10   & 100                         & 0                         & 0                          \\ \hline
+Windows 7   & 100                         & 0                         & 0                          \\ \hline
+Windows 8  & 100                         & 0                         & 0                          \\ \hline
+Windows 8.1  & 100                         & 0                         & 0                          \\ \hline
+Windows Vista   & 100                        & 0                         & 0                          \\ \hline
+All   & 57.6                        & 37.9                        & 4.5                          \\ \hline
+\end{tabular}
+\end{adjustbox}
+\label{table:deviceCategoryoperatingSys}
+\end{table}
+
+on veut croiser la catégorie \emph{deviceCategory} et le \emph{operatingSys}, on a l'hypothèse qu'elles sont liées. Dans le tableau ~\ref{table:deviceCategoryoperatingSys} on represent les effectifs au tableau en pourcentages pour mieux l'interpreter.
+
+
+\begin{table}[!hbtp]
+\caption{statistique de test} 
+\begin{center}
+\begin{tabular}{lcccc}
+\hline\hline
+\multicolumn{1}{c}{Desktop}&\multicolumn{1}{c}{Mobile}&\multicolumn{1}{c}{Tablet}&\multicolumn{1}{c}{Resultat}\tabularnewline
+\multicolumn{1}{c}{{\scriptsize $N=512$}}&\multicolumn{1}{c}{{\scriptsize $N=337$}}&\multicolumn{1}{c}{{\scriptsize $N=40$}}&\tabularnewline
+\hline
+57\%&38\%&5\%&$ \chi^{2}_{2}=913.73,~ P=< 2.2e-16  $\tabularnewline
+\hline
+\end{tabular}
+\end{center}
+\label{table:testChiDeux}
+\end{table}
+
+
+Comme nous travaillons avec un échantillon et non la population entière, nous pouvons compléter ce tableau croisé par un test d'indépendance de \emph{khi-deux}. Cela nous permet de tester, et éventuellement de rejeter, l'hypothèse d'indépendance des lignes et des colonnes du tableau, c'est-à-dire l'hypothèse selon laquelle les écarts observés par rapport à l'indépendance sont uniquement dus à un biais d'échantillonnage. Dans le tableau ~\ref{table:testChiDeux} la statistique de test est plus élevée que la valeur  \emph{khi-deux}, donc on ne peut maintenir l'hypothèse selon laquelle le type de dispositif n'a aucun lien avec le système d'exploitation.
+
+
+
 

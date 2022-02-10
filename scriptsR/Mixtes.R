@@ -8,16 +8,24 @@ library(factoextra)
 
 transactions <- read.csv(file = "/Users/steven/Documents/cnam/methodes_descriptives/scriptsR/datasetClarinsTransactions.csv")
 
+###----- PREPROCESING -------###
+
 transactions <- distinct(transactions, fullVisitorId, .keep_all= TRUE)
+
 rownames(transactions) <- transactions$fullVisitorId
+
 transactions <- transactions %>% filter(timeOnSite > 100)
+
 transactions<-transactions[!(transactions$browser_name=="Opera" | transactions$browser_name=="MIUI Browser" | transactions$browser_name=="Iron"),]
+
 transactions$language <- sapply(transactions$language, function(x) substr(x,1,2))
+
+#Create Variable Area
 transactions$sizeArea <- transactions$browser_width * transactions$browser_height
 
 
-# Calling str_detect() function
-transform_language <- function(x) {
+# Payment Methode Preprocesing
+transform_paymentMethod <- function(x) {
   x_lower <- tolower(x)
   print(x_lower)
   if (str_detect(x_lower, "credit") ) {
@@ -31,22 +39,23 @@ transform_language <- function(x) {
   }
   return(result)
 }
-transactions$paymentMethod <- sapply(transactions$paymentMethod, function(x) transform_language(x))
+transactions$paymentMethod <- sapply(transactions$paymentMethod, function(x) transform_paymentMethod(x))
 transactions$paymentMethod 
+
+
 
 #define Min-Max normalization function
 min_max_norm <- function(x) {
   (x - min(x)) / (max(x) - min(x))
 }
 
-#apply Min-Max normalization 
+#Create variable activity
 transactions$hits_norm <- min_max_norm(transactions$hits)
 transactions$pageviews_norm <- min_max_norm(transactions$pageviews)
 transactions$timeOnSite_norm <- min_max_norm(transactions$timeOnSite)
 head(transactions$timeOnSite_norm)
 head(transactions$pageviews_norm)
 head(transactions$timeOnSite_norm)
-
 transactions$activity <- (transactions$hits_norm + transactions$pageviews_norm + transactions$timeOnSite_norm) / 3
 
 transactions$newVisits <- ifelse(transactions$newVisits==1, "New user","Old user")

@@ -4,8 +4,11 @@ library(stargazer)
 library(car)
 library(lattice)
 library(RColorBrewer)
+library(questionr)
+library(rgrs)
 
 transactions <- read.csv(file = "/Users/steven/Documents/cnam/methodes_descriptives/scriptsR/datasetClarinsTransactions.csv")
+#/Users/stevenneira/Documents/Master/Cnam/STA101/Rapport/STA101/
 transactions <- distinct(transactions, fullVisitorId, .keep_all= TRUE)
 rownames(transactions) <- transactions$fullVisitorId
 options(scipen = 100)
@@ -28,7 +31,7 @@ pairs(variables_quantitatives,cex=.4)
 mat.cor<-cor(variables_quantitatives)
 print(round(mat.cor,2))
 
-table(variables_qualitatives$deviceCategory,variables_qualitatives$browser_name)
+table(variables_qualitatives$deviceCategory)
 
 
 #transactions["19100317581818704",]
@@ -71,4 +74,11 @@ Boxplot( ~ activity, data=transactions,main="Boîte à moustaches pour la variab
 head(transactions$activity)
 
 
+##Test chi-deux
+
+tab <- table(transactions$operatingSystem, transactions$deviceCategory)
+lprop(tab)
+chisq.test(tab)
+mosaicplot(tab)
+mosaicplot(tab, las = 3, shade = TRUE)
 

@@ -5,7 +5,7 @@ library(car)
 library(lattice)
 library(RColorBrewer)
 
-transactions <- read.csv(file = "/Users/steven/Documents/cnam/methodes_descriptives/scriptsR/datasetClarinsTransactions.csv")
+transactions <- read.csv(file = "/Users/stevenneira/Documents/Master/Cnam/STA101/Rapport/STA101/scriptsR/datasetClarinsTransactions.csv")
 transactions <- distinct(transactions, fullVisitorId, .keep_all= TRUE)
 rownames(transactions) <- transactions$fullVisitorId
 options(scipen = 100)
@@ -26,6 +26,21 @@ transform_language <- function(x) {
   }
   return(result)
 }
+
+cities_to_include <- c("", "Paris", "Dublin", "Cork", "Lyon", "Den Helder")
+testcities <- filter(transactions, city %in% cities_to_include)
+pie(sort(table(testcities$city),  decreasing = TRUE),
+    main = "nouvel utilisateur?",
+    c("NA","Paris", "Dublin", "Cork", "Lyon", "Den Helder")
+)
+
+countries_to_include <- c("France", "Netherlands", "Ireland", "United States")
+
+transactions$country <- filter(transactions, country %in% countries_to_include)
+test
+country = sort(table(transactions$country), decreasing = TRUE)
+country
+
 transactions$paymentMethod <- sapply(transactions$paymentMethod, function(x) transform_language(x))
 transactions$paymentMethod 
 
@@ -96,9 +111,17 @@ table(variables_qualitatives$deviceCategory)
 coul <- brewer.pal(5, "Set2") 
 
 cities = sort(table(variables_qualitatives$city), decreasing = TRUE)
-cities
+length(cities)
+
+variables_qualitatives %>% filter(mass > mean(mass, na.rm = TRUE))
+
+country = sort(filter(table(variables_qualitatives$country),France), decreasing = TRUE)
+country
+
+
+
 names(cities)
-barplot(sort(table(variables_qualitatives$deviceCategory), decreasing = TRUE),
+barplot(sort(table(variables_qualitatives$country), decreasing = TRUE),
         col=coul,
         cex.axis=0.8,
         cex.names=0.8,
