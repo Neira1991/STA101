@@ -7,9 +7,10 @@ library(missMDA)
 library(factoextra)
 library(VIM)
 library(naniar)
+library(ggplot2)
+library(dendextend)
 
-
-transactions <- read.csv(file = "/Users/steven/Documents/cnam/methodes_descriptives/scriptsR/datasetClarinsTransactions.csv")
+transactions <- read.csv(file = "/Users/stevenneira/Documents/Master/Cnam/STA101/Rapport/STA101/scriptsR/datasetClarinsTransactions.csv")
 typeof(transactions)
 ###----- PREPROCESING -------###
 
@@ -106,11 +107,24 @@ barplot(res.famd$eig[,1], las = 2, cex.names = .5)
 
 ncp <- 30
 D <- dist(res.famd$ind$coord[,1:ncp])#distance euclidienne entre observations
-res.hclust  <-  hclust(D,method = "ward.D2")#CAH par méthode de Ward
+res.hclust <-  hclust(D,method = "ward.D2")#CAH par méthode de Ward
+res.hclust
 
+plot(res.hclust, hang = -1)
+ggplot(color_branches(res.hclust, k = 5), labels = FALSE)
 
-barplot(sort(res.hclust$height,decreasing = TRUE)[1:15],
-        names.arg = 1:15,
+inertie <- sort(res.hclust$height, decreasing = TRUE)
+plot(inertie[1:10], type = "s", xlab = "Nombre de classes", ylab = "Inertie")
+
+plot(res.hclust, labels = FALSE, main = "Partition en 3, 4 ou 6 classes", xlab = "", ylab = "", sub = "", axes = FALSE, hang = -1)
+rect.hclust(res.hclust, 3, border = "green3")
+rect.hclust(res.hclust, 4, border = "red3")
+rect.hclust(res.hclust, 6, border = "blue3")
+
+points(c(3, 4, 6), inertie[c(3, 4, 6)], col = c("green3", "red3", "blue3"), cex = 2, lwd = 3)
+
+barplot(sort(res.hclust$height,decreasing = TRUE)[1:10],
+        names.arg = 1:10,
         xlab = "index",
         ylab = "hauteur de fusion")
 
@@ -128,6 +142,8 @@ centres.gravite <- do.call(rbind, centres.gravite)#donne un objet de type "matri
 res.kmeans <- kmeans(res.famd$ind$coord[,1:ncp],
                      centers = centres.gravite)
 
+res.kmeans$cluster
+
 part.finale <- as.factor(res.kmeans$cluster)
 
 table(part.finale)
@@ -142,6 +158,10 @@ res.ncp <- estim_ncpFAMD(transactions_part[,-indexes_illustratives],# on retire 
                          
 )
 
+#res <- Factoshiny(transactions_part)
+
+
+
 plot(x = as.numeric(names(res.ncp$crit)),
      y = res.ncp$crit,
      xlab = "S",
@@ -149,8 +169,23 @@ plot(x = as.numeric(names(res.ncp$crit)),
      main = "Erreur de validation croisée\n en fonction du nombre d'axes",
      type = "b")
 
-
+res.famd <- FAMD(transactions_part,
+                 ncp = Inf,
+                 graph = FALSE,
+                 sup.var =c(18))
 fviz_mfa_ind(res.famd, 
              habillage = "classe", # couleurs selon les modalités de la variable classe 
              palette = c("#0000FFB3","#FF00FFB3","#B8860BB3")# définition des couleurs
 )
+
+plot(res.famd,
+     choix = "quali.var[3]",
+     invisible = c("quanti","ind","quali.sup","quali.var" )
+)
+plot(res.famd, choix = "ind", invisible = "quali", select = "contrib 35")
+transactions_part["pws8es0xeatk8pg5",]
+transactions_part["e3j73atayt436kyc",]
+transactions_part["vhd1nyq6j63gn78b",]
+transactions_part["e3j73atayt436kyc",]
+transactions_part["e3j73atayt436kyc",]
+transactions_part["e3j73atayt436kyc",]
