@@ -1,13 +1,16 @@
 library(FactoMineR)
 library(Factoshiny)
 library(dplyr)
+library (plyr)
 library(stringr)   
 library(missMDA)
 library(factoextra)
+library(VIM)
+library(naniar)
 
 
 transactions <- read.csv(file = "/Users/steven/Documents/cnam/methodes_descriptives/scriptsR/datasetClarinsTransactions.csv")
-
+typeof(transactions)
 ###----- PREPROCESING -------###
 
 transactions <- distinct(transactions, fullVisitorId, .keep_all= TRUE)
@@ -72,28 +75,46 @@ transactions$city <- NULL
 
 #res <- Factoshiny(transactions)
 
+var.illustratives <- c("browser_height","browser_width", "operatingSystem","hits_norm","pageviews_norm","timeOnSite_norm")
+
+index_browser_height <- grep("browser_height", colnames(transactions))
+index_browser_width <- grep("browser_width", colnames(transactions))
+index_operatingSystem <-  grep("operatingSystem", colnames(transactions))
+index_hits_norm <-  grep("hits_norm", colnames(transactions))
+index_hits_norm
+index_pageviews_norm <-  grep("pageviews_norm", colnames(transactions))
+index_timeOnSite_norm <-  grep("timeOnSite_norm", colnames(transactions))
+index_transactions <-  grep("transactions", colnames(transactions))
+
+indexes_illustratives <- c(index_browser_height,
+                           index_browser_width,
+                           index_operatingSystem,
+                           index_hits_norm,
+                           index_pageviews_norm,
+                           index_timeOnSite_norm,
+                           index_transactions
+)
+transactions[-c(indexes_illustratives),]
 
 res.famd <- FAMD(transactions,
                  ncp = Inf,
                  graph = FALSE,
-                 sup.var = c(transactions$activity,transactions$sizeArea ))
-round(res.famd$eig, 3)
+                 sup.var =indexes_illustratives)
 
 round(res.famd$eig, 3)
-
 barplot(res.famd$eig[,1], las = 2, cex.names = .5)
 
-ncp <- 29
+ncp <- 30
 D <- dist(res.famd$ind$coord[,1:ncp])#distance euclidienne entre observations
 res.hclust  <-  hclust(D,method = "ward.D2")#CAH par méthode de Ward
+
 
 barplot(sort(res.hclust$height,decreasing = TRUE)[1:15],
         names.arg = 1:15,
         xlab = "index",
         ylab = "hauteur de fusion")
 
-#kmeans
-nbclasse <- 4
+nbclasse <- 3
 partition <-  cutree(res.hclust, k = nbclasse) #élagage de l'arbre
 
 #Consolidation
@@ -108,20 +129,18 @@ res.kmeans <- kmeans(res.famd$ind$coord[,1:ncp],
                      centers = centres.gravite)
 
 part.finale <- as.factor(res.kmeans$cluster)
+
 table(part.finale)
 
 transactions_part <- cbind.data.frame(transactions, classe = part.finale)
 catdes(transactions_part, num = ncol(transactions_part))
 
-res.famd <- FAMD(transactions_part,
-                 ncp = Inf,
-                 graph = FALSE,
-                 sup.var =  c(ncol(transactions_part),c(transactions$activity,transactions$sizeArea )))
 
-res.ncp <- estim_ncpFAMD(transactions_part,
-                         ncp.max = 10,
+res.ncp <- estim_ncpFAMD(transactions_part[,-indexes_illustratives],# on retire les variables illustratves qui ne sont pas gérées par la fonction (et inutile pour déterminer le nombre d'axes
                          method.cv = "Kfold",
-                         nbsim = 40)
+                         nbsim = 40 #augmenter ce nombre améliore la précision des résultats, mais aussi le temps de calcul
+                         
+)
 
 plot(x = as.numeric(names(res.ncp$crit)),
      y = res.ncp$crit,
@@ -130,11 +149,8 @@ plot(x = as.numeric(names(res.ncp$crit)),
      main = "Erreur de validation croisée\n en fonction du nombre d'axes",
      type = "b")
 
+
 fviz_mfa_ind(res.famd, 
              habillage = "classe", # couleurs selon les modalités de la variable classe 
-             palette = c("#000000B3", "#FF0000B3", "#00CD00B3","#0000FFB3","#FF00FFB3","#B8860BB3")# définition des couleurs
-) 
-
-res.dimdesc <- dimdesc(res.famd)
-lapply(res.dimdesc$Dim.1, round, 3)
-
+             palette = c("#0000FFB3","#FF00FFB3","#B8860BB3")# définition des couleurs
+)

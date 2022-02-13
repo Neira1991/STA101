@@ -1,21 +1,43 @@
-Au vu de l'analyse bivarié, nous remarquons variables que s'approchant.
+% !TEX root =choix_variables.tex
+
+Au vu de l'analyse bivariée, nous remarquons le rapprochement de plusieurs variables. Les variables actives étant à la fois quantitatives et qualitatives, le choix d'une AFDM pour une  analyse factorielle s'impose. 
+\emph{BrowserHeight} et \emph{browserWidth}, englobés par la nouvelle variable Area. Hits, PageViews et TimeOnSite, englobés par la nouvelle variable Activity.
 
 
-les variables actives étant à la fois quantitatives et qualitatives, le choix d'une AFDM pour une analyse factorielle s'imposera.
+\textbf{Variables Actives:} 
 
-Notons que nous avions précédemment repéré de potentielles liaisons non-linéaires entre variables quantitatives. Malheureusement, l'AFDM (comme l'ACP) n'est pas une méthode très performante pour mettre en évidence des liaisons non-linéaires entre variables quantitatives. Pour corriger cela, nous avons choisi d'opérer les transformations log sur les variables relatives à la pollution. Cette transformation est assez courante pour des données de comptage (ici on compte des particules de polluant). La visualisation de la matrice représentant les coefficients de Pearson semble indiquer que cette transformation a du sens. En effet, on peut constater que les coefficients associés aux variables transformées sont globalement plus élevé que ceux portant sur les variables non-transformées.
+\textbf{Variables Quantitatives} 
+\begin{itemize}
+  \item ItemCount.
+  \item Activity.
+  \item TotalTransactionRevenue.
+  \item Area.
+\end{itemize}
 
-browser heigth et width, hits y las que componen activity, operatingSystem, 
 
-las variables activas
+\textbf{Variables Qualitatives} 
+\begin{itemize}
+  \item Country.
+  \item Language.
+  \item BrowserName.
+  \item DeviceCategory.
+  \item PaymentMethod.
+  \item Newvisit.
+\end{itemize}
 
-itemCount
-activity
-totalTransactionRevenue
-sizeArea
 
-country
-language
-browser name
-paymentMethod
-deviceCategory
+
+\textbf{Variables supplementaires} 
+\begin{itemize}
+  \item BrowserWidth.
+  \item BrowserHeight.
+  \item OperatingSys.
+  \item Hits.
+  \item Pageviews.
+  \item TimeOnsite.
+\end{itemize}
+
+
+
+
+

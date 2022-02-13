@@ -1,97 +1,76 @@
 % !TEX root = bivariate.tex
-Une matrice de corrélation a été réalisée entre les variables quantitatives afin de pouvoir détecter les variables ayant une liaison. A partir de les résulta, On a décidé de créer une variable supplémentaire que s'appellera \emph{\textbf{Activité}}, pour pouvoir récapituler les informations des variables \emph{Hits}, \emph{PageViews} et \emph{TimeOnSite}.  si analisons les variables  \emph{browser\_width} et \emph{browser\_width} nous remarquons qu'ils sont corrélés, nous pouvons donc créer une variable  \emph{\textbf{Area}} a partir de ces deux variables que représentera la surface du dispositif de l'utilisateur.
+Une matrice de corrélation a été réalisée entre les variables quantitatives afin de détecter les  variables ayant une liaison. À partir des résultats, nous avons décidé de créer une variable  supplémentaire nommée \emph{\textbf{Activity}}, qui englobe les informations des variables  \emph{Hits}, \emph{PageViews} et \emph{TimeOnSite}. Nous remarquons également que les  variables \emph{browser\_width} et \emph{browser\_height} sont corrélés, nous pouvons donc  créer une variable \emph{\textbf{Area}} à partir de ces deux variables, elle représentera la surface  du dispositif de l'utilisateur. 
 
-\begin{table}[ht]
-\begin{adjustbox}{width=1\textwidth}
-\small
-\begin{tabular}{|l|c|c|c|c|c|c|c|}
-\hline
-                        & \multicolumn{1}{l|}{Hits} & \multicolumn{1}{l|}{pageviews} & \multicolumn{1}{l|}{totalTransactionRevenue} & \multicolumn{1}{l|}{timeOnSite} & \multicolumn{1}{l|}{browser\_width} & \multicolumn{1}{l|}{browser\_height} & \multicolumn{1}{l|}{itemCount} \\ \hline
-hits                    & 1                         & \cellcolor{green!15} 0.74                           & 0.65                                         & 0.69                            & -0.04                               & -0.18                                & 0.56                           \\ \hline
-pageviews               & \cellcolor{green!15}0.74                      & 1                              & 0.44                                         & \cellcolor{green!15}0.82                            & 0.07                                & -0.11                                & 0.45                           \\ \hline
-totalTransactionRevenue & 0.65                      & 0.44                           & 1                                            & 0.44                            & 0.03                                & -0.06                                & 0.42                           \\ \hline
-timeOnSite              & 0.69                      &\cellcolor{green!15} 0.82                           & 0.44                                         & 1                               & 0.02                                & -0.17                                & 0.47                           \\ \hline
-browser\_width          & -0.04                     & 0.07                           & 0.03                                         & 0.02                            & 1                                   & \cellcolor{green!15}0.77                                 & -0.02                          \\ \hline
-browser\_height         & -0.18                     & -0.11                          & -0.06                                        & -0.17                           &\cellcolor{green!15} 0.77                                & 1                                    & -0.19                          \\ \hline
-itemCount               & 0.56                      & 0.45                           & 0.42                                         & 0.47                            & -0.02                               & -0.19                                & 1                              \\ \hline
+\begin{table}[ht] 
+\begin{adjustbox}{width=1\textwidth} 
+\small 
+\begin{tabular}{|l|c|c|c|c|c|c|c|} 
+\hline 
+& \multicolumn{1}{l|}{Hits} & \multicolumn{1}{l|}{pageviews} &  
+\multicolumn{1}{l|}{totalTransactionRevenue} & \multicolumn{1}{l|}{timeOnSite} & 
+\multicolumn{1}{l|}{browser\_width} & \multicolumn{1}{l|}{browser\_height} &  \multicolumn{1}{l|}{itemCount} \\ \hline 
+hits & 1 & \cellcolor{green!15} 0.74 & 0.65 & 0.69 & -0.04 & -0.18 & 0.56 \\ \hline pageviews & \cellcolor{green!15}0.74 & 1 & 0.44 & \cellcolor{green!15}0.82 & 0.07 & -0.11 & 0.45 \\ \hline 
+totalTransactionRevenue & 0.65 & 0.44 & 1 & 0.44 & 0.03 & -0.06 & 0.42 \\ \hline timeOnSite & 0.69 &\cellcolor{green!15} 0.82 & 0.44 & 1 & 0.02 & -0.17 & 0.47 \\ \hline browser\_width & -0.04 & 0.07 & 0.03 & 0.02 & 1 & \cellcolor{green!15}0.77 & -0.02 \\ \hline browser\_height & -0.18 & -0.11 & -0.06 & -0.17 &\cellcolor{green!15} 0.77 & 1 & -0.19 \\ \hline itemCount & 0.56 & 0.45 & 0.42 & 0.47 & -0.02 & -0.19 & 1 \\ \hline 
+\end{tabular} 
+\end{adjustbox} 
+\end{table} 
+Nous créons une table de contingence pour voir sur quel type d'appareil se trouvent les transactions  présentées par le navigateur. Nous observons que Chrome Mobile est un navigateur pour  téléphones mobiles et tablets et chrome un navigateur juste pour desktop, en revanche, Safari est  un navigateur transversal aux dispositifs. 
+\begin{table}[ht] 
+\begin{adjustbox}{width=1\textwidth} 
+\small 
+\begin{tabular}{|l|c|c|c|c|c|c|c|} 
+\hline 
+& \multicolumn{1}{l|}{Chrome} & \multicolumn{1}{l|}{Chrome Mobile} & \multicolumn{1}{l|}{Edge}  & \multicolumn{1}{l|}{Firefox} & \multicolumn{1}{l|}{Internet Explorer} &  
+\multicolumn{1}{l|}{Safari} & \multicolumn{1}{l|}{Samsung Browser} \\ \hline Desktop & 353 & 0 & 29 & 61 & 8 & 58 & 0 \\ \hline 
+Mobile Phone & 0 & 178 & 0 & 1 & 0 & 134 & 23 \\ \hline 
+Tablet & 0 & 9 & 1 & 0 & 0 & 25 & 5 \\ \hline 
+\end{tabular} 
+\end{adjustbox} 
+\end{table} 
+Nous avons décidé de supprimer les transactions pour les navigateurs Iron, MIUI Browser et Opera,  car il n'y a que 1 ou 2 transactions pour ce navigateur dans l’échantillon. Les résultats pour ce  navigateur ne sont pas représentatifs. 
+\begin{table}[ht] 
+\begin{adjustbox}{width=0.4\textwidth} 
+\begin{tabular}{|l|c|c|c|} 
+\hline 
+& \multicolumn{1}{l|}{Iron} & \multicolumn{1}{l|}{MIUI} & \multicolumn{1}{l|}{Opera} \\ \hline Desktop & 1 & 0 & 2 \\ \hline 
+Mobile & 0 & 1 & 0 \\ \hline
+Tablet & 0 & 0 & 0 \\ \hline 
+\end{tabular} 
+\end{adjustbox} 
+\end{table} 
+\begin{table}[!hbtp] 
+\caption{ \emph{deviceCategory} et le \emph{operatingSys} en pourcentages}  \begin{adjustbox}{width=0.6\textwidth} 
+\begin{tabular}{|l|c|c|c|} 
+\hline 
+& \multicolumn{1}{l|}{Desktop} & \multicolumn{1}{l|}{Mobile} & \multicolumn{1}{l|}{Tablet} \\ \hline 
+Android & 0 & 93.9 & 6.1 \\ \hline 
+iOS & 0 & 83.5 & 16.5 \\ \hline 
+Linux & 100 & 0 & 0 \\ \hline 
+OS X & 100 & 0 & 0 \\ \hline 
+Windows 10 & 100 & 0 & 0 \\ \hline 
+Windows 7 & 100 & 0 & 0 \\ \hline 
+Windows 8 & 100 & 0 & 0 \\ \hline 
+Windows 8.1 & 100 & 0 & 0 \\ \hline 
+Windows Vista & 100 & 0 & 0 \\ \hline 
+All & 57.6 & 37.9 & 4.5 \\ \hline 
+\end{tabular} 
+\end{adjustbox} 
+\label{table:deviceCategoryoperatingSys} 
+\end{table} 
+Nous voulons croiser la catégorie \emph{deviceCategory} et le \emph{operatingSys}, on hypothétise  qu'elles sont liées. Dans le tableau ~\ref{table:deviceCategoryoperatingSys} on représente les  effectifs dans le tableau en pourcentages pour mieux interpréter. 
+\begin{table}[!hbtp] 
+\caption{statistique de test}  
+\begin{center} 
+\begin{tabular}{lcccc} 
+\hline\hline 
+\multicolumn{1}{c}{Desktop}&\multicolumn{1}{c}{Mobile}&\multicolumn{1}{c}{Tablet}&\multicolum n{1}{c}{Resultat}\tabularnewline 
+\multicolumn{1}{c}{{\scriptsize $N=512$}}&\multicolumn{1}{c}{{\scriptsize  
+$N=337$}}&\multicolumn{1}{c}{{\scriptsize $N=40$}}&\tabularnewline 
+\hline 
+57\%&38\%&5\%&$ \chi^{2}_{2}=913.73,~ P=< 2.2e-16 $\tabularnewline 
+\hline 
 \end{tabular}
-\end{adjustbox}
-\end{table}
- 
-Nous créons une table de contigence pour voir sur quel genre d'appareil se trouvent les transactions présentées par navigateur. nous pouvons observer que Chrome Mobile est un navigateur pour téléphones mobiles et tablets et chrome un navigateur juste pour desktop, en revanche,  Safari est un navigateur transversal aux dispositifs.
-\begin{table}[ht]
-\begin{adjustbox}{width=1\textwidth}
-\small
-\begin{tabular}{|l|c|c|c|c|c|c|c|}
-\hline
-             & \multicolumn{1}{l|}{Chrome} & \multicolumn{1}{l|}{Chrome Mobile} & \multicolumn{1}{l|}{Edge} & \multicolumn{1}{l|}{Firefox} & \multicolumn{1}{l|}{Internet Explorer} & \multicolumn{1}{l|}{Safari} & \multicolumn{1}{l|}{Samsung Browser} \\ \hline
-Desktop      & 353                         & 0                                  & 29                        & 61                           & 8                                      & 58                          & 0                                    \\ \hline
-Mobile Phone & 0                           & 178                                & 0                         & 1                            & 0                                      & 134                         & 23                                   \\ \hline
-Tablet       & 0                           & 9                                  & 1                         & 0                            & 0                                      & 25                          & 5                                    \\ \hline
-\end{tabular}
-\end{adjustbox}
-\end{table}
-
-
-Nous avons décidé de supprimer les transactions pour les navigateurs Iron, MIUI Browser et Opera, car il n'y avait que 1 ou 2 transactions pour ce navigateur dans le chantillon, et les résultats pour ce navigateur ne seront pas représentatifs.
-
-
-
-\begin{table}[ht]
-\begin{adjustbox}{width=0.4\textwidth}
-\begin{tabular}{|l|c|c|c|}
-\hline
-        & \multicolumn{1}{l|}{Iron} & \multicolumn{1}{l|}{MIUI} & \multicolumn{1}{l|}{Opera} \\ \hline
-Desktop & 1                         & 0                         & 2                          \\ \hline
-Mobile  & 0                         & 1                         & 0                          \\ \hline
-Tablet  & 0                         & 0                         & 0                          \\ \hline
-\end{tabular}
-\end{adjustbox}
-\end{table}
-
-
-\begin{table}[!hbtp]
-\caption{ \emph{deviceCategory} et le \emph{operatingSys} en pourcentages} 
-\begin{adjustbox}{width=0.6\textwidth}
-\begin{tabular}{|l|c|c|c|}
-\hline
-        & \multicolumn{1}{l|}{Desktop} & \multicolumn{1}{l|}{Mobile} & \multicolumn{1}{l|}{Tablet} \\ \hline
-Android & 0                         & 93.9                         & 6.1                          \\ \hline
-iOS  & 0                         & 83.5                         & 16.5                          \\ \hline
-Linux  & 100                         & 0                         & 0                          \\ \hline
-OS X   & 100                         & 0                         & 0                          \\ \hline
-Windows 10   & 100                         & 0                         & 0                          \\ \hline
-Windows 7   & 100                         & 0                         & 0                          \\ \hline
-Windows 8  & 100                         & 0                         & 0                          \\ \hline
-Windows 8.1  & 100                         & 0                         & 0                          \\ \hline
-Windows Vista   & 100                        & 0                         & 0                          \\ \hline
-All   & 57.6                        & 37.9                        & 4.5                          \\ \hline
-\end{tabular}
-\end{adjustbox}
-\label{table:deviceCategoryoperatingSys}
-\end{table}
-
-on veut croiser la catégorie \emph{deviceCategory} et le \emph{operatingSys}, on a l'hypothèse qu'elles sont liées. Dans le tableau ~\ref{table:deviceCategoryoperatingSys} on represent les effectifs au tableau en pourcentages pour mieux l'interpreter.
-
-
-\begin{table}[!hbtp]
-\caption{statistique de test} 
-\begin{center}
-\begin{tabular}{lcccc}
-\hline\hline
-\multicolumn{1}{c}{Desktop}&\multicolumn{1}{c}{Mobile}&\multicolumn{1}{c}{Tablet}&\multicolumn{1}{c}{Resultat}\tabularnewline
-\multicolumn{1}{c}{{\scriptsize $N=512$}}&\multicolumn{1}{c}{{\scriptsize $N=337$}}&\multicolumn{1}{c}{{\scriptsize $N=40$}}&\tabularnewline
-\hline
-57\%&38\%&5\%&$ \chi^{2}_{2}=913.73,~ P=< 2.2e-16  $\tabularnewline
-\hline
-\end{tabular}
-\end{center}
-\label{table:testChiDeux}
-\end{table}
-
-
-Comme nous travaillons avec un échantillon et non la population entière, nous pouvons compléter ce tableau croisé par un test d'indépendance de \emph{khi-deux}. Cela nous permet de tester, et éventuellement de rejeter, l'hypothèse d'indépendance des lignes et des colonnes du tableau, c'est-à-dire l'hypothèse selon laquelle les écarts observés par rapport à l'indépendance sont uniquement dus à un biais d'échantillonnage. Dans le tableau ~\ref{table:testChiDeux} la statistique de test est plus élevée que la valeur  \emph{khi-deux}, donc on ne peut maintenir l'hypothèse selon laquelle le type de dispositif n'a aucun lien avec le système d'exploitation.
-
-
-
-
+\end{center} 
+\label{table:testChiDeux} 
+\end{table} 
+Comme nous travaillons avec un échantillon et non une population entière, nous pouvons compléter  ce tableau croisé par un test d'indépendance de \emph{khi-deux}. Cela nous permet de tester, et  éventuellement de rejeter, l'hypothèse d'indépendance des lignes et des colonnes du tableau, c'est à-dire l'hypothèse selon laquelle les écarts observés par rapport à l'indépendance sont uniquement  dus à un biais d'échantillonnage. Dans le tableau ~\ref{table:testChiDeux} la statistique de test est  plus élevée que la valeur \emph{khi-deux}, donc on ne peut pas maintenir l'hypothèse selon laquelle  le type de dispositif n'a aucun lien avec le système d'exploitation. 
