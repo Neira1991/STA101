@@ -1,26 +1,38 @@
+
+
 \documentclass[12pt, a4paper]{article}
+\usepackage[table]{xcolor}
 \usepackage[utf8]{inputenc}
 \usepackage{multirow}
 \usepackage{longtable}
+\usepackage{subfig}
+\usepackage{graphicx}
+\usepackage{eurosym}
+\usepackage{pagecolor}
+\usepackage{adjustbox}
+\usepackage{float}
+
+
+\pagecolor{white}
+
+
 
 \title{STA101 - FOAD : Analyse des données}
 \author{Jhon Steven Neira}
 \date{February 2022}
 
-  
+
 \begin{document}
   
 \maketitle
   
 \tableofcontents
 
-\section{Introduction}
-   
-\input{sections/introduction}
-
-
 \section{Récolte des  données }
 \input{sections/collect}
+
+\section{Objectif}
+\input{sections/objectif}
 
 
 \section{Étude préliminaire}
@@ -34,8 +46,13 @@
 \section{Analyse biivariée}
 \input{sections/bivariate}
 
+\section{Choix des variables}
+\input{sections/choix_variables}
 
-\section{Classification non supervisée }
+\section{AFDM }
+\input{sections/afdm}
+
+\section{Clasification }
 \input{sections/clasification}
 
 \section{Conclusion }
@@ -43,3 +60,6 @@
 
          
 \end{document}
+
+
+

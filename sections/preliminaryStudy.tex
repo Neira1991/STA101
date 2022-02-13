@@ -1,67 +1,37 @@
 % !TEX root = preliminaryStudy.tex
 
 \subsection{Nettoyage des données}
-Nous avons 309 individues sans city don on va supprimer cette variable.
+Nous disposons de 1000 sessions d'individus qui ont effectué au moins une transaction, nous avons  trouvé quelques individus qui apparaissent deux fois dans l'échantillon pour cela, nous avons trié et  retiré les doublons et nous somme arriver à un résultat de 889 sessions pour nous permettre de  travailler avec des données d'individus différents pour éviter de polluer les données. 
+
+Dans la base de données, il y avait des erreurs pour certains individus où le \textit{Payment method}  était écrit deux fois, nous avons donc créé une fonction qui nous permet de détecter s'il s'agit d'une paiement a travers de \textit{Paypal} , avec \textit{crédit card}   ou avec un \textit{gift}.
 
 \subsection{Description des données}
-Ci-dessous se trouve une description de chacune des variables de l'ensemble de données, à l'exception de la variable \textit{fullVisitorId} lequelle est un hash composé de 16 caractères alphanumériques pour identifier le visiteur.
+Ci-dessous, se trouve une description de chacune des variables de l'ensemble de données, à  l'exception de la variable \textit{fullVisitorId} laquelle est un hash composé de 16 caractères  alphanumériques pour identifier le visiteur. On réalise ensuite quelques modifications du jeu de  données pour en faciliter l'interprétation. 
 
 
 
-\begin{center}
-\begin{longtable}{ |p{3cm}||p{3cm}|p{2cm}|p{5cm}|  }
- \hline
- \multicolumn{4}{|c|}{Variables} \\
- \hline
- Nom & Type &Intervalle&Définition\\
- \hline
- hits   & Quantitative discrète  &[9,800]&  Les hits sont les interactions des utilisateurs sur le site web.\\
-New visit &   Binaire   & [0, 1]   & C'est la première visite sur le site.\\
-Page views&   Quantitative discrète  & [1, 137]   &Est une page chargée (ou rechargée) dans un navigateur.\\
-Total transaction revenue & Quantitative continue  &[8.950, 871.380]&  Le revenu associé à la transaction. Cette valeur peut inclure les frais d'expédition, les taxes ou d'autres ajustements du revenu.\\
-Transactions    &Quantitative discrète  & [1, 6] &  Nombre de transactions du client.\\
-Time on site&   Quantitative continue  & [68, 8558]& Temps sur le site avant d'effectuer la transaction \\
- Browser name& Qualitative nominal  & -   & Nom du navigateur web.\\
- Browser width& Quantitative continue  & [320, 2560]& La largeur de la fenêtre du navigateur \\
- Browser height& Quantitative continue  & [280, 1356]& La hauteur de la fenêtre du navigateur\\
- Device category& Qualitative nominal   & -&Le dispositif par lequel l'utilisateur a effectué la transaction.\\
- Operating system& Qualitative nominal  & -&Le système d'exploitation par lequel l'utilisateur a effectué la transaction\\
- Language& Qualitative nominal  & -& La langue du navigateur au moment de la transaction.\\
- Country& Qualitative nominal   & -& Le pays depuis où l'utilisateur a effectué la transaction.\\
- Payment method& Qualitative nominal   & -&  Représente  ce que l'utilisateur a utilisé pour payer la transaction.\\
- Item count& Quantitative discrète  & [1, 18]& Un item représente un produit individuel acheté dans le cadre de la transaction. \\
- \hline
-\end{longtable}
-\end{center}
+\begin{center} 
+\begin{longtable}{ |p{3cm}||p{3cm}|p{2cm}|p{5cm}| } 
+\hline 
+\multicolumn{4}{|c|}{Variables} \\ 
+\hline 
+Nom & Type &Intervalle&Définition\\ 
+\hline 
+hits & Quantitative discrète &[9,800]&Nombre d’intéractions des utilisateurs sur le site web.\\ New visit & Binaire & [0, 1] & 1 pour une nouvelle visite et 0 pour un ancien utilisateur. \\ Page views& Quantitative discrète & [1, 137] & Nombre de page chargée (ou rechargée) dans un  navigateur.\\
+Total transaction revenue & Quantitative continue &[8.950, 871.380]& Le revenu associé à la  transaction. Cette valeur peut inclure les frais d'expédition, les taxes ou d'autres ajustements du  revenu.\\ 
+Transactions &Quantitative discrète & [1, 6] & Nombre de transactions du client dans la session.\\ Time on site& Quantitative continue & [68, 8558]& Temps écoulé sur le site avant d'effectuer une  transaction \\ 
+Browser name& Qualitative nominal & - & Nom du navigateur web.\\ 
+Browser width& Quantitative continue & [320, 2560]& Largeur de la fenêtre du navigateur \\ Browser height& Quantitative continue & [280, 1356]& Hauteur de la fenêtre du navigateur\\ Device category& Qualitative nominal & -&Dispositif par lequel l'utilisateur a effectué la  transaction.\\ 
+Operating system& Qualitative nominal & -&Système d'exploitation par lequel l'utilisateur a effectué  la transaction\\ 
+Language& Qualitative nominal & -& Langue du navigateur au moment de la transaction.\\ Country& Qualitative nominal & -& Pays duquel l'utilisateur a effectué la transaction.\\ Payment method& Qualitative nominal &Credit card , gift, paypal, NA & Type de payement pour  payer la transaction.\\ 
+Item count& Quantitative discrète & [1, 18]& Nombre de produits acheté dans le cadre de la  transaction. \\ 
+\hline 
+\end{longtable} 
+\end{center}  
+
 
 \subsection{Description des variables}
-
-\subsection{Études des variables quantitatives}
-
-\begin{table}[!htbp] \centering 
-  \caption{} 
-  \label{} 
-\begin{tabular}{@{\extracolsep{5pt}}lccccccc} 
-\\[-1.8ex]\hline 
-\hline \\[-1.8ex] 
-Statistic & \multicolumn{1}{c}{Mean} & \multicolumn{1}{c}{St. Dev.} & \multicolumn{1}{c}{Min} & \multicolumn{1}{c}{Max} \\ 
-\hline \\[-1.8ex] 
-hits & 86.618 & 99.984 & 9 & 800 \\ 
-newVisits & 0.692 & 0.462 & 0  & 1 \\ 
-pageviews & 16.313 & 14.863 & 1  & 137 \\ 
-totalTransactionRevenue & 92,534.270 & 81,442.280 & 8,950  & 871,380 \\ 
-transactions & 1.107 & 0.483 & 1 & 6 \\ 
-timeOnSite & 888.189 & 959.672 & 0  & 7,547 \\ 
-browser\_width & 1,146.060 & 653.819 & 320 & 2,560 \\ 
-browser\_height & 764.110 & 156.292 & 280  & 1,356 \\ 
-itemCount & 4.019 & 3.252 & 1  & 18 \\ 
-\hline \\[-1.8ex] 
-\end{tabular} 
-\end{table} 
-
-
-\subsection{Études des variables qualitatives}
+Tout d'abord, ce rapport comportera une analyse univariée de chacune des variables quantitatives  et qualitatives qui font partie du jeu de données, ensuite il passera à l'analyse bivariée pour vérifier  des liens entre les variables quantitatives mesurées par la corrélation linéaire. 
 
 
 
-Praesent imperdiet mi necante...
